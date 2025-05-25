@@ -1,0 +1,34 @@
+{
+  "encounters": {
+    "3": [
+      "Abra",
+      "Poochyena",
+      "Zigzagoon",
+      "Taillow",
+      "Nincada",
+      "Whismur",
+      "Skitty"
+    ],
+    "oras": [
+      "Zigzagoon",
+      "Taillow",
+      "Nincada",
+      "Whismur",
+      "Skitty",
+      "Eevee",
+      "Pidove",
+      "Joltik"
+    ]
+  },
+  "number": "116",
+  "size": "290",
+  "generation": "3",
+  "image": "Hoenn Route 116 ORAS.png",
+  "imageIII": "Hoenn Route 116 RS.png",
+  "type": "land",
+  "mapdesc": "A path that many workers take on their daily commute between Rustboro City and Rusturf Tunnel.",
+  "west": "Rustboro City",
+  "east": "Rusturf Tunnel",
+  "cut": "yes",
+  "region": "Hoenn"
+}

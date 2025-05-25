@@ -1,0 +1,38 @@
+{
+  "encounters": {
+    "7": [
+      "Raticate",
+      "Paras",
+      "Ledian",
+      "Ariados",
+      "Pancham",
+      "Trumbeak",
+      "Gumshoos",
+      "Morelull",
+      "Komala",
+      "Vigoroth"
+    ],
+    "usum": [
+      "Parasect",
+      "Ledian",
+      "Ariados",
+      "Pancham",
+      "Trumbeak",
+      "Shiinotic",
+      "Komala",
+      "Monferno"
+    ]
+  },
+  "number": "11",
+  "size": "240",
+  "generation": "7",
+  "image": "Alola Route 11.png",
+  "type": "land",
+  "slogan": "A calm path well suited to silence.",
+  "mapdesc": "One of the routes that connects Malie City with the nature surrounding it. This one leads to a rough mountain trail.",
+  "north": "Malie City",
+  "east": "Route 12",
+  "regioneast": "Alola",
+  "region": "Alola",
+  "mapsize": "250px"
+}

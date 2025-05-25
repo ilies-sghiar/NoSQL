@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Hano Grand Resort SM.png",
+  "type": "building",
+  "location_name": "Hano Grand Resort",
+  "japanese_name": "\u30cf\u30ce\u30cf\u30ce\u30ea\u30be\u30fc\u30c8",
+  "translated_name": "Hanohano Resort",
+  "location": "[[Akala Island]]",
+  "mapdesc": "The biggest of all the resorts in the Alola region. The hotel is fully booked a year in advance.<br>'''Hano Grand Hotel''': One of the best resorts in the Alola region. Everybody talks about this five-star hotel.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

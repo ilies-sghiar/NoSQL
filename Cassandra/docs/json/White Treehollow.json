@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "White Treehollow B2W2.png",
+  "image_size": "256",
+  "location_name": "White Treehollow",
+  "japanese_name": "{{tt|\u767d\u306e\u6a39\u6d1e|\u3057\u308d\u306e\u3058\u3085\u3069\u3046}}",
+  "translated_name": "White Tree Hollow",
+  "type": "white",
+  "location": "[[White Forest]]",
+  "region": "Unova",
+  "generation": "{{Gen|V}}",
+  "map": "Unova Black City White Forest Black Tower White Treehollow Map.png"
+}

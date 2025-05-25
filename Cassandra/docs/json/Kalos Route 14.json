@@ -1,0 +1,32 @@
+{
+  "encounters": {
+    "6": [
+      "Weepinbell",
+      "Haunter",
+      "Quagsire",
+      "Skorupi",
+      "Carnivine",
+      "Karrablast",
+      "Shelmet",
+      "Goomy",
+      "Ekans",
+      "Bellsprout",
+      "Stunfisk",
+      "Poliwag",
+      "Poliwhirl",
+      "Barboach",
+      "Whiscash"
+    ]
+  },
+  "number": "14",
+  "image": "Kalos Route 14 XY.png",
+  "size": "200",
+  "generation": "6",
+  "cut": "yes",
+  "surf": "yes",
+  "type": "marsh",
+  "mapdesc": "The lush trees and boggy swamps of this trail give off an eerie vibe, even in broad daylight.",
+  "north": "Laverre City",
+  "south": "Lumiose City",
+  "region": "Kalos"
+}

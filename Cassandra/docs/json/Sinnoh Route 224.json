@@ -1,0 +1,37 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Gloom",
+      "Weepinbell",
+      "Beautifly",
+      "Roselia",
+      "Buizel",
+      "Floatzel",
+      "Shellos",
+      "Gastrodon",
+      "Chatot",
+      "Tentacruel",
+      "Pelipper",
+      "Magikarp",
+      "Remoraid",
+      "Gyarados",
+      "Octillery",
+      "Luvdisc",
+      "Natu",
+      "Duskull",
+      "Dusclops"
+    ]
+  },
+  "number": "224",
+  "size": "250",
+  "image": "Sinnoh Route 224 DP.png",
+  "imageIV": "Sinnoh Route 224 DP.png",
+  "type": "land",
+  "surf": "yes",
+  "west": "Victory Road (Sinnoh)",
+  "westalt": "Victory Road",
+  "north": "Seabreak Path",
+  "mapdesc": "With grass fields, rocky outcroppings, the sea, and sandbars, this area is like a miniature of the Sinnoh Region. ",
+  "region": "Sinnoh",
+  "generation": "4"
+}

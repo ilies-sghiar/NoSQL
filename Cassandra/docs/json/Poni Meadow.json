@@ -1,0 +1,36 @@
+{
+  "encounters": {
+    "7": [
+      "Cottonee",
+      "Petilil",
+      "Oricorio",
+      "Ribombee",
+      "Magikarp",
+      "Dratini",
+      "Barboach",
+      "Leavanny"
+    ],
+    "usum": [
+      "Cottonee",
+      "Petilil",
+      "Oricorio",
+      "Ribombee",
+      "Floette",
+      "Misdreavus",
+      "Magikarp",
+      "Dratini",
+      "Barboach",
+      "Leavanny"
+    ]
+  },
+  "image": "Poni Meadow SM.png",
+  "type": "fog",
+  "location_name": "Poni Meadow",
+  "japanese_name": "\u30dd\u30cb\u306e{{tt|\u82b1\u5712|\u306f\u306a\u305e\u306e}}",
+  "translated_name": "Poni Flower Garden",
+  "location": "Northeast of [[Poni Plains]]<br>South of [[Resolution Cave]]",
+  "mapdesc": "A place where purple flowers bloom in abundance. You can gather the nectar Oricorio loves to feed on here.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

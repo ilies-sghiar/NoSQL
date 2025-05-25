@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Glittering Cave XY.png",
+  "image_size": "250",
+  "location_name": "Glittering Cave",
+  "japanese_name": "{{tt|\u8f1d\u304d\u306e\u6d1e\u7a9f|\u304b\u304c\u3084\u304d\u306e\u3069\u3046\u304f\u3064}}",
+  "translated_name": "Glittering Cave",
+  "type": "cave",
+  "location": "North of {{rt|9|Kalos}}",
+  "region": "Kalos",
+  "mapdesc": "Lose all sense of direction as you wander though this cave, where Luminous Moss glows emerald green.",
+  "generation": "{{Gen|VI}}"
+}

@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Desert Ruins ORAS.png",
+  "image_size": "300",
+  "type": "Ruins",
+  "location_name": "Desert Ruins",
+  "japanese_name": "{{tt|\u7802\u6f20\u907a\u8de1|\u3055\u3070\u304f\u3044\u305b\u304d}}",
+  "translated_name": "Desert Ruins",
+  "location": "{{rt|111|Hoenn}}",
+  "region": "Hoenn",
+  "generation": "{{gen|III}}, {{gen|VI}}"
+}

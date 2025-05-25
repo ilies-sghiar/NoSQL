@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Newmoon Island Pt.png",
+  "image_size": "300",
+  "type": "land",
+  "location_name": "Newmoon Island",
+  "japanese_name": "{{tt|\u65b0\u6708\u5cf6|Shingetsu Jima}}",
+  "translated_name": "New Moon Island",
+  "location": "Off the west coast of [[Sinnoh]]",
+  "mapdesc": "A small, round pond that lies inside a closed-off forest.",
+  "region": "Sinnoh",
+  "generation": "{{Gen|IV}}, {{Gen|VIII}}"
+}

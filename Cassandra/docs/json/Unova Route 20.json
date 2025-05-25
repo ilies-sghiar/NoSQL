@@ -1,0 +1,18 @@
+{
+  "encounters": {},
+  "number": "20",
+  "image": "Unova Route 20 Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "generation": "5",
+  "mapdesc": "In {{season|autumn}}, fallen leaves accumulate and hide the ground beneath.{{sup/5|B2W2}}",
+  "type": "forest",
+  "west": "Floccesy Town",
+  "north": "Floccesy Ranch",
+  "east": "Virbank City",
+  "region": "Unova",
+  "prev": "Route 19",
+  "regionprev": "Unova",
+  "next": "Route 21",
+  "regionnext": "Unova",
+  "surf": "yes",
+  "waterfall": "yes"
+}

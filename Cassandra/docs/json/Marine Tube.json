@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Marine Tube B2W2.png",
+  "image_size": "256",
+  "type": "underwater",
+  "location_name": "Marine Tube",
+  "japanese_name": "\u30de\u30ea\u30f3\u30c1\u30e5\u30fc\u30d6",
+  "translated_name": "Marine Tube",
+  "mapdesc": "An undersea tunnel built using cutting-edge technology.",
+  "location": "Between [[Undella Town]] and [[Humilau City]]",
+  "region": "Unova",
+  "generation": "{{Gen|V}}"
+}

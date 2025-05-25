@@ -1,0 +1,79 @@
+{
+  "encounters": {
+    "1": [
+      "Squirtle",
+      "Farfetch'd",
+      "Magikarp",
+      "Poliwag",
+      "Goldeen",
+      "Tentacool",
+      "Shellder",
+      "Krabby",
+      "Horsea",
+      "Staryu"
+    ],
+    "2": [
+      "Tentacool",
+      "Tentacruel",
+      "Magikarp",
+      "Shellder",
+      "Chinchou",
+      "Lanturn"
+    ],
+    "fl": [
+      "Farfetch'd",
+      "Tentacool",
+      "Magikarp",
+      "Krabby",
+      "Horsea",
+      "Psyduck",
+      "Slowpoke",
+      "Shellder",
+      "Staryu",
+      "Gyarados"
+    ],
+    "hs": [
+      "Diglett",
+      "Shuckle",
+      "Spearow",
+      "Heracross",
+      "Combee",
+      "Tentacool",
+      "Tentacruel",
+      "Magikarp",
+      "Shellder",
+      "Chinchou",
+      "Lanturn",
+      "Wingull"
+    ],
+    "pe": [
+      "Squirtle",
+      "Persian",
+      "Arcanine",
+      "Geodude"
+    ]
+  },
+  "name": "Vermilion City",
+  "jpname": "\u30af\u30c1\u30d0\u30b7\u30c6\u30a3",
+  "jptrans": "Kuchiba City",
+  "image": "Vermilion City PE.png",
+  "imageI": "Vermilion City RBY.png",
+  "imageII": "Vermilion City GSC.png",
+  "imageIII": "Vermilion City FRLG.png",
+  "slogan": "The Port of Exquisite Sunsets",
+  "mapdesc": "A southern city that is bathed in orange by the setting sun.{{sup/4|HGSS}}<br>The international port town where magnificent boats gather from across the world.{{sup/7|PE}}",
+  "region": "Kanto",
+  "north": "Route 6",
+  "east": "Route 11",
+  "regionnorth": "Kanto",
+  "regioneast": "Kanto",
+  "gym": "Vermilion Gym",
+  "gymno": "3",
+  "leader": "Lt. Surge",
+  "leadervs": "VSLt Surge PE.png{{!}}80x80px",
+  "badge": "Thunder",
+  "gymtype": "Electric",
+  "colordark": "F8700E",
+  "colormed": "f99349",
+  "colorlight": "FBB786"
+}

@@ -1,0 +1,37 @@
+{
+  "encounters": {
+    "2": [
+      "Zubat",
+      "Slowpoke",
+      "Goldeen",
+      "Magikarp",
+      "Seaking",
+      "Golbat",
+      "Slowbro"
+    ],
+    "hs": [
+      "Zubat",
+      "Slowpoke",
+      "Goldeen",
+      "Magikarp",
+      "Seaking",
+      "Makuhita",
+      "Absol",
+      "Chingling",
+      "Bronzor",
+      "Golbat",
+      "Slowbro"
+    ]
+  },
+  "type": "cave",
+  "image": "HGSS Slowpoke Well-{{#switch: {{#time: G}}|4|5|6|7|8|9=Morning|10|11|12|13|14|15|16=Day|17|18|19=Evening|20|21|22|23|0|1|2|3=Night}}.png",
+  "image_size": "256",
+  "mapdesc": "When Slowpoke are thirsty, they come here to drink.",
+  "location_name": "Slowpoke Well",
+  "japanese_name": "\u30e4\u30c9\u30f3\u306e\u3044\u3069",
+  "translated_name": "Yadon Well",
+  "other_info": "Rainmaker Well",
+  "location": "[[Azalea Town]]",
+  "region": "Johto",
+  "generation": "{{Gen|II}}, {{Gen|IV}}"
+}

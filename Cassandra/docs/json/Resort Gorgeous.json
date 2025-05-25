@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "fl": [
+      "Horsea",
+      "Qwilfish",
+      "Krabby",
+      "Remoraid",
+      "Gyarados",
+      "Seadra",
+      "Kingler",
+      "Psyduck",
+      "Slowpoke"
+    ]
+  },
+  "name": "Resort Gorgeous",
+  "jpname": "\u30b4\u30fc\u30b8\u30e3\u30b9\u30ea\u30be\u30fc\u30c8",
+  "jptranslit": "Gorgeous Resort",
+  "jptrans": "Gorgeous Resort",
+  "size": "290",
+  "generation": "3",
+  "image": "ResortGorgeous.png",
+  "type": "ocean",
+  "surf": "yes",
+  "south": "Water Labyrinth",
+  "east": "Lost Cave",
+  "region": "Sevii Islands",
+  "regionmap": "Sevii Islands Resort Gorgeous Map.png",
+  "prev": "Three Isle Path",
+  "next": "Water Labyrinth"
+}

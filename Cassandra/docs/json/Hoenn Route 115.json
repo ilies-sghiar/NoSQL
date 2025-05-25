@@ -1,0 +1,41 @@
+{
+  "encounters": {
+    "3": [
+      "Jigglypuff",
+      "Taillow",
+      "Swellow",
+      "Wingull",
+      "Swablu",
+      "Tentacool",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ],
+    "oras": [
+      "Jigglypuff",
+      "Taillow",
+      "Wingull",
+      "Swablu",
+      "Pidove",
+      "Misdreavus",
+      "Clefairy",
+      "Tentacool",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ]
+  },
+  "number": "115",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 115 ORAS.png",
+  "imageIII": "Hoenn Route 115 RS.png",
+  "type": "mountain",
+  "mapdesc": "This trail to Rustboro City was broken by people who lived at Meteor Falls long ago.",
+  "north": "Meteor Falls",
+  "south": "Rustboro City",
+  "region": "Hoenn",
+  "surf": "yes",
+  "rocksmash": "{{sup/3|RSE}}",
+  "mach": "yes"
+}

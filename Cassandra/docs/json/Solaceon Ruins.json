@@ -1,0 +1,16 @@
+{
+  "encounters": {
+    "la": [
+      "Unown"
+    ]
+  },
+  "image": "Solaceon Ruins BDSP.png",
+  "type": "ruins",
+  "location_name": "Solaceon Ruins",
+  "japanese_name": "\u30ba\u30a4\u306e{{tt|\u907a\u8de1|\u3044\u305b\u304d}}",
+  "translated_name": "Zui Ruins",
+  "location": "East of [[Solaceon Town]]{{sup/4|DPPt}}{{sup/8|BDSP}}<br>Central [[Crimson Mirelands]]{{sup/8|LA}}",
+  "region": "Sinnoh",
+  "generation": "{{gen|IV}}, {{gen|VIII}}",
+  "map": "Sinnoh Solaceon Town Map.png"
+}

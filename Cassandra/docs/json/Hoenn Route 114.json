@@ -1,0 +1,41 @@
+{
+  "encounters": {
+    "3": [
+      "Surskit",
+      "Nuzleaf"
+    ],
+    "oras": [
+      "Lombre",
+      "Nuzleaf",
+      "Surskit",
+      "Swablu",
+      "Zangoose",
+      "Seviper",
+      "Lotad",
+      "Seedot",
+      "Misdreavus",
+      "Skorupi",
+      "Tympole",
+      "Marill",
+      "Azumarill",
+      "Masquerain",
+      "Goldeen",
+      "Magikarp",
+      "Barboach",
+      "Geodude"
+    ]
+  },
+  "number": "114",
+  "size": "290",
+  "generation": "3",
+  "image": "Hoenn Route 114 ORAS.png",
+  "imageIII": "Hoenn Route 114 RS.png",
+  "type": "mountain",
+  "mapdesc": "This mountain path to Meteor Falls is so long and arduous that even Hikers have difficulty tackling it.",
+  "west": "Meteor Falls",
+  "east": "Fallarbor Town",
+  "region": "Hoenn",
+  "surf": "yes",
+  "waterfall": "yes",
+  "rocksmash": "yes"
+}

@@ -1,0 +1,32 @@
+{
+  "encounters": {
+    "6": [
+      "Nidorina",
+      "Nidorino",
+      "Hariyama",
+      "Staravia",
+      "Chingling",
+      "Stunky",
+      "Throh",
+      "Sawk",
+      "Dedenne",
+      "Nidoran\u2640",
+      "Nidoran\u2642",
+      "Starly"
+    ]
+  },
+  "number": "11",
+  "image": "Kalos Route 11 XY.png",
+  "size": "300",
+  "cut": "yes",
+  "generation": "6",
+  "type": "mountain",
+  "mapdesc": "One can feel the power of the earth's interior from the crystals that sprout along this mountain path.",
+  "north": "Reflection Cave",
+  "west": "Geosenge Town",
+  "region": "Kalos",
+  "prev": "Route 10",
+  "regionprev": "Kalos",
+  "next": "Route 12",
+  "regionnext": "Kalos"
+}

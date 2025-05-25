@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Mirage Tower E.png",
+  "image_size": "167",
+  "type": "sand",
+  "location_name": "Mirage Tower",
+  "japanese_name": "\u3052\u3093\u3048\u3044\u306e\u3068\u3046",
+  "translated_name": "Phantom Tower",
+  "location": "{{rt|111|Hoenn}}",
+  "region": "Hoenn",
+  "generation": "{{Gen|III}}{{sup/3|E}}",
+  "map": "Hoenn Route 111 Map.png"
+}

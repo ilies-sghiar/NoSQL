@@ -1,0 +1,14 @@
+{
+  "encounters": {},
+  "image": "XY Lysandre Labs B1F.png",
+  "location_name": "Lysandre Labs",
+  "japanese_name": "\u30d5\u30e9\u30c0\u30ea\u30e9\u30dc",
+  "translated_name": "Fuladari Labs",
+  "type": "Building",
+  "location": "[[Lumiose City|Lysandre Caf\u00e9]]",
+  "region": "Kalos",
+  "generation": "{{Gen|VI}}",
+  "map": "Lumiose City Magenta Plaza Map icon.png",
+  "mapsize": "128px",
+  "mapname": "Lumiose City"
+}

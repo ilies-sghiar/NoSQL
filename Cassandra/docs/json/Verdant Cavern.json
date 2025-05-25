@@ -1,0 +1,28 @@
+{
+  "encounters": {
+    "7": [
+      "Zubat",
+      "Diglett",
+      "Rattata",
+      "Yungoos"
+    ],
+    "usum": [
+      "Zubat",
+      "Diglett",
+      "Noibat",
+      "Rattata",
+      "Yungoos"
+    ]
+  },
+  "image": "Verdant Cavern SM.png",
+  "image_size": "300px",
+  "type": "cave",
+  "location_name": "Verdant Cavern",
+  "japanese_name": "{{tt|\u8302|\u3057\u3052}}\u307f\u306e{{tt|\u6d1e\u7a9f|\u3069\u3046\u304f\u3064}}",
+  "translated_name": "Verdant Cavern",
+  "location": "{{rt|2|Alola}}",
+  "mapdesc": "A cave with a great variety of plants thriving inside it. The light shafting in from above makes for a breathtaking sight.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

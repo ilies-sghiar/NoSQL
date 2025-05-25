@@ -1,0 +1,35 @@
+{
+  "encounters": {
+    "6": [
+      "Mightyena",
+      "Skorupi",
+      "Watchog",
+      "Liepard",
+      "Foongus",
+      "Pawniard",
+      "Klefki",
+      "Murkrow",
+      "Lombre",
+      "Floatzel",
+      "Poliwag",
+      "Poliwhirl",
+      "Basculin"
+    ]
+  },
+  "number": "15",
+  "image": "Kalos Route 15 XY.png",
+  "size": "300",
+  "generation": "6",
+  "rocksmash": "yes",
+  "strength": "yes",
+  "surf": "yes",
+  "waterfall": "yes",
+  "type": "land",
+  "mapdesc": "This path has become a popular hangout for the wild and directionless youths of Lumiose City.",
+  "west": "Laverre City",
+  "east": "Dendemille Town",
+  "south": "Route 16",
+  "regionsouth": "Kalos",
+  "north": "Lost Hotel",
+  "region": "Kalos"
+}

@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Goldenrod Tunnel HGSS.png",
+  "type": "road",
+  "location_name": "Goldenrod Tunnel",
+  "other_info": "The Underground",
+  "japanese_name": "\u30b3\u30ac\u30cd\u3061\u304b\u3064\u3046\u308d",
+  "translated_name": "Kogane Tunnel",
+  "location": "Downtown [[Goldenrod City]]",
+  "region": "Johto",
+  "map": "Johto Goldenrod City Map.png",
+  "generation": "{{gen|II}}, {{gen|IV}}"
+}

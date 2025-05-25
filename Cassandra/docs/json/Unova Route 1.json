@@ -1,0 +1,25 @@
+{
+  "encounters": {
+    "5-2": [
+      "Basculin",
+      "Feebas",
+      "Milotic",
+      "Farfetch'd"
+    ]
+  },
+  "number": "1",
+  "image": "Unova Route 1 {{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}} BW.png",
+  "generation": "5",
+  "type": "land",
+  "mapdesc": "A small road by the shore, where you can enjoy the seascape in peace.{{sup/5|BW}}<br><br>A small road by the shore, where you can enjoy the changing seasons.{{sup/5|B2W2}}",
+  "north": "Accumula Town",
+  "south": "Nuvema Town",
+  "west": "Route 17",
+  "regionwest": "Unova",
+  "region": "Unova",
+  "prev": "Route 230",
+  "regionprev": "Sinnoh",
+  "next": "Route 2",
+  "regionnext": "Unova",
+  "surf": "yes"
+}

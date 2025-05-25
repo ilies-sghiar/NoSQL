@@ -1,0 +1,44 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer",
+      "Sharpedo",
+      "Chinchou",
+      "Clamperl",
+      "Relicanth"
+    ],
+    "oras": [
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Finneon",
+      "Frillish",
+      "Alomomola",
+      "Magikarp",
+      "Wailmer",
+      "Chinchou",
+      "Lanturn",
+      "Clamperl",
+      "Relicanth"
+    ]
+  },
+  "number": "126",
+  "type": "ocean",
+  "mapdesc": "Even a pro swimmer would need three entire days to circuit around the crater containing Sootopolis City.",
+  "surf": "yes",
+  "dive": "yes",
+  "image": "Hoenn Route 126 ORAS.png",
+  "imageIII": "Hoenn Route 126 RSE.png",
+  "north": "Route 124",
+  "regionnorth": "Hoenn",
+  "east": "Route 127",
+  "regioneast": "Hoenn",
+  "south": "Secret Islet",
+  "southalt": "Secret Islet{{tt|*|Omega Ruby and Alpha Sapphire}}",
+  "region": "Hoenn",
+  "generation": "3"
+}

@@ -1,0 +1,16 @@
+{
+  "encounters": {
+    "5": [
+      "Tyrogue"
+    ]
+  },
+  "number": "10",
+  "image": "Unova Route 10 Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> BW.png",
+  "type": "land",
+  "region": "Unova",
+  "mapdesc": "A road leading to the Badge Check Gates, chock full of showoffs.",
+  "north": "Victory Road (Black and White)",
+  "northalt": "Victory Road",
+  "south": "Opelucid City",
+  "generation": "5"
+}

@@ -1,0 +1,28 @@
+{
+  "encounters": {
+    "5": [
+      "Krabby",
+      "Clamperl",
+      "Luvdisc",
+      "Relicanth",
+      "Kingler",
+      "Huntail",
+      "Gorebyss",
+      "Hippopotas"
+    ]
+  },
+  "number": "4",
+  "size": "256",
+  "image": "Unova Route 4 {{#switch: {{#expr: {{#time: n}} mod 2}}|0=B2|1=W2}}.png",
+  "generation": "5",
+  "mapdesc": "A {{Weather|sandstorm}} delayed the road construction to connect two cities.{{sup/5|BW}}<br>The [[route]] that was once covered in sand has a lot of buildings now.{{sup/5|B2}}<br>Development was suspended after the ruins were discovered.{{sup/5|W2}}",
+  "type": "sand",
+  "north": "Nimbasa City",
+  "northalt": "Nimbasa City{{tt|*|Black and White}}",
+  "north2": "Join Avenue",
+  "north2alt": "Join Avenue{{tt|*|Black 2 and White 2}}",
+  "south": "Castelia City",
+  "west": "Desert Resort",
+  "region": "Unova",
+  "surf": "yes"
+}

@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Dreamyard Ruins Summer B2W2.png",
+  "location_name": "Dreamyard",
+  "japanese_name": "{{tt|\u5922\u306e\u8de1\u5730|\u3086\u3081\u306e\u3042\u3068\u3061}}",
+  "translated_name": "Dream Ruins",
+  "type": "forest",
+  "mapdesc": "A plant site used as a playground for children and Pok\u00e9mon.",
+  "location": "East of [[Striaton City]]",
+  "region": "Unova",
+  "generation": "{{Gen|V}}"
+}

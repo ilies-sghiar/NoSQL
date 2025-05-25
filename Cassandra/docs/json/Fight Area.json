@@ -1,0 +1,19 @@
+{
+  "encounters": {},
+  "name": "Fight Area",
+  "jpname": "\u30d5\u30a1\u30a4\u30c8\u30a8\u30ea\u30a2",
+  "jptrans": "Fight Area",
+  "image": "Fight Area BDSP.png",
+  "image_size": "256",
+  "slogan": "Battles Galore",
+  "region": "Sinnoh",
+  "north": "Route 225",
+  "regionnorth": "Sinnoh",
+  "east": "Route 230",
+  "regioneast": "Sinnoh",
+  "mapdesc": "A tiny port town where Trainers who love battling more than eating gather.{{sup/4|DP}}{{sup/8|BDSP}}<br>The gateway to the Battle Park is located here.{{sup/4|DP}}{{sup/8|BDSP}}<br>A tiny port city where Trainers who love battling more than eating gather.{{sup/4|Pt}}<br>The gateway to the Battle Frontier is located here.{{sup/4|Pt}}<br>Moored at the pier is the ferry to Snowpoint City.",
+  "colordark": "999",
+  "colormed": "b2b2b2",
+  "colorlight": "CCC",
+  "generation": "4"
+}

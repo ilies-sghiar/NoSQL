@@ -1,0 +1,35 @@
+{
+  "encounters": {
+    "hs": [
+      "Fearow",
+      "Vulpix",
+      "Gloom",
+      "Diglett",
+      "Growlithe",
+      "Farfetch'd",
+      "Tauros",
+      "Hoppip",
+      "Girafarig",
+      "Exeggcute",
+      "Hoothoot",
+      "Pineco",
+      "Ledyba",
+      "Spinarak",
+      "Plusle",
+      "Minun",
+      "Shinx"
+    ]
+  },
+  "number": "48",
+  "type": "land",
+  "north": "Safari Zone Gate",
+  "south": "Route 47",
+  "regionsouth": "Johto",
+  "region": "Johto",
+  "generation": "4",
+  "mapdesc": "A pleasant path from the base of the mountain to the Safari Zone.",
+  "image": "Johto Route 48 HGSS.png",
+  "size": "310",
+  "next": "Route 101",
+  "regionnext": "Hoenn"
+}

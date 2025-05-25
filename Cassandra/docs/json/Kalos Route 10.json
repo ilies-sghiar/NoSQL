@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "6": [
+      "Eevee",
+      "Snubbull",
+      "Houndour",
+      "Electrike",
+      "Sigilyph",
+      "Emolga",
+      "Golett",
+      "Hawlucha",
+      "Yanma",
+      "Nosepass"
+    ]
+  },
+  "number": "10",
+  "image": "Kalos Route 10 XY.png",
+  "size": "200",
+  "generation": "6",
+  "strength": "yes",
+  "type": "land",
+  "mapdesc": "Countless stones line this mysterious path in such numbers and arrays that it seems overwhelming.",
+  "north": "Geosenge Town",
+  "south": "Cyllage City",
+  "region": "Kalos",
+  "prev": "Route 9",
+  "regionprev": "Kalos",
+  "next": "Route 11",
+  "regionnext": "Kalos"
+}

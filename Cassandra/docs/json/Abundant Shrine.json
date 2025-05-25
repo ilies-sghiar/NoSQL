@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Abundant Shrine Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "type": "land",
+  "location_name": "Abundant Shrine",
+  "japanese_name": "\u307b\u3046\u3058\u3087\u3046\u306e\u3084\u3057\u308d",
+  "translated_name": "Fertility Shrine",
+  "location": "{{rt|14|Unova}}",
+  "mapdesc": "People once lived in this village, and it still feels the same as it did then.",
+  "region": "Unova",
+  "generation": "{{gen|V}}"
+}

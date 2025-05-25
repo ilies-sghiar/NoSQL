@@ -1,0 +1,17 @@
+{
+  "encounters": {},
+  "name": "Frontier Access",
+  "jpname": "\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30d5\u30ed\u30f3\u30c8",
+  "jptrans": "Frontier Front",
+  "image": "Frontier Access HGSS.png",
+  "region": "Johto",
+  "north": "Battle Frontier (Generation IV)",
+  "northalt": "Battle Frontier",
+  "south": "Route 40",
+  "regionsouth": "Johto",
+  "mapdesc": "A place where people from all over come to show off their strength.",
+  "generation": "4",
+  "colordark": "{{tower color dark}}",
+  "colormed": "{{tower color}}",
+  "colorlight": "{{tower color light}}"
+}

@@ -1,0 +1,39 @@
+{
+  "encounters": {
+    "4": [
+      "Starly",
+      "Bidoof"
+    ],
+    "bdsp": [
+      "Starly",
+      "Bidoof",
+      "Psyduck",
+      "Golduck",
+      "Magikarp",
+      "Goldeen",
+      "Seaking",
+      "Gyarados",
+      "Surskit",
+      "Wobbuffet"
+    ],
+    "la": [
+      "Luxio",
+      "Luxray",
+      "Drifblim",
+      "Gyarados",
+      "Staraptor",
+      "Togekiss",
+      "Wormadam",
+      "Magikarp",
+      "Unown"
+    ]
+  },
+  "image": "Lake Verity Pt.png",
+  "type": "Lake",
+  "location_name": "Lake Verity",
+  "japanese_name": "{{tt|\u30b7\u30f3\u30b8\u6e56|Shinji Ko}}",
+  "translated_name": "Shinji Lake",
+  "location": "West end of {{rt|201|Sinnoh}}{{sup/4|DPPt}}{{sup/8|BDSP}} <br>Western [[Obsidian Fieldlands]]{{sup/8|LA}}",
+  "region": "Sinnoh",
+  "generation": "{{gen|IV}}, {{gen|VIII}}"
+}

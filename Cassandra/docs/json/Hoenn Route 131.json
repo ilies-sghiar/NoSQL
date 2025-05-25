@@ -1,0 +1,37 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer",
+      "Sharpedo"
+    ],
+    "oras": [
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Finneon",
+      "Frillish",
+      "Alomomola",
+      "Magikarp",
+      "Wailmer",
+      "Horsea",
+      "Seadra"
+    ]
+  },
+  "number": "131",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 131 ORAS.png",
+  "imageIII": "Hoenn Route 131 RSE.png",
+  "type": "ocean",
+  "mapdesc": "It is the custom in Pacifidlog Town to swim a lap around this route before breakfast.",
+  "surf": "yes",
+  "north": "Sky Pillar",
+  "east": "Route 130",
+  "regioneast": "Hoenn",
+  "west": "Pacifidlog Town",
+  "region": "Hoenn"
+}

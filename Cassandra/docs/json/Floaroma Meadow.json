@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Floaroma Meadow BDSP.png",
+  "type": "land",
+  "image_size": "300",
+  "location_name": "Floaroma Meadow",
+  "japanese_name": "{{tt|\u30bd\u30ce\u30aa\u306e\u82b1\u7551|Sonoo no Hanabatake}}",
+  "translated_name": "Sonoo Flower Field",
+  "location": "In northern [[Floaroma Town]]",
+  "region": "Sinnoh",
+  "generation": "{{gen|IV}}, {{gen|VIII}}",
+  "map": "Sinnoh Floaroma Town Map.png"
+}

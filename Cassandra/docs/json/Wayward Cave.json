@@ -1,0 +1,28 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Zubat",
+      "Geodude",
+      "Bronzor",
+      "Gible"
+    ],
+    "la": [
+      "Barboach",
+      "Whiscash",
+      "Gible",
+      "Crobat",
+      "Zubat",
+      "Golbat",
+      "Unown"
+    ]
+  },
+  "image": "Wayward Cave BDSP.png",
+  "type": "cave",
+  "location_name": "Wayward Cave",
+  "japanese_name": "{{tt|\u8ff7\u3044\u306e\u6d1e\u7a9f|Mayoi no D\u014dkutsu}}",
+  "translated_name": "Bewildering Cave",
+  "location": "Beneath [[Sinnoh Route 206|Sinnoh's Cycling Road]]{{sup/4|DPPt}}{{sup/8|BDSP}} <br>Southern [[Coronet Highlands]]{{sup/8|LA}}",
+  "region": "Sinnoh",
+  "map": "Sinnoh Route 206 Map.png",
+  "generation": "{{gen|IV}}, {{gen|VIII}}"
+}

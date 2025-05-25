@@ -1,0 +1,41 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ],
+    "oras": [
+      "Electrike",
+      "Zigzagoon",
+      "Gulpin",
+      "Oddish",
+      "Wingull",
+      "Minun",
+      "Plusle",
+      "Voltorb",
+      "Magnemite",
+      "Tentacool",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ]
+  },
+  "number": "110",
+  "size": "220",
+  "generation": "3",
+  "image": "Hoenn Route 110 ORAS.png",
+  "imageIII": "Hoenn Route 110 RS.png",
+  "type": "land",
+  "mapdesc": "A timeworn path where nature remains untouched. Above it on this route stretches the huge Cycling Road.",
+  "north": "Mauville City",
+  "west": "Route 103",
+  "regionwest": "Hoenn",
+  "south": "Slateport City",
+  "region": "Hoenn",
+  "surf": "yes",
+  "mach": "{{tt|*|Cannot have Mach Bike and Acro Bike at the same time in Generation III}}",
+  "acro": "{{tt|*|Cannot have Mach Bike and Acro Bike at the same time in Generation III}}"
+}

@@ -1,0 +1,41 @@
+{
+  "encounters": {
+    "3": [
+      "Marill",
+      "Goldeen",
+      "Magikarp",
+      "Corphish"
+    ],
+    "oras": [
+      "Marill",
+      "Azumarill",
+      "Surskit",
+      "Masquerain",
+      "Goldeen",
+      "Magikarp",
+      "Corphish"
+    ]
+  },
+  "name": "Petalburg City",
+  "jpname": "\u30c8\u30a6\u30ab\u30b7\u30c6\u30a3",
+  "jptrans": "Touka City",
+  "image": "Petalburg City ORAS.png",
+  "imageIII": "Petalburg City RS.png",
+  "slogan": "Where people mingle with nature.",
+  "mapdesc": "A whiff of salt is always in the air in this city, which is skirted by the ocean shore.",
+  "region": "Hoenn",
+  "east": "Route 102",
+  "regioneast": "Hoenn",
+  "west": "Route 104",
+  "regionwest": "Hoenn",
+  "gym": "Petalburg Gym",
+  "gymno": "5",
+  "leader": "Norman",
+  "leadersprite": "VSNorman.png{{!}}150px",
+  "badge": "Balance",
+  "gymtype": "Normal",
+  "colordark": "77dc7e",
+  "colormed": "a3e59e",
+  "colorlight": "d0f0c0",
+  "generation": "3"
+}

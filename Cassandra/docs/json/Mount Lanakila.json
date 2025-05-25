@@ -1,0 +1,39 @@
+{
+  "encounters": {
+    "7": [
+      "Sandshrew",
+      "Vulpix",
+      "Sneasel",
+      "Absol",
+      "Snorunt",
+      "Any",
+      "Golbat",
+      "Drampa"
+    ],
+    "usum": [
+      "Raticate",
+      "Sandshrew",
+      "Vulpix",
+      "Absol",
+      "Snorunt",
+      "Gumshoos",
+      "Any",
+      "Sneasel",
+      "Glalie",
+      "Golbat",
+      "Drampa"
+    ]
+  },
+  "image": "Mount Lanakila SM.png",
+  "image_size": "300",
+  "type": "snow",
+  "location_name": "Mount Lanakila",
+  "japanese_name": "\u30e9\u30ca\u30ad\u30e9\u30de\u30a6\u30f3\u30c6\u30f3",
+  "translated_name": "Lanakila Mountain",
+  "other_info": "Victory Road",
+  "location": "[[Ula'ula Island]]",
+  "mapdesc": "The roughest and coldest mountain in the Alola region. A large-scale construction project has been taken up here.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

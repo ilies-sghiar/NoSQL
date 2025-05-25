@@ -1,0 +1,33 @@
+{
+  "encounters": {
+    "4": [
+      "Starly",
+      "Bidoof",
+      "Kricketot",
+      "Doduo",
+      "Nidoran\u2640",
+      "Nidoran\u2642",
+      "Growlithe"
+    ],
+    "bdsp": [
+      "Starly",
+      "Bidoof",
+      "Doduo",
+      "Nidoran\u2640",
+      "Nidoran\u2642"
+    ]
+  },
+  "number": "201",
+  "size": "290",
+  "image": "Sinnoh Route 201 Pt.png",
+  "imageIV": "Sinnoh Route 201 Pt.png",
+  "type": "land",
+  "east": "Sandgem Town",
+  "west": "Verity Lakefront",
+  "south": "Twinleaf Town",
+  "region": "Sinnoh",
+  "prev": "Route 134",
+  "regionprev": "Hoenn",
+  "mapdesc": "A small path through a lush, green, wooded area. The densely grown trees give off a thick aroma.",
+  "generation": "4"
+}

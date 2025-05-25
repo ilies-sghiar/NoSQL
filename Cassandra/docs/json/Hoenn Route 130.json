@@ -1,0 +1,45 @@
+{
+  "encounters": {
+    "3": [
+      "Wynaut",
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer",
+      "Sharpedo"
+    ],
+    "oras": [
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Finneon",
+      "Frillish",
+      "Alomomola",
+      "Magikarp",
+      "Wailmer",
+      "Horsea",
+      "Seadra",
+      "Chinchou",
+      "Lanturn",
+      "Clamperl",
+      "Relicanth"
+    ]
+  },
+  "number": "130",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 130 ORAS.png",
+  "imageIII": "Hoenn Route 130 RSE.png",
+  "type": "ocean",
+  "mapdesc": "This route was once a big topic of conversation due to a strange island that seemed to appear and then disappear.",
+  "surf": "yes",
+  "dive": "{{sup/6|ORAS}}",
+  "north": "Secret Meadow",
+  "northalt": "Secret Meadow{{tt|*|Omega Ruby and Alpha Sapphire}}",
+  "east": "Route 129",
+  "regioneast": "Hoenn",
+  "west": "Route 131",
+  "regionwest": "Hoenn",
+  "region": "Hoenn"
+}

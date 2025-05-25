@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Black Tower B2W2.png",
+  "image_size": "256",
+  "location_name": "Black Tower",
+  "japanese_name": "{{tt|\u9ed2\u306e\u6469\u5929\u697c|\u304f\u308d\u306e\u307e\u3066\u3093\u308d\u3046}}",
+  "translated_name": "Black Skyscraper",
+  "type": "space",
+  "location": "[[Black City]]",
+  "region": "Unova",
+  "generation": "{{Gen|V}}",
+  "map": "Unova Black City White Forest Black Tower White Treehollow Map.png"
+}

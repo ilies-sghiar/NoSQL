@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Chrono Island.png",
+  "type": "land",
+  "location_name": "Five Island",
+  "japanese_name": "\uff15\u306e\u3057\u307e",
+  "translated_name": "Island 5",
+  "other_info": "Chrono Island",
+  "location": "East of [[Four Island]]",
+  "region": "Sevii Islands",
+  "map": "Sevii Islands Five Island Map.png",
+  "generation": "{{gen|III}}"
+}

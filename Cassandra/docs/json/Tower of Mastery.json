@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Tower of Mastery XY.png",
+  "location_name": "Tower of Mastery",
+  "japanese_name": "\u30de\u30b9\u30bf\u30fc\u30bf\u30ef\u30fc",
+  "translated_name": "Master Tower",
+  "slogan": "The tower of further awakenings.",
+  "type": "building",
+  "location": "[[Shalour City]]",
+  "region": "Kalos",
+  "generation": "{{Gen|VI}}",
+  "map": "Kalos Shalour City Map.png"
+}

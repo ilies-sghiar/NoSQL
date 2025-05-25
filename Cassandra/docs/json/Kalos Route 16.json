@@ -1,0 +1,33 @@
+{
+  "encounters": {
+    "6": [
+      "Foongus",
+      "Klefki",
+      "Phantump",
+      "Pumpkaboo",
+      "Weepinbell",
+      "Floatzel",
+      "Skorupi",
+      "Murkrow",
+      "Lombre",
+      "Poliwag",
+      "Poliwhirl",
+      "Basculin"
+    ]
+  },
+  "number": "16",
+  "image": "Kalos Route 16 XY.png",
+  "size": "300",
+  "generation": "6",
+  "cut": "yes",
+  "strength": "yes",
+  "surf": "yes",
+  "waterfall": "yes",
+  "type": "land",
+  "mapdesc": "This rustic path beside the glittering metropolis of Lumiose City is a well-known fishing spot.",
+  "north": "Route 15",
+  "regionnorth": "Kalos",
+  "north2": "Lost Hotel",
+  "west": "Lumiose City",
+  "region": "Kalos"
+}

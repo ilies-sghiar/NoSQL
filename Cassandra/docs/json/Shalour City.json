@@ -1,0 +1,36 @@
+{
+  "encounters": {
+    "6": [
+      "Tentacool",
+      "Mantyke",
+      "Luvdisc",
+      "Chinchou",
+      "Remoraid",
+      "Lanturn",
+      "Octillery",
+      "Alomomola"
+    ]
+  },
+  "name": "Shalour City",
+  "jpname": "\u30b7\u30e3\u30e9\u30b7\u30c6\u30a3",
+  "jptrans": "Shara City",
+  "image": "Shalour City XY.png",
+  "size": "270",
+  "region": "Kalos",
+  "generation": "6",
+  "slogan": "A city of awakening.",
+  "mapdesc": "The seaside home of the Tower of Mastery, where the legend of mysterious stones lives on.",
+  "north": "Tower of Mastery",
+  "east": "Route 12",
+  "regioneast": "Kalos",
+  "south": "Reflection Cave",
+  "gym": "Shalour Gym",
+  "gymno": "3",
+  "leader": "Korrina",
+  "leadersprite": "VSKorrina.png{{!}}150px",
+  "badge": "Rumble",
+  "gymtype": "Fighting",
+  "colordark": "2E8B57",
+  "colormed": "B4B400",
+  "colorlight": "F8DE7E"
+}

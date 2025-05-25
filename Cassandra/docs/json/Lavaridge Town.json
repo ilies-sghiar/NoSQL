@@ -1,0 +1,23 @@
+{
+  "encounters": {},
+  "name": "Lavaridge Town",
+  "jpname": "\u30d5\u30a8\u30f3\u30bf\u30a6\u30f3",
+  "jptrans": "Huen Town",
+  "image": "Lavaridge Town ORAS.png",
+  "imageIII": "Lavaridge Town RS.png",
+  "slogan": "An excellent place for relaxing!",
+  "mapdesc": "A popular spot in the Hoenn region, thanks to its hot springs, said to cure any ailment.",
+  "region": "Hoenn",
+  "east": "Route 112",
+  "regioneast": "Hoenn",
+  "gym": "Lavaridge Gym",
+  "gymno": "4",
+  "leader": "Flannery",
+  "leadersprite": "VSFlannery.png{{!}}150px",
+  "badge": "Heat",
+  "gymtype": "Fire",
+  "colordark": "b7410e",
+  "colormed": "d57236",
+  "colorlight": "f4a460",
+  "generation": "3"
+}

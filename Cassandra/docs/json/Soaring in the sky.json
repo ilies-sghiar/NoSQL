@@ -1,0 +1,24 @@
+{
+  "encounters": {
+    "oras": [
+      "Murkrow",
+      "Taillow",
+      "Wingull",
+      "Pelipper",
+      "Swablu",
+      "Drifloon",
+      "Braviary"
+    ]
+  },
+  "image": "Soaring in the sky ORAS.png",
+  "image2": "Soaring trick ORAS.png",
+  "type": "fog",
+  "location_name": "The Sky",
+  "japanese_name": "{{tt|\u5927\u7a7a|\u304a\u304a\u305e\u3089}}",
+  "translated_name": "Sky",
+  "location": "All Routes and Towns",
+  "region": "Hoenn",
+  "mapdesc": "",
+  "generation": "{{Gen|VI}}",
+  "map": "None.png"
+}

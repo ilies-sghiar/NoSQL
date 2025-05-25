@@ -1,0 +1,20 @@
+{
+  "encounters": {},
+  "name": "Kindle Road",
+  "jpname": "\u307b\u3066\u308a\u306e\u307f\u3061",
+  "jptrans": "Burning Road",
+  "jptranslit": "Hoteri no Michi",
+  "size": "50",
+  "generation": "3",
+  "image": "Kindle Road FRLG.png",
+  "type": "sand",
+  "rocksmash": "yes",
+  "surf": "yes",
+  "north": "Mt. Ember",
+  "west": "One Island (town)",
+  "westalt": "One Island",
+  "region": "Sevii Islands",
+  "regionmap": "Sevii Islands Kindle Road Map.png",
+  "prev": "Treasure Beach",
+  "next": "Cape Brink"
+}

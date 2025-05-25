@@ -1,0 +1,27 @@
+{
+  "encounters": {
+    "7": [
+      "Dugtrio",
+      "Sandile",
+      "Trapinch",
+      "Any"
+    ],
+    "usum": [
+      "Dugtrio",
+      "Krokorok",
+      "Trapinch",
+      "Any"
+    ]
+  },
+  "image": "Haina Desert Area SMUSUM.png",
+  "image_size": "350px",
+  "type": "sand",
+  "location_name": "Haina Desert",
+  "japanese_name": "\u30cf\u30a4\u30ca{{tt|\u7802\u6f20|\u3055\u3070\u304f}}",
+  "translated_name": "Haina Desert",
+  "location": "[[Ula'ula Island]]",
+  "mapdesc": "A scorching-hot desert beyond Route 13. Trainers often get lost here in this broiling labyrinth.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

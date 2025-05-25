@@ -1,0 +1,33 @@
+{
+  "encounters": {
+    "pe": [
+      "Zubat",
+      "Golbat",
+      "Psyduck",
+      "Golduck",
+      "Geodude",
+      "Graveler",
+      "Lickitung",
+      "Rhyhorn",
+      "Rhydon",
+      "Ditto",
+      "Snorlax",
+      "Poliwag",
+      "Poliwhirl",
+      "Poliwrath",
+      "Magikarp",
+      "Chansey"
+    ]
+  },
+  "image": "Cerulean Cave Exterior LGPE.png",
+  "image_size": "300",
+  "type": "cave",
+  "mapdesc": "A mysterious cave that is filled with terribly tough <sc>Pok</sc>\u00e9<sc>mon</sc>. It is so dangerous, the <sc>Pok</sc>\u00e9<sc>mon League</sc> is in charge of it.{{sup/3|FRLG}}<br/>A cave that had collapsed once. It has been reconstructed.{{sup/4|HGSS}}",
+  "location_name": "Cerulean Cave",
+  "japanese_name": "\u30cf\u30ca\u30c0\u306e{{tt|\u6d1e\u7a9f|\u3069\u3046\u304f\u3064}}",
+  "translated_name": "Hanada Cave",
+  "other_info": "Unknown Dungeon",
+  "location": "[[Cerulean City]]",
+  "region": "Kanto",
+  "generation": "{{gen|I}}, {{gen|III}}, {{gen|IV}}, {{gen|VII}}"
+}

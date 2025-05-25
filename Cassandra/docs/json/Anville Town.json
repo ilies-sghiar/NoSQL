@@ -1,0 +1,15 @@
+{
+  "encounters": {},
+  "name": "Anville Town",
+  "jpname": "\u30ab\u30ca\u30ef\u30bf\u30a6\u30f3",
+  "jptrans": "Kanawa Town",
+  "image": "Anville Town Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "region": "Unova",
+  "generation": "5",
+  "slogan": "Rolling Out the Steel Rails",
+  "mapdesc": "A city with a rail yard where trains park for an overhaul.",
+  "regionnorth": "Unova",
+  "colordark": "434b4d",
+  "colormed": "CBCDCD",
+  "colorlight": "E6E7E8"
+}

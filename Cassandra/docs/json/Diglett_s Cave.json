@@ -1,0 +1,47 @@
+{
+  "encounters": {
+    "1": [
+      "Diglett",
+      "Dugtrio"
+    ],
+    "2": [
+      "Diglett",
+      "Dugtrio"
+    ],
+    "fl": [
+      "Diglett",
+      "Dugtrio"
+    ],
+    "hs": [
+      "Diglett",
+      "Dugtrio"
+    ],
+    "pe": [
+      "Zubat",
+      "Diglett",
+      "Dugtrio",
+      "Chansey"
+    ]
+  },
+  "name": "Diglett's Cave",
+  "jpname": "\u30c7\u30a3\u30b0\u30c0\u306e\u7a74",
+  "jptrans": "Digda's Hole",
+  "jptranslit": "Digda no Ana",
+  "image": "Diglett's Cave PE.png",
+  "type": "cave",
+  "imageI": "Diglett Cave RBY.png",
+  "imageII": "Diglett Cave GSC.png",
+  "imageIII": "Diglett Cave FRLG.png",
+  "imageIV": "Diglett Cave HGSS.png",
+  "rockclimb": "{{sup/4|HGSS}}",
+  "mapdesc": "A seemingly plain tunnel that was dug by wild Diglett. It is famous for connecting Routes 2 and 11.{{sup/3|FRLG}}<br>A tunnel dug by Diglett connecting Vermilion City to Pewter City.{{sup/4|HGSS}}{{sup/7|PE}}",
+  "north": "Route 2",
+  "regionnorth": "Kanto",
+  "south": "Route 11",
+  "regionsouth": "Kanto",
+  "region": "Kanto",
+  "regionmap": "Kanto Digletts Cave Map.png",
+  "prev": "Oreburgh Gate",
+  "next": "Underground Path (Kanto Routes 5\u20136)",
+  "generation": "1"
+}

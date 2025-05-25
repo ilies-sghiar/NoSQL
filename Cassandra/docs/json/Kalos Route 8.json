@@ -1,0 +1,43 @@
+{
+  "encounters": {
+    "6": [
+      "Spoink",
+      "Zangoose",
+      "Seviper",
+      "Absol",
+      "Bagon",
+      "Drifloon",
+      "Mienfoo",
+      "Inkay",
+      "Taillow",
+      "Wingull",
+      "Dwebble",
+      "Binacle",
+      "Tentacool",
+      "Wailmer",
+      "Luvdisc",
+      "Shellder",
+      "Staryu",
+      "Skrelp",
+      "Clauncher",
+      "Cloyster",
+      "Starmie",
+      "Qwilfish",
+      "Dragalge",
+      "Clawitzer"
+    ]
+  },
+  "number": "8",
+  "size": "230",
+  "generation": "6",
+  "rock smash": "yes",
+  "surf": "yes",
+  "strength": "yes",
+  "image": "Kalos Route 8 XY.png",
+  "type": "land",
+  "mapdesc": "This is a road of great contrasts, from the harsh rock of the cliffs to the soft sands of the beach.",
+  "north": "Cyllage City",
+  "east": "Connecting Cave",
+  "south": "Ambrette Town",
+  "region": "Kalos"
+}

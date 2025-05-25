@@ -1,0 +1,33 @@
+{
+  "encounters": {
+    "6": [
+      "Pidgey",
+      "Pikachu",
+      "Dunsparce",
+      "Azurill",
+      "Bidoof",
+      "Burmy",
+      "Bunnelby",
+      "Fletchling",
+      "Marill",
+      "Masquerain",
+      "Magikarp",
+      "Goldeen",
+      "Corphish",
+      "Seaking",
+      "Gyarados",
+      "Crawdaunt"
+    ]
+  },
+  "number": "3",
+  "size": "260",
+  "generation": "6",
+  "cut": "yes",
+  "surf": "yes",
+  "image": "Kalos Route 3 XY.png",
+  "type": "forest",
+  "mapdesc": "The little rises and hollows of this lush forest are a favorite place for many kinds of Pok\u00e9mon to play.",
+  "north": "Santalune City",
+  "south": "Santalune Forest",
+  "region": "Kalos"
+}

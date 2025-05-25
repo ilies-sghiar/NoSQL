@@ -1,0 +1,24 @@
+{
+  "encounters": {
+    "5-2": [
+      "Azelf",
+      "Amoonguss"
+    ]
+  },
+  "number": "23",
+  "image": "Unova Route 23 Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "generation": "5",
+  "mapdesc": "A mountain path of no return with overwhelming cliffs.",
+  "type": "mountain",
+  "east": "Giant Chasm",
+  "north": "Victory Road (Black 2 and White 2)",
+  "northalt": "Victory Road",
+  "region": "Unova",
+  "prev": "Route 22",
+  "regionprev": "Unova",
+  "next": "Route 1",
+  "regionnext": "Kalos",
+  "cut": "yes",
+  "surf": "yes",
+  "strength": "yes"
+}

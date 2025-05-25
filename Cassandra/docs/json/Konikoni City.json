@@ -1,0 +1,26 @@
+{
+  "encounters": {
+    "7": [
+      "Poliwhirl"
+    ],
+    "usum": [
+      "Ditto"
+    ]
+  },
+  "name": "Konikoni City",
+  "jpname": "\u30b3\u30cb\u30b3\u30b7\u30c6\u30a3",
+  "jptrans": "Koniko City",
+  "image": "Konikoni City SM.png",
+  "size": "300",
+  "region": "Alola",
+  "generation": "7",
+  "slogan": "A town that welcomes the sea breeze.",
+  "mapdesc": "The large gateway at the entrance gives a unique impression. This is a city of merchants, where you find lots of shops.{{sup/7|SM}}<br>This is a city of merchants, where you find lots of shops and even a photo club, beyond the gate at the entrance.{{sup/7|USUM}}",
+  "north": "Diglett's  Tunnel",
+  "south": "Route 9",
+  "regionsouth": "Alola",
+  "colordark": "AB2813",
+  "colormed": "E7C46E",
+  "colorlight": "E34234",
+  "mapsize": "250px"
+}

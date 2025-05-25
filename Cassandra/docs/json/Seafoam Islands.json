@@ -1,0 +1,64 @@
+{
+  "encounters": {
+    "1": [
+      "Tentacool",
+      "Staryu",
+      "Magikarp",
+      "Poliwag",
+      "Goldeen",
+      "Shellder",
+      "Horsea"
+    ],
+    "fl": [
+      "Magikarp",
+      "Horsea",
+      "Krabby",
+      "Gyarados",
+      "Psyduck",
+      "Slowpoke"
+    ],
+    "hs": [
+      "Gyarados",
+      "Kingler",
+      "Seadra"
+    ],
+    "pe": [
+      "Zubat",
+      "Golbat",
+      "Slowpoke",
+      "Slowbro",
+      "Seel",
+      "Dewgong",
+      "Jynx",
+      "Squirtle",
+      "Tentacool",
+      "Tentacruel",
+      "Shellder",
+      "Cloyster",
+      "Magikarp"
+    ]
+  },
+  "name": "Seafoam Islands",
+  "jpname": "{{tt|\u53cc\u5b50\u5cf6|\u3075\u305f\u3054\u3058\u307e}}",
+  "jptrans": "Twin Islands",
+  "image": "Seafoam Islands PE.png",
+  "mapdesc": "A pair of islands that is situated on Route 20. The two islands are shaped the same, as if they were twins.{{sup/3|FRLG}}<br/>Two small islands lightly floating in the ocean.{{sup/4|HGSS}}<br>Two small islands lightly floating in the ocean. A shocking cold fills the caverns inside.{{sup/7|PE}}",
+  "imageI": "Seafoam Islands 1F RBY.png",
+  "imageII": "Cinnabar Gym GSC.png",
+  "imageIII": "Seafoam Islands 1F FRLG.png",
+  "region": "Kanto",
+  "east": "Route 20",
+  "regioneast": "Kanto",
+  "west": "Route 20",
+  "regionwest": "Kanto",
+  "gym": "Cinnabar Gym",
+  "leader": "Blaine",
+  "leadervs": "VSBlaine.png",
+  "badge": "Volcano",
+  "gymtype": "Fire",
+  "gymno": "7{{sup/2|GSC}}{{sup/4|HGSS}}",
+  "generation": "1",
+  "colordark": "{{Locationcolor/dark|ice}}",
+  "colormed": "{{Locationcolor/med|ice}}",
+  "colorlight": "{{Locationcolor/light|ice}}"
+}

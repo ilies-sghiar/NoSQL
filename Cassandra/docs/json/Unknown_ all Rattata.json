@@ -1,0 +1,35 @@
+{
+  "encounters": {
+    "3": [
+      "Shuppet",
+      "Duskull",
+      "Vulpix",
+      "Wingull",
+      "Meditite",
+      "Chimecho"
+    ],
+    "oras": [
+      "Shuppet",
+      "Duskull",
+      "Vulpix",
+      "Wingull",
+      "Meditite",
+      "Growlithe",
+      "Bronzor",
+      "Elgyem",
+      "Chimecho"
+    ]
+  },
+  "image": "Hoenn Route 122 ORAS.png",
+  "imageIII": "Hoenn Route 122 RSE.png",
+  "type": "mountain",
+  "image size": "290",
+  "location_name": "Mt. Pyre",
+  "japanese_name": "\u304a\u304f\u308a\u3073{{tt|\u5c71|\u3084\u307e}}",
+  "translated_name": "Mt. Pyre",
+  "location": "{{rt|122|Hoenn}}",
+  "region": "Hoenn",
+  "mapdesc": "The mountain is where spirits of Pok\u00e9mon have rested and will always rest: past, present, and future.",
+  "generation": "{{Gen|III}}, {{gen|VI}}",
+  "map": "Hoenn Mt Pyre Map.png"
+}

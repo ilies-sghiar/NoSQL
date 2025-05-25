@@ -1,0 +1,26 @@
+{
+  "encounters": {
+    "6": [
+      "Abra",
+      "Doduo",
+      "Plusle",
+      "Minun",
+      "Gulpin",
+      "Bunnelby",
+      "Skiddo",
+      "Pancham",
+      "Furfrou",
+      "Scraggy"
+    ]
+  },
+  "number": "5",
+  "size": "300",
+  "generation": "6",
+  "cut": "yes",
+  "image": "Kalos Route 5 XY.png",
+  "type": "land",
+  "mapdesc": "Roller Skaters from across the Kalos region gather on this hilly path to demonstrate their best skills.",
+  "east": "Lumiose City",
+  "west": "Camphrier Town",
+  "region": "Kalos"
+}

@@ -1,0 +1,32 @@
+{
+  "encounters": {
+    "fl": [
+      "Horsea",
+      "Qwilfish",
+      "Krabby",
+      "Remoraid",
+      "Gyarados",
+      "Seadra",
+      "Kingler",
+      "Psyduck",
+      "Slowpoke"
+    ]
+  },
+  "name": "Tanoby Ruins",
+  "jpname": "\u30a2\u30b9\u30ab\u30ca\u3044\u305b\u304d",
+  "jptrans": "Asukana Ruins",
+  "jptranslit": "",
+  "size": "320",
+  "image": "Tanoby Ruins FRLG.png",
+  "imageIII": "Tanoby Ruins FRLG.png",
+  "type": "ruins",
+  "surf": "yes",
+  "north": "Sevault Canyon",
+  "east": "Tanoby Chambers",
+  "west": "Tanoby Chambers",
+  "regionmap": "Sevii Islands Tanoby Ruins Map.png",
+  "region": "Sevii Islands",
+  "prev": "Sevault Canyon",
+  "next": "Treasure Beach",
+  "generation": "3"
+}

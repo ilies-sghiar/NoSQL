@@ -1,0 +1,41 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer",
+      "Staryu"
+    ],
+    "oras": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer",
+      "Staryu",
+      "Rock&nbsp;Star",
+      "Pop&nbsp;Star"
+    ]
+  },
+  "name": "Lilycove City",
+  "jpname": "\u30df\u30ca\u30e2\u30b7\u30c6\u30a3",
+  "jptrans": "Minamo City",
+  "image": "Lilycove City ORAS.png",
+  "imageIII": "Lilycove City RS.png",
+  "slogan": "Where the land ends and the sea begins.",
+  "mapdesc": "This tourist destination is undergoing a revival, thanks to the popularity of its Pok\u00e9mon Contest Spectaculars.",
+  "region": "Hoenn",
+  "surf": "yes",
+  "rocksmash": "{{sup/6|ORAS}}",
+  "acro": "{{sup/6|ORAS}}",
+  "west": "Route 121",
+  "regionwest": "Hoenn",
+  "east": "Route 124",
+  "regioneast": "Hoenn",
+  "colordark": "488AC7",
+  "colormed": "519ee2",
+  "colorlight": "5CB3FF",
+  "generation": "3"
+}

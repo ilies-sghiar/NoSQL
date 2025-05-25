@@ -1,0 +1,23 @@
+{
+  "encounters": {},
+  "name": "Aspertia City",
+  "jpname": "\u30d2\u30aa\u30a6\u30ae\u30b7\u30c6\u30a3",
+  "jptrans": "Hiougi City",
+  "image": "Aspertia City {{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}} B2W2.png",
+  "slogan": "A city that reaches for the sky.",
+  "mapdesc": "A city at the foot of high mountains where you can see all of Unova.",
+  "region": "Unova",
+  "north": "Route 19",
+  "generation": "5",
+  "regionnorth": "Unova",
+  "gym": "Aspertia Gym",
+  "gymtitle": "{{color2|000|Generation V|Gen V}}",
+  "gymno": "1{{sup/5|B2W2}}",
+  "leader": "Cheren",
+  "leadersprite": "VSCheren 2.png",
+  "badge": "Basic",
+  "gymtype": "Normal",
+  "colordark": "FF661A",
+  "colormed": "FF9966",
+  "colorlight": "FFCCB3"
+}

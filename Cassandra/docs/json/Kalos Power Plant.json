@@ -1,0 +1,14 @@
+{
+  "encounters": {},
+  "image": "Kalos Power Plant XY.png",
+  "image_size": "250",
+  "type": "building",
+  "mapdesc": "An environmentally responsible power plant that generates solar power from space.",
+  "location_name": "Kalos Power Plant",
+  "japanese_name": "\u30ab\u30ed\u30b9{{tt|\u767a\u96fb\u6240|\u306f\u3064\u3067\u3093\u3057\u3087}}",
+  "translated_name": "Kalos Power Plant",
+  "location": "{{rt|13|Kalos}}",
+  "region": "Kalos",
+  "generation": "{{gen|VI}}",
+  "map": "Kalos Power Plant Map.png"
+}

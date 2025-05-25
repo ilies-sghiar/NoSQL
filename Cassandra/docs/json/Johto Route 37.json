@@ -1,0 +1,51 @@
+{
+  "encounters": {
+    "2": [
+      "Pidgey",
+      "Pidgeotto",
+      "Vulpix",
+      "Growlithe",
+      "Hoothoot",
+      "Noctowl",
+      "Ledyba",
+      "Ledian",
+      "Spinarak",
+      "Ariados",
+      "Stantler",
+      "Caterpie",
+      "Metapod",
+      "Butterfree",
+      "Weedle",
+      "Kakuna",
+      "Beedrill",
+      "Exeggcute",
+      "Pineco"
+    ],
+    "hs": [
+      "Pidgey",
+      "Pidgeotto",
+      "Vulpix",
+      "Growlithe",
+      "Hoothoot",
+      "Ledyba",
+      "Spinarak",
+      "Stantler",
+      "Exeggcute",
+      "Pineco",
+      "Plusle",
+      "Minun",
+      "Shinx"
+    ]
+  },
+  "number": "37",
+  "size": "300",
+  "image": "Johto Route 37 HGSS.png",
+  "imageII": "Johto Route 37 GSC.png",
+  "type": "land",
+  "north": "Ecruteak City",
+  "south": "Route 36",
+  "regionsouth": "Johto",
+  "region": "Johto",
+  "mapdesc": "A popular route for Trainers, marked by three Apricorn trees.",
+  "generation": "2"
+}

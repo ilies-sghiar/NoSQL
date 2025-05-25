@@ -1,0 +1,21 @@
+{
+  "encounters": {
+    "6": [
+      "Ledyba",
+      "Ralts",
+      "Skitty",
+      "Budew",
+      "Combee",
+      "Flab\u00e9b\u00e9"
+    ]
+  },
+  "number": "4",
+  "size": "150",
+  "generation": "6",
+  "image": "Kalos Route 4 XY.png",
+  "type": "land",
+  "mapdesc": "This famed path's perfectly designed and executed gardens are its highlight and a special point of pride.",
+  "north": "Lumiose City",
+  "south": "Santalune City",
+  "region": "Kalos"
+}

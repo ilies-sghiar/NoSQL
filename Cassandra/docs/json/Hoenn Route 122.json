@@ -1,0 +1,27 @@
+{
+  "encounters": {
+    "oras": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Finneon",
+      "Frillish",
+      "Alomomola",
+      "Magikarp",
+      "Wailmer"
+    ]
+  },
+  "number": "122",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 122 ORAS.png",
+  "imageIII": "Hoenn Route 122 RSE.png",
+  "type": "ocean",
+  "mapdesc": "People make their way to Mt. Pyre over this water route, reliving many precious memories as they traverse it.",
+  "surf": "yes",
+  "north": "Route 121",
+  "regionnorth": "Hoenn",
+  "south": "Route 123",
+  "regionsouth": "Hoenn",
+  "region": "Hoenn"
+}

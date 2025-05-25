@@ -1,0 +1,83 @@
+{
+  "encounters": {
+    "1": [
+      "Caterpie",
+      "Weedle",
+      "Pidgey",
+      "Rattata",
+      "Nidoran\u2640",
+      "Nidoran\u2642",
+      "Mr. Mime"
+    ],
+    "2": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree",
+      "Weedle",
+      "Kakuna",
+      "Beedrill",
+      "Pidgey",
+      "Pidgeotto",
+      "Pikachu",
+      "Hoothoot",
+      "Noctowl",
+      "Ledyba",
+      "Ledian",
+      "Spinarak",
+      "Ariados"
+    ],
+    "fl": [
+      "Pidgey",
+      "Rattata",
+      "Caterpie",
+      "Weedle",
+      "Mr. Mime"
+    ],
+    "hs": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree",
+      "Weedle",
+      "Kakuna",
+      "Beedrill",
+      "Pidgey",
+      "Pidgeotto",
+      "Hoothoot",
+      "Noctowl",
+      "Ledyba",
+      "Ledian",
+      "Spinarak",
+      "Ariados",
+      "Plusle",
+      "Minun",
+      "Shinx"
+    ],
+    "pe": [
+      "Caterpie",
+      "Weedle",
+      "Pidgey",
+      "Rattata",
+      "Oddish",
+      "Bellsprout",
+      "Pidgeotto",
+      "Pidgeot",
+      "Charizard",
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Dragonite"
+    ]
+  },
+  "number": "2",
+  "image": "Kanto Route 2 PE.png",
+  "imageI": "Kanto Route 2 RBY.png",
+  "imageII": "Kanto Route 2 GSC.png",
+  "imageIII": "Kanto Route 2 FRLG.png",
+  "type": "forest",
+  "north": "Pewter City",
+  "south": "Viridian City",
+  "east": "Diglett's Cave",
+  "region": "Kanto",
+  "cut": "{{sup/1}}{{sup/2}}{{sup/3|FRLG}}{{sup/4|HGSS}}",
+  "mapdesc": "A path that winds and bends from the forest's entrance.{{sup/4|HGSS}}<br>A path that winds and bends around Viridian Forest.{{sup/7|PE}}"
+}

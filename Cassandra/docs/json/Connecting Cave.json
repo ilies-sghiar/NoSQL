@@ -1,0 +1,21 @@
+{
+  "encounters": {
+    "6": [
+      "Zubat",
+      "Whismur",
+      "Meditite",
+      "Axew"
+    ]
+  },
+  "image": "Connecting Cave XY.png",
+  "image_size": "280",
+  "location_name": "Connecting Cave",
+  "japanese_name": "{{tt|\u5730\u3064\u306a\u304e\u306e\u6d1e\u7a74|\u3058\u3064\u306a\u304e\u306e\u3069\u3046\u3051\u3064}}",
+  "translated_name": "Connecting Cave",
+  "other_info": "Zubat Roost",
+  "type": "cave",
+  "location": "West of {{rt|7|Kalos}}<br/>East of {{rt|8|Kalos}}<br/>East of [[Cyllage City]]",
+  "region": "Kalos",
+  "mapdesc": "This cave linking Route 7 and Cyllage City is notable for its great hordes of Zubat.",
+  "generation": "{{Gen|VI}}"
+}

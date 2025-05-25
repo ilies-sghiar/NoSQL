@@ -1,0 +1,48 @@
+{
+  "encounters": {
+    "7": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree",
+      "Lillipup",
+      "Pikipek",
+      "Grubbin",
+      "Fomantis",
+      "Crabrawler",
+      "Bounsweet",
+      "Bellsprout",
+      "Bonsly",
+      "Trumbeak",
+      "Diglett"
+    ],
+    "usum": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree",
+      "Lillipup",
+      "Pikipek",
+      "Grubbin",
+      "Fomantis",
+      "Crabrawler",
+      "Noibat",
+      "Grovyle",
+      "Bonsly",
+      "Trumbeak",
+      "Diglett"
+    ]
+  },
+  "number": "5",
+  "size": "240",
+  "generation": "7",
+  "image": "Alola Route 5.png",
+  "type": "land",
+  "slogan": "A place of many winding paths and ledges.",
+  "mapdesc": "A winding route with many branching paths and ledges. It is quite challenging for people traveling on foot.",
+  "north": "Lush Jungle",
+  "south": "Paniola Ranch",
+  "west": "Brooklet Hill",
+  "west2": "Route 8",
+  "regionwest2": "Alola",
+  "region": "Alola",
+  "mapsize": "250px"
+}

@@ -1,0 +1,38 @@
+{
+  "encounters": {
+    "4": [
+      "Zubat",
+      "Machop",
+      "Geodude",
+      "Ponyta",
+      "Kricketot",
+      "Phanpy",
+      "Gligar",
+      "Stantler",
+      "Larvitar"
+    ],
+    "bdsp": [
+      "Zubat",
+      "Machop",
+      "Geodude",
+      "Kricketot",
+      "Phanpy",
+      "Stantler",
+      "Larvitar"
+    ]
+  },
+  "number": "207",
+  "size": "290",
+  "image": "Sinnoh Route 207 Pt.png",
+  "imageIV": "Sinnoh Route 207 Pt.png",
+  "type": "mountain",
+  "east": "Mount Coronet",
+  "north": "Route 206",
+  "regionnorth": "Sinnoh",
+  "south": "Oreburgh City",
+  "region": "Sinnoh",
+  "bike": "yes",
+  "rockclimb": "yes",
+  "mapdesc": "Located at the foot of Mt. Coronet, this road is carved into the rugged, rocky terrain.{{sup/4|DPPt}}<br>Located at the foot of Mount Coronet, this road is carved into the rugged, rocky terrain.{{sup/8|BDSP}}",
+  "generation": "4"
+}

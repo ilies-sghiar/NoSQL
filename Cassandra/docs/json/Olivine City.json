@@ -1,0 +1,49 @@
+{
+  "encounters": {
+    "2": [
+      "Tentacool",
+      "Tentacruel",
+      "Krabby",
+      "Magikarp",
+      "Staryu",
+      "Corsola",
+      "Kingler",
+      "Voltorb",
+      "Shellder",
+      "Chinchou",
+      "Lanturn"
+    ],
+    "hs": [
+      "Tentacool",
+      "Tentacruel",
+      "Krabby",
+      "Magikarp",
+      "Staryu",
+      "Corsola",
+      "Kingler",
+      "Voltorb"
+    ]
+  },
+  "name": "Olivine City",
+  "jpname": "\u30a2\u30b5\u30ae\u30b7\u30c6\u30a3",
+  "jptrans": "Asagi City",
+  "image": "Olivine City HGSS.png",
+  "imageII": "Olivine City C.png",
+  "slogan": "The Port with Sea Breezes",
+  "generation": "2",
+  "region": "Johto",
+  "north": "Route 39",
+  "regionnorth": "Johto",
+  "west": "Route 40",
+  "regionwest": "Johto",
+  "mapdesc": "A city where you can hear the melody of the sea.",
+  "gym": "Olivine Gym",
+  "gymno": "6",
+  "leader": "Jasmine",
+  "leadervs": "VSJasmine.png",
+  "badge": "Mineral",
+  "gymtype": "Steel",
+  "colordark": "6B8E23",
+  "colormed": "829D3A",
+  "colorlight": "9BAE53"
+}

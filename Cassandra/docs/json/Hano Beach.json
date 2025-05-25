@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "7": [
+      "Staryu",
+      "Sandygast",
+      "Tentacool",
+      "Wingull",
+      "Finneon",
+      "Pyukumuku"
+    ],
+    "usum": [
+      "Staryu",
+      "Sandygast",
+      "Tentacool",
+      "Wingull",
+      "Finneon",
+      "Pyukumuku"
+    ]
+  },
+  "image": "Hano Beach SM.png",
+  "type": "sand",
+  "location_name": "Hano Beach",
+  "japanese_name": "\u30cf\u30ce\u30cf\u30ce\u30d3\u30fc\u30c1",
+  "translated_name": "Hanohano Beach",
+  "location": "[[Akala Island]]",
+  "mapdesc": "The beach near Hano Grand Hotel at the Hano Grand Resort. Pyukumuku-chucking is a popular part-time job to do here.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

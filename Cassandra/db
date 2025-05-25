@@ -1,0 +1,975 @@
+Table: languages
+  - id (INTEGER)
+  - iso639 (VARCHAR(79))    
+  - iso3166 (VARCHAR(79))   
+  - identifier (VARCHAR(79))
+  - official (BOOLEAN)      
+  - order (INTEGER)
+
+Table: berry_firmness       
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: conquest_episodes
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: conquest_move_displacements
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - affects_target (BOOLEAN)
+
+Table: conquest_move_effects
+  - id (INTEGER)
+
+Table: conquest_move_ranges
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - targets (INTEGER)
+
+Table: conquest_stats
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - is_base (BOOLEAN)
+
+Table: conquest_warrior_archetypes
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: conquest_warrior_skills
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: conquest_warrior_stats
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: contest_effects
+  - id (INTEGER)
+  - appeal (SMALLINT)
+  - jam (SMALLINT)
+
+Table: contest_types
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: egg_groups
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: encounter_conditions
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: encounter_methods
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - order (INTEGER)
+
+Table: evolution_triggers
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: genders
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: growth_rates
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - formula (TEXT)
+
+Table: item_flags
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: item_fling_effects
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: item_pockets
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: move_battle_styles
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: move_damage_classes
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: move_effects
+  - id (INTEGER)
+
+Table: move_flags
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: move_meta_ailments
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: move_meta_categories
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: move_targets
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: pal_park_areas
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: pokeathlon_stats
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: pokemon_colors
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: pokemon_habitats
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: pokemon_move_methods
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: pokemon_shapes
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: regions
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: super_contest_effects
+  - id (INTEGER)
+  - appeal (SMALLINT)
+
+Table: language_names
+  - language_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: berry_firmness_names
+  - berry_firmness_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: conquest_episode_names
+  - episode_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: conquest_move_displacement_prose
+  - move_displacement_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - short_effect (TEXT)
+  - effect (TEXT)
+
+Table: conquest_move_effect_prose
+  - conquest_move_effect_id (INTEGER)
+  - local_language_id (INTEGER)
+  - short_effect (TEXT)
+  - effect (TEXT)
+
+Table: conquest_move_range_prose
+  - conquest_move_range_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - description (TEXT)
+
+Table: conquest_stat_names
+  - conquest_stat_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: conquest_warriors
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - gender_id (INTEGER)
+  - archetype_id (INTEGER)
+
+Table: conquest_warrior_skill_names
+  - skill_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: conquest_warrior_stat_names
+  - warrior_stat_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: contest_effect_prose
+  - contest_effect_id (INTEGER)
+  - local_language_id (INTEGER)
+  - flavor_text (TEXT)
+  - effect (TEXT)
+
+Table: contest_type_names
+  - contest_type_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - flavor (TEXT)
+  - color (TEXT)
+
+Table: egg_group_prose
+  - egg_group_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: encounter_condition_prose
+  - encounter_condition_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: encounter_condition_values
+  - id (INTEGER)
+  - encounter_condition_id (INTEGER)
+  - identifier (VARCHAR(79))
+  - is_default (BOOLEAN)
+
+Table: encounter_method_prose
+  - encounter_method_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: evolution_trigger_prose
+  - evolution_trigger_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: experience
+  - growth_rate_id (INTEGER)
+  - level (INTEGER)
+  - experience (INTEGER)
+
+Table: generations
+  - id (INTEGER)
+  - main_region_id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: growth_rate_prose
+  - growth_rate_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: item_categories
+  - id (INTEGER)
+  - pocket_id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: item_flag_prose
+  - item_flag_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - description (TEXT)
+
+Table: item_fling_effect_prose
+  - item_fling_effect_id (INTEGER)
+  - local_language_id (INTEGER)
+  - effect (TEXT)
+
+Table: item_pocket_names
+  - item_pocket_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: locations
+  - id (INTEGER)
+  - region_id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: move_battle_style_prose
+  - move_battle_style_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: move_damage_class_prose
+  - move_damage_class_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - description (TEXT)
+
+Table: move_effect_prose
+  - move_effect_id (INTEGER)
+  - local_language_id (INTEGER)
+  - short_effect (TEXT)
+  - effect (TEXT)
+
+Table: move_flag_prose
+  - move_flag_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - description (TEXT)
+
+Table: move_meta_ailment_names
+  - move_meta_ailment_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: move_meta_category_prose
+  - move_meta_category_id (INTEGER)
+  - local_language_id (INTEGER)
+  - description (TEXT)
+
+Table: move_target_prose
+  - move_target_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - description (TEXT)
+
+Table: pal_park_area_names
+  - pal_park_area_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: pokeathlon_stat_names
+  - pokeathlon_stat_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: pokedexes
+  - id (INTEGER)
+  - region_id (INTEGER)
+  - identifier (VARCHAR(79))
+  - is_main_series (BOOLEAN)
+
+Table: pokemon_color_names
+  - pokemon_color_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: pokemon_habitat_names
+  - pokemon_habitat_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: pokemon_move_method_prose
+  - pokemon_move_method_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - description (TEXT)
+
+Table: pokemon_shape_prose
+  - pokemon_shape_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - awesome_name (VARCHAR(79))
+  - description (TEXT)
+
+Table: region_names
+  - region_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: stats
+  - id (INTEGER)
+  - damage_class_id (INTEGER)
+  - identifier (VARCHAR(79))
+  - is_battle_only (BOOLEAN)
+  - game_index (INTEGER)
+
+Table: super_contest_effect_prose
+  - super_contest_effect_id (INTEGER)
+  - local_language_id (INTEGER)
+  - flavor_text (TEXT)
+
+Table: abilities
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - generation_id (INTEGER)
+  - is_main_series (BOOLEAN)
+
+Table: characteristics
+  - id (INTEGER)
+  - stat_id (INTEGER)
+  - gene_mod_5 (INTEGER)
+
+Table: conquest_episode_warriors
+  - episode_id (INTEGER)
+  - warrior_id (INTEGER)
+
+Table: conquest_warrior_names
+  - warrior_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: conquest_warrior_ranks
+  - id (INTEGER)
+  - warrior_id (INTEGER)
+  - rank (INTEGER)
+  - skill_id (INTEGER)
+
+Table: encounter_condition_value_prose
+  - encounter_condition_value_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: generation_names
+  - generation_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: items
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - category_id (INTEGER)
+  - cost (INTEGER)
+  - fling_power (INTEGER)
+  - fling_effect_id (INTEGER)
+
+Table: item_category_prose
+  - item_category_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: location_names
+  - location_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - subtitle (VARCHAR(79))
+
+Table: location_areas
+  - id (INTEGER)
+  - location_id (INTEGER)
+  - game_index (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: location_game_indices
+  - location_id (INTEGER)
+  - generation_id (INTEGER)
+  - game_index (INTEGER)
+
+Table: natures
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - decreased_stat_id (INTEGER)
+  - increased_stat_id (INTEGER)
+  - hates_flavor_id (INTEGER)
+  - likes_flavor_id (INTEGER)
+  - game_index (INTEGER)
+
+Table: pokedex_prose
+  - pokedex_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - description (TEXT)
+
+Table: stat_names
+  - stat_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: types
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - generation_id (INTEGER)
+  - damage_class_id (INTEGER)
+
+Table: version_groups
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - generation_id (INTEGER)
+  - order (INTEGER)
+
+Table: ability_names
+  - ability_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: ability_prose
+  - ability_id (INTEGER)
+  - local_language_id (INTEGER)
+  - short_effect (TEXT)
+  - effect (TEXT)
+
+Table: ability_changelog
+  - id (INTEGER)
+  - ability_id (INTEGER)
+  - changed_in_version_group_id (INTEGER)
+
+Table: ability_flavor_text
+  - ability_id (INTEGER)
+  - version_group_id (INTEGER)
+  - language_id (INTEGER)
+  - flavor_text (TEXT)
+
+Table: berries
+  - id (INTEGER)
+  - item_id (INTEGER)
+  - firmness_id (INTEGER)
+  - natural_gift_power (INTEGER)
+  - natural_gift_type_id (INTEGER)
+  - size (INTEGER)
+  - max_harvest (INTEGER)
+  - growth_time (INTEGER)
+  - soil_dryness (INTEGER)
+  - smoothness (INTEGER)
+
+Table: characteristic_text
+  - characteristic_id (INTEGER)
+  - local_language_id (INTEGER)
+  - message (VARCHAR(79))
+
+Table: conquest_kingdoms
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - type_id (INTEGER)
+
+Table: conquest_warrior_rank_stat_map
+  - warrior_rank_id (INTEGER)
+  - warrior_stat_id (INTEGER)
+  - base_stat (INTEGER)
+
+Table: conquest_warrior_specialties
+  - warrior_id (INTEGER)
+  - type_id (INTEGER)
+  - slot (INTEGER)
+
+Table: conquest_warrior_transformation
+  - transformed_warrior_rank_id (INTEGER)
+  - is_automatic (BOOLEAN)
+  - required_link (INTEGER)
+  - completed_episode_id (INTEGER)
+  - current_episode_id (INTEGER)
+  - distant_warrior_id (INTEGER)
+  - female_warlord_count (INTEGER)
+  - pokemon_count (INTEGER)
+  - collection_type_id (INTEGER)
+  - warrior_count (INTEGER)
+
+Table: encounter_slots
+  - id (INTEGER)
+  - version_group_id (INTEGER)
+  - encounter_method_id (INTEGER)
+  - slot (INTEGER)
+  - rarity (INTEGER)
+
+Table: evolution_chains
+  - id (INTEGER)
+  - baby_trigger_item_id (INTEGER)
+
+Table: item_names
+  - item_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: item_prose
+  - item_id (INTEGER)
+  - local_language_id (INTEGER)
+  - short_effect (TEXT)
+  - effect (TEXT)
+
+Table: item_flavor_summaries
+  - item_id (INTEGER)
+  - local_language_id (INTEGER)
+  - flavor_summary (TEXT)
+
+Table: item_flag_map
+  - item_id (INTEGER)
+  - item_flag_id (INTEGER)
+
+Table: item_flavor_text
+  - item_id (INTEGER)
+  - version_group_id (INTEGER)
+  - language_id (INTEGER)
+  - flavor_text (TEXT)
+
+Table: item_game_indices
+  - item_id (INTEGER)
+  - generation_id (INTEGER)
+  - game_index (INTEGER)
+
+Table: location_area_prose
+  - location_area_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: moves
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - generation_id (INTEGER)
+  - type_id (INTEGER)
+  - power (SMALLINT)
+  - pp (SMALLINT)
+  - accuracy (SMALLINT)
+  - priority (SMALLINT)
+  - target_id (INTEGER)
+  - damage_class_id (INTEGER)
+  - effect_id (INTEGER)
+  - effect_chance (INTEGER)
+  - contest_type_id (INTEGER)
+  - contest_effect_id (INTEGER)
+  - super_contest_effect_id (INTEGER)
+
+Table: move_effect_changelog
+  - id (INTEGER)
+  - effect_id (INTEGER)
+  - changed_in_version_group_id (INTEGER)
+
+Table: nature_names
+  - nature_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: nature_battle_style_preferences
+  - nature_id (INTEGER)
+  - move_battle_style_id (INTEGER)
+  - low_hp_preference (INTEGER)
+  - high_hp_preference (INTEGER)
+
+Table: nature_pokeathlon_stats
+  - nature_id (INTEGER)
+  - pokeathlon_stat_id (INTEGER)
+  - max_change (INTEGER)
+
+Table: pokedex_version_groups
+  - pokedex_id (INTEGER)
+  - version_group_id (INTEGER)
+
+Table: type_names
+  - type_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: type_efficacy
+  - damage_type_id (INTEGER)
+  - target_type_id (INTEGER)
+  - damage_factor (INTEGER)
+
+Table: type_game_indices
+  - type_id (INTEGER)
+  - generation_id (INTEGER)
+  - game_index (INTEGER)
+
+Table: versions
+  - id (INTEGER)
+  - version_group_id (INTEGER)
+  - identifier (VARCHAR(79))
+
+Table: version_group_pokemon_move_methods
+  - version_group_id (INTEGER)
+  - pokemon_move_method_id (INTEGER)
+
+Table: version_group_regions
+  - version_group_id (INTEGER)
+  - region_id (INTEGER)
+
+Table: ability_changelog_prose
+  - ability_changelog_id (INTEGER)
+  - local_language_id (INTEGER)
+  - effect (TEXT)
+
+Table: berry_flavors
+  - berry_id (INTEGER)
+  - contest_type_id (INTEGER)
+  - flavor (INTEGER)
+
+Table: conquest_kingdom_names
+  - kingdom_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: conquest_move_data
+  - move_id (INTEGER)
+  - power (INTEGER)
+  - accuracy (INTEGER)
+  - effect_chance (INTEGER)
+  - effect_id (INTEGER)
+  - range_id (INTEGER)
+  - displacement_id (INTEGER)
+
+Table: conquest_transformation_warriors
+  - transformation_id (INTEGER)
+  - present_warrior_id (INTEGER)
+
+Table: contest_combos
+  - first_move_id (INTEGER)
+  - second_move_id (INTEGER)
+
+Table: location_area_encounter_rates
+  - location_area_id (INTEGER)
+  - encounter_method_id (INTEGER)
+  - version_id (INTEGER)
+  - rate (INTEGER)
+
+Table: machines
+  - machine_number (INTEGER)
+  - version_group_id (INTEGER)
+  - item_id (INTEGER)
+  - move_id (INTEGER)
+
+Table: move_names
+  - move_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: move_flavor_summaries
+  - move_id (INTEGER)
+  - local_language_id (INTEGER)
+  - flavor_summary (TEXT)
+
+Table: move_changelog
+  - move_id (INTEGER)
+  - changed_in_version_group_id (INTEGER)
+  - type_id (INTEGER)
+  - power (SMALLINT)
+  - pp (SMALLINT)
+  - accuracy (SMALLINT)
+  - priority (SMALLINT)
+  - target_id (INTEGER)
+  - effect_id (INTEGER)
+  - effect_chance (INTEGER)
+
+Table: move_effect_changelog_prose
+  - move_effect_changelog_id (INTEGER)
+  - local_language_id (INTEGER)
+  - effect (TEXT)
+
+Table: move_flag_map
+  - move_id (INTEGER)
+  - move_flag_id (INTEGER)
+
+Table: move_flavor_text
+  - move_id (INTEGER)
+  - version_group_id (INTEGER)
+  - language_id (INTEGER)
+  - flavor_text (TEXT)
+
+Table: move_meta
+  - move_id (INTEGER)
+  - meta_category_id (INTEGER)
+  - meta_ailment_id (INTEGER)
+  - min_hits (INTEGER)
+  - max_hits (INTEGER)
+  - min_turns (INTEGER)
+  - max_turns (INTEGER)
+  - drain (INTEGER)
+  - healing (INTEGER)
+  - crit_rate (INTEGER)
+  - ailment_chance (INTEGER)
+  - flinch_chance (INTEGER)
+  - stat_chance (INTEGER)
+
+Table: move_meta_stat_changes
+  - move_id (INTEGER)
+  - stat_id (INTEGER)
+  - change (INTEGER)
+
+Table: pokemon_species
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - generation_id (INTEGER)
+  - evolves_from_species_id (INTEGER)
+  - evolution_chain_id (INTEGER)
+  - color_id (INTEGER)
+  - shape_id (INTEGER)
+  - habitat_id (INTEGER)
+  - gender_rate (INTEGER)
+  - capture_rate (INTEGER)
+  - base_happiness (INTEGER)
+  - is_baby (BOOLEAN)
+  - hatch_counter (INTEGER)
+  - has_gender_differences (BOOLEAN)
+  - growth_rate_id (INTEGER)
+  - forms_switchable (BOOLEAN)
+  - is_legendary (BOOLEAN)
+  - is_mythical (BOOLEAN)
+  - order (INTEGER)
+  - conquest_order (INTEGER)
+
+Table: super_contest_combos
+  - first_move_id (INTEGER)
+  - second_move_id (INTEGER)
+
+Table: version_names
+  - version_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+
+Table: conquest_max_links
+  - warrior_rank_id (INTEGER)
+  - pokemon_species_id (INTEGER)
+  - max_link (INTEGER)
+
+Table: conquest_pokemon_abilities
+  - pokemon_species_id (INTEGER)
+  - slot (INTEGER)
+  - ability_id (INTEGER)
+
+Table: conquest_pokemon_evolution
+  - evolved_species_id (INTEGER)
+  - required_stat_id (INTEGER)
+  - minimum_stat (INTEGER)
+  - minimum_link (INTEGER)
+  - kingdom_id (INTEGER)
+  - warrior_gender_id (INTEGER)
+  - item_id (INTEGER)
+  - recruiting_ko_required (BOOLEAN)
+
+Table: conquest_pokemon_moves
+  - pokemon_species_id (INTEGER)
+  - move_id (INTEGER)
+
+Table: conquest_pokemon_stats
+  - pokemon_species_id (INTEGER)
+  - conquest_stat_id (INTEGER)
+  - base_stat (INTEGER)
+
+Table: conquest_transformation_pokemon
+  - transformation_id (INTEGER)
+  - pokemon_species_id (INTEGER)
+
+Table: pal_park
+  - species_id (INTEGER)
+  - area_id (INTEGER)
+  - base_score (INTEGER)
+  - rate (INTEGER)
+
+Table: pokemon
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - species_id (INTEGER)
+  - height (INTEGER)
+  - weight (INTEGER)
+  - base_experience (INTEGER)
+  - order (INTEGER)
+  - is_default (BOOLEAN)
+
+Table: pokemon_dex_numbers
+  - species_id (INTEGER)
+  - pokedex_id (INTEGER)
+  - pokedex_number (INTEGER)
+
+Table: pokemon_egg_groups
+  - species_id (INTEGER)
+  - egg_group_id (INTEGER)
+
+Table: pokemon_evolution
+  - id (INTEGER)
+  - evolved_species_id (INTEGER)
+  - evolution_trigger_id (INTEGER)
+  - trigger_item_id (INTEGER)
+  - minimum_level (INTEGER)
+  - gender_id (INTEGER)
+  - location_id (INTEGER)
+  - held_item_id (INTEGER)
+  - time_of_day (VARCHAR(5))
+  - known_move_id (INTEGER)
+  - known_move_type_id (INTEGER)
+  - minimum_happiness (INTEGER)
+  - minimum_beauty (INTEGER)
+  - minimum_affection (INTEGER)
+  - relative_physical_stats (INTEGER)
+  - party_species_id (INTEGER)
+  - party_type_id (INTEGER)
+  - trade_species_id (INTEGER)
+  - needs_overworld_rain (BOOLEAN)
+  - turn_upside_down (BOOLEAN)
+
+Table: pokemon_species_names
+  - pokemon_species_id (INTEGER)
+  - local_language_id (INTEGER)
+  - name (VARCHAR(79))
+  - genus (TEXT)
+
+Table: pokemon_species_flavor_summaries
+  - pokemon_species_id (INTEGER)
+  - local_language_id (INTEGER)
+  - flavor_summary (TEXT)
+
+Table: pokemon_species_prose
+  - pokemon_species_id (INTEGER)
+  - local_language_id (INTEGER)
+  - form_description (TEXT)
+
+Table: pokemon_species_flavor_text
+  - species_id (INTEGER)
+  - version_id (INTEGER)
+  - language_id (INTEGER)
+  - flavor_text (TEXT)
+
+Table: encounters
+  - id (INTEGER)
+  - version_id (INTEGER)
+  - location_area_id (INTEGER)
+  - encounter_slot_id (INTEGER)
+  - pokemon_id (INTEGER)
+  - min_level (INTEGER)
+  - max_level (INTEGER)
+
+Table: pokemon_abilities
+  - pokemon_id (INTEGER)
+  - ability_id (INTEGER)
+  - is_hidden (BOOLEAN)
+  - slot (INTEGER)
+
+Table: pokemon_forms
+  - id (INTEGER)
+  - identifier (VARCHAR(79))
+  - form_identifier (VARCHAR(79))
+  - pokemon_id (INTEGER)
+  - introduced_in_version_group_id (INTEGER)
+  - is_default (BOOLEAN)
+  - is_battle_only (BOOLEAN)
+  - is_mega (BOOLEAN)
+  - form_order (INTEGER)
+  - order (INTEGER)
+
+Table: pokemon_game_indices
+  - pokemon_id (INTEGER)
+  - version_id (INTEGER)
+  - game_index (INTEGER)
+
+Table: pokemon_items
+  - pokemon_id (INTEGER)
+  - version_id (INTEGER)
+  - item_id (INTEGER)
+  - rarity (INTEGER)
+
+Table: pokemon_moves
+  - pokemon_id (INTEGER)
+  - version_group_id (INTEGER)
+  - move_id (INTEGER)
+  - pokemon_move_method_id (INTEGER)
+  - level (INTEGER)
+  - order (INTEGER)
+
+Table: pokemon_stats
+  - pokemon_id (INTEGER)
+  - stat_id (INTEGER)
+  - base_stat (INTEGER)
+  - effort (INTEGER)
+
+Table: pokemon_types
+  - pokemon_id (INTEGER)
+  - type_id (INTEGER)
+  - slot (INTEGER)
+
+Table: encounter_condition_value_map
+  - encounter_id (INTEGER)
+  - encounter_condition_value_id (INTEGER)
+
+Table: pokemon_form_names
+  - pokemon_form_id (INTEGER)
+  - local_language_id (INTEGER)
+  - form_name (VARCHAR(79))
+  - pokemon_name (VARCHAR(79))
+
+Table: pokemon_form_generations
+  - pokemon_form_id (INTEGER)
+  - generation_id (INTEGER)
+  - game_index (INTEGER)
+
+Table: pokemon_form_pokeathlon_stats
+  - pokemon_form_id (INTEGER)
+  - pokeathlon_stat_id (INTEGER)
+  - minimum_stat (INTEGER)
+  - base_stat (INTEGER)
+  - maximum_stat (INTEGER)

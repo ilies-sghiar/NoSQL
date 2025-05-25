@@ -1,0 +1,14 @@
+{
+  "encounters": {},
+  "image": "Hokulani Observatory SMUSUM.png",
+  "image_size": "300",
+  "type": "building",
+  "location_name": "Hokulani Observatory",
+  "japanese_name": "\u30db\u30af\u30e9\u30cb{{tt|\u5929\u6587\u53f0|\u3066\u3093\u3082\u3093\u3060\u3044}}",
+  "translated_name": "H\u014dk\u016blani Observatory",
+  "location": "[[Mount Hokulani]]",
+  "mapdesc": "A research facility for observing and studying various phenomena in space.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

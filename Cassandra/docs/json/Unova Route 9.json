@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "number": "9",
+  "image": "Unova Route 9 Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "generation": "5",
+  "type": "forest",
+  "mapdesc": "This paved road attracts those who love [[Bicycle|bikes]].",
+  "east": "Opelucid City",
+  "west": "Tubeline Bridge",
+  "south": "Challenger's Cave",
+  "southalt": "Challenger's Cave{{tt|*|Black and White only}}",
+  "region": "Unova"
+}

@@ -1,0 +1,32 @@
+{
+  "encounters": {
+    "pe": [
+      "Rattata",
+      "Spearow",
+      "Nidoran\u2640",
+      "Nidoran\u2642",
+      "Fearow",
+      "Charizard",
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Dragonite"
+    ]
+  },
+  "number": "22",
+  "image": "Kanto Route 22 PE.png",
+  "imageI": "Kanto Route 22 RBY.png",
+  "imageII": "Kanto Route 22 GSC.png",
+  "imageIII": "Kanto Route 22 FRLG.png",
+  "type": "land",
+  "west": "Pok\u00e9mon League Reception Gate",
+  "westalt": "Pok\u00e9mon League Reception Gate{{tt|*|Generations II and IV}}",
+  "east": "Viridian City",
+  "north": "Pok\u00e9mon League Reception Gate",
+  "northalt": "Pok\u00e9mon League Front Gate{{tt|*|Generations I, III, and VII}}",
+  "north2": "Kanto Route 23",
+  "north2alt": "Route 23{{tt|*|Generations I, III, and VII}}",
+  "surf": "yes",
+  "region": "Kanto",
+  "mapdesc": "A path to Victory Road that eventually becomes impassable.{{sup/4|HGSS}}<br>A paved road that leads straight to the Pok\u00e9mon League.{{sup/7|PE}}"
+}

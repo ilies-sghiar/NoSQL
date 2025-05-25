@@ -1,0 +1,32 @@
+{
+  "encounters": {
+    "7": [
+      "Exeggcute",
+      "Exeggutor",
+      "Pelipper",
+      "Gastrodon",
+      "Any",
+      "Serperior"
+    ],
+    "usum": [
+      "Exeggcute",
+      "Exeggutor",
+      "Pinsir",
+      "Pelipper",
+      "Tropius",
+      "Gastrodon",
+      "Any",
+      "Chesnaught"
+    ]
+  },
+  "image": "Exeggutor Island USUM.png",
+  "type": "land",
+  "location_name": "Exeggutor Island",
+  "japanese_name": "\u30ca\u30c3\u30b7\u30fc\u30fb\u30a2\u30a4\u30e9\u30f3\u30c9",
+  "translated_name": "{{tt|Nassy|Exeggutor}} Island",
+  "location": "West of [[Seafolk Village]]",
+  "region": "Alola",
+  "mapdesc": "It's a paradise for Exeggutor! This island is designated as a special preserve.",
+  "generation": "{{Gen|VII}}",
+  "mapsize": "250px"
+}

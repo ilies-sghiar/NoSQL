@@ -1,0 +1,18 @@
+{
+  "encounters": {},
+  "name": "Survival Area",
+  "jpname": "\u30b5\u30d0\u30a4\u30d0\u30eb\u30a8\u30ea\u30a2",
+  "jptrans": "Survival Area",
+  "image": "Survival Area BDSP.png",
+  "slogan": "Staging Point",
+  "region": "Sinnoh",
+  "west": "Route 225",
+  "regionwest": "Sinnoh",
+  "east": "Route 226",
+  "regioneast": "Sinnoh",
+  "mapdesc": "A city where hot-blooded Trainers gather to work out and hone their battling skills.{{sup/4|DP}}<br>A town where hot-blooded Trainers gather to work out and hone their battling skills.{{sup/4|Pt}}",
+  "colordark": "999",
+  "colormed": "b2b2b2",
+  "colorlight": "CCC",
+  "generation": "4"
+}

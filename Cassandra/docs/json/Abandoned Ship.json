@@ -1,0 +1,20 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Tentacruel",
+      "Magikarp"
+    ]
+  },
+  "image": "Abandoned Ship RSE.png",
+  "other_info": "S.S. Cactus",
+  "image_size": "240",
+  "type": "ocean",
+  "location_name": "Abandoned Ship",
+  "japanese_name": "\u3059\u3066\u3089\u308c{{tt|\u8239|\u3076\u306d}}",
+  "translated_name": "Abandoned Ship",
+  "location": "On {{rt|108|Hoenn}}",
+  "region": "Hoenn",
+  "generation": "{{Gen|III}}",
+  "map": "Hoenn Abandoned Ship Map.png"
+}

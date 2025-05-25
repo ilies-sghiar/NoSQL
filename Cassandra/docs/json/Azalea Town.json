@@ -1,0 +1,44 @@
+{
+  "encounters": {
+    "2": [
+      "Caterpie",
+      "Butterfree",
+      "Weedle",
+      "Beedrill",
+      "Spearow",
+      "Ekans",
+      "Exeggcute",
+      "Aipom",
+      "Pineco",
+      "Metapod",
+      "Kakuna",
+      "Heracross"
+    ],
+    "hs": [
+      "Spearow",
+      "Aipom",
+      "Heracross"
+    ]
+  },
+  "name": "Azalea Town",
+  "jpname": "\u30d2\u30ef\u30c0\u30bf\u30a6\u30f3",
+  "jptrans": "Hiwada Town",
+  "image": "Azalea Town HGSS.png",
+  "imageII": "Azalea Town GSC.png",
+  "slogan": "Living Happily with Pok\u00e9mon",
+  "region": "Johto",
+  "east": "Route 33",
+  "regioneast": "Johto",
+  "west": "Ilex Forest",
+  "mapdesc": "A town where people and Pok\u00e9mon live together in simple harmony.",
+  "gym": "Azalea Gym",
+  "gymno": "2",
+  "leader": "Bugsy",
+  "leadervs": "VSBugsy.png",
+  "badge": "Hive",
+  "gymtype": "Bug",
+  "colordark": "4E6E2E",
+  "colormed": "5a7d38",
+  "colorlight": "688D43",
+  "generation": "2"
+}

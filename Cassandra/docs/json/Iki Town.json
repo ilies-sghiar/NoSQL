@@ -1,0 +1,24 @@
+{
+  "encounters": {
+    "7": [
+      "Rowlet",
+      "Litten",
+      "Popplio"
+    ]
+  },
+  "name": "Iki Town",
+  "jpname": "\u30ea\u30ea\u30a3\u30bf\u30a6\u30f3",
+  "jptrans": "Lili'i Town",
+  "image": "Iki Town SM.png",
+  "region": "Alola",
+  "generation": "7",
+  "slogan": "The place where we give thanks to Pok\u00e9mon.",
+  "mapdesc": "An old town where traditions have been passed on for generations. The villagers here are close with Tapu Koko.",
+  "north": "Mahalo Trail",
+  "south": "Route 1",
+  "regionsouth": "Alola",
+  "colordark": "912E1E",
+  "colormed": "BF5700",
+  "colorlight": "F5BE84",
+  "mapsize": "250px"
+}

@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Twist Mountain BW.png",
+  "image_size": "256",
+  "type": "{{#switch: {{#time: F}}|April|August|December=snow|mountain}}",
+  "location_name": "Twist Mountain",
+  "japanese_name": "{{tt|\u30cd\u30b8\u5c71|neji yama}}",
+  "translated_name": "Spiral Mountain",
+  "location": "Between {{rt|7|Unova}} and [[Icirrus City]]",
+  "region": "Unova",
+  "mapdesc": "It has a reputation as a mine littered with valuable ore.",
+  "generation": "{{Gen|V}}"
+}

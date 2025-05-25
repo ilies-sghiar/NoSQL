@@ -1,0 +1,42 @@
+{
+  "encounters": {
+    "4": [
+      "Wingull",
+      "Buizel",
+      "Floatzel",
+      "Shellos",
+      "Chatot",
+      "Absol",
+      "Swellow"
+    ],
+    "bdsp": [
+      "Wingull",
+      "Buizel",
+      "Floatzel",
+      "Shellos",
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Magikarp",
+      "Remoraid",
+      "Gyarados",
+      "Octillery",
+      "Sharpedo",
+      "Absol",
+      "Swellow"
+    ]
+  },
+  "number": "213",
+  "size": "290",
+  "imageIV": "Sinnoh Route 213 Pt.png",
+  "type": "sand",
+  "image": "Sinnoh Route 213 Pt.png",
+  "north": "Valor Lakefront",
+  "west": "Pastoria City",
+  "region": "Sinnoh",
+  "generation": "4",
+  "surf": "yes",
+  "rockclimb": "yes",
+  "rocksmash": "yes",
+  "mapdesc": "Offshore boulders form a jetty that becalms waves reaching the beach. A resort hotel overlooks the water.<br>In a small house on the beach lives a single man who refers to himself as Dr. Footstep."
+}

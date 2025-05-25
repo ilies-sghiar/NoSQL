@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "HGSS Dragon's Den-{{#switch: {{#time: G}}|4|5|6|7|8|9=Morning|10|11|12|13|14|15|16=Day|17|18|19=Evening|20|21|22|23|0|1|2|3=Night}}.png",
+  "image_size": "256",
+  "type": "cave",
+  "location_name": "Dragon's Den",
+  "japanese_name": "\u308a\u3085\u3046\u306e\u3042\u306a",
+  "translated_name": "Dragon's Den",
+  "location": "Underneath [[Blackthorn City]]",
+  "region": "Johto",
+  "generation": "{{Gen|II}}, {{Gen|IV}}",
+  "map": "Johto Dragons Den Map.png"
+}

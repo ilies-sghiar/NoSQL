@@ -1,0 +1,18 @@
+{
+  "encounters": {},
+  "number": "16",
+  "image": "Unova Route 16 Summer B2W2.png",
+  "cut": "yes",
+  "strength": "yes",
+  "generation": "5",
+  "type": "forest",
+  "mapdesc": "Many who visit [[Nimbasa City]] drop by to take a break.",
+  "north": "Lostlorn Forest",
+  "east": "Marvelous Bridge",
+  "west": "Nimbasa City",
+  "region": "Unova",
+  "prev": "Route 15",
+  "regionprev": "Unova",
+  "next": "Route 17",
+  "regionnext": "Unova"
+}

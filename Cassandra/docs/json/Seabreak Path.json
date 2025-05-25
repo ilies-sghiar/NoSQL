@@ -1,0 +1,16 @@
+{
+  "encounters": {},
+  "name": "Seabreak Path",
+  "jpname": "{{tt|\u6d77\u5272\u308c\u306e\u9053|Umiware no Michi}}",
+  "jptrans": "Seabreak Path",
+  "jptranslit": "Umi Ware no Michi",
+  "generation": "4",
+  "image": "Seabreak path.png",
+  "type": "land",
+  "mapdesc": "A straight path bounded by the sea on both sides. It leads to the Flower Paradise.",
+  "north": "Flower Paradise",
+  "south": "Sinnoh Route 224",
+  "southalt": "Route 224",
+  "region": "Sinnoh",
+  "regionmap": "Sinnoh Seabreak Path Map.png"
+}

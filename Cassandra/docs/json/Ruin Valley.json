@@ -1,0 +1,19 @@
+{
+  "encounters": {},
+  "name": "Ruin Valley",
+  "jpname": "\u3044\u305b\u304d\u306e\u305f\u306b",
+  "jptrans": "Ruin Valley",
+  "jptranslit": "Iseki no Tani",
+  "size": "290",
+  "image": "Ruin Valley.png",
+  "imageIII": "Ruin Valley.png",
+  "generation": "3",
+  "type": "ruins",
+  "east": "Water Path",
+  "regionmap": "Sevii Islands Ruin Valley Map.png",
+  "region": "Sevii Islands",
+  "prev": "Water Path",
+  "next": "Trainer Tower",
+  "strength": "yes",
+  "cut": "{{tt|*|Entry to Dotted Hole}}"
+}

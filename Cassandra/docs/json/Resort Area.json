@@ -1,0 +1,24 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Golduck",
+      "Magikarp",
+      "Goldeen",
+      "Seaking",
+      "Gyarados"
+    ]
+  },
+  "name": "Resort Area",
+  "jpname": "\u30ea\u30be\u30fc\u30c8\u30a8\u30ea\u30a2",
+  "jptrans": "Resort Area",
+  "image": "Resort Area BDSP.png",
+  "slogan": "Relax & Play!",
+  "region": "Sinnoh",
+  "north": "Route 229",
+  "regionnorth": "Sinnoh",
+  "mapdesc": "A city that attracts Trainers who know there are other ways of enjoying Pok\u00e9mon than battling.{{sup/4|DP}}{{sup/8|BDSP}}<br>A town that attracts Trainers who know there are other ways of enjoying Pok\u00e9mon than battling.{{sup/4|Pt}}",
+  "colordark": "9A32CD",
+  "colormed": "B23AEE",
+  "colorlight": "BF3EFF",
+  "generation": "4"
+}

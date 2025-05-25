@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Battle Maison outside XY.png",
+  "type": "building",
+  "location_name": "Battle Maison",
+  "japanese_name": "\u30d0\u30c8\u30eb\u30cf\u30a6\u30b9",
+  "translated_name": "Battle House",
+  "location": "[[Kiloude City]]{{sup/6|XY}}, [[Battle Resort]]{{sup/6|ORAS}}",
+  "region": "Kalos",
+  "region2": "Hoenn",
+  "generation": "{{gen|VI}}",
+  "map": "Kalos Kiloude City Map.png"
+}

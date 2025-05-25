@@ -1,0 +1,34 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ],
+    "oras": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Krabby",
+      "Frillish",
+      "Skrelp",
+      "Clauncher",
+      "Magikarp",
+      "Wailmer"
+    ]
+  },
+  "number": "109",
+  "size": "290",
+  "generation": "3",
+  "image": "Hoenn Route 109 ORAS.png",
+  "imageIII": "Hoenn Route 109 RS.png",
+  "type": "ocean",
+  "mapdesc": "People and Pok\u00e9mon alike enjoy ocean swims in this water route.",
+  "surf": "yes",
+  "north": "Slateport City",
+  "west": "Route 108",
+  "regionwest": "Hoenn",
+  "region": "Hoenn"
+}

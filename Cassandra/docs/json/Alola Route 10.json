@@ -1,0 +1,38 @@
+{
+  "encounters": {
+    "7": [
+      "Raticate",
+      "Fearow",
+      "Ledian",
+      "Ariados",
+      "Skarmory",
+      "Pancham",
+      "Gumshoos",
+      "Crabrawler",
+      "Staravia"
+    ],
+    "usum": [
+      "Raticate",
+      "Fearow",
+      "Ledian",
+      "Ariados",
+      "Skarmory",
+      "Pancham",
+      "Gumshoos",
+      "Pineco",
+      "Crabrawler",
+      "Pidgeot"
+    ]
+  },
+  "number": "10",
+  "size": "240",
+  "generation": "7",
+  "image": "Alola Route 10.png",
+  "type": "land",
+  "slogan": "A wooded path where Pok\u00e9mon live.",
+  "mapdesc": "A gladed path filled with the nests of many Pok\u00e9mon. It leads to the road that can take you to the top of Mount Hokulani.",
+  "north": "Mount Hokulani",
+  "east": "Malie City",
+  "region": "Alola",
+  "mapsize": "250px"
+}

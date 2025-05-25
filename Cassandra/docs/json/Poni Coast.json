@@ -1,0 +1,20 @@
+{
+  "encounters": {
+    "7": [
+      "Dugtrio"
+    ],
+    "usum": [
+      "Dugtrio"
+    ]
+  },
+  "image": "Poni Coast SMUSUM.png",
+  "type": "rock",
+  "location_name": "Poni Coast",
+  "japanese_name": "\u30dd\u30cb\u306e{{tt|\u6d77\u5cb8|\u304b\u3044\u304c\u3093}}",
+  "translated_name": "Poni Coast",
+  "location": "Northeast of [[Poni Plains]]<br>Southeast of [[Poni Gauntlet]]",
+  "mapdesc": "The north-eastern coast of Poni Island, where the clarity of the water makes it a popular view spot.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

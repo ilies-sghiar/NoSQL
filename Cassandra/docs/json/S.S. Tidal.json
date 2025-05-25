@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "SS Tidal ORAS.png",
+  "image_size": "240",
+  "type": "water",
+  "location_name": "S.S. Tidal",
+  "japanese_name": "\u30bf\u30a4\u30c9\u30ea\u30c3\u30d7{{tt|\u53f7|\u3054\u3046}}",
+  "translated_name": "Tiderip",
+  "location": "[[Lilycove City]], [[Slateport City]], and others",
+  "region": "Hoenn",
+  "generation": "{{gen|III}}, {{gen|VI}}",
+  "map": "Hoenn Lilycove City Map.png"
+}

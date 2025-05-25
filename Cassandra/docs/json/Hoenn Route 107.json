@@ -1,0 +1,38 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ],
+    "oras": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Krabby",
+      "Frillish",
+      "Skrelp",
+      "Clauncher",
+      "Magikarp",
+      "Wailmer",
+      "Chinchou",
+      "Lanturn",
+      "Clamperl",
+      "Relicanth"
+    ]
+  },
+  "number": "107",
+  "size": "290",
+  "generation": "3",
+  "image": "Hoenn Route 107 ORAS.png",
+  "type": "ocean",
+  "mapdesc": "The local children of Dewford Town practice long-distance swimming in the waters of this aquatic route.",
+  "surf": "yes",
+  "dive": "{{sup/6|ORAS}}",
+  "west": "Dewford Town",
+  "east": "Route 108",
+  "regioneast": "Hoenn",
+  "region": "Hoenn"
+}

@@ -1,0 +1,32 @@
+{
+  "encounters": {
+    "7": [
+      "Zubat",
+      "Diglett",
+      "Psyduck",
+      "Magikarp",
+      "Barboach",
+      "Totodile"
+    ],
+    "usum": [
+      "Zubat",
+      "Psyduck",
+      "Delibird",
+      "Smoochum",
+      "Seel",
+      "Magikarp",
+      "Barboach",
+      "Squirtle"
+    ]
+  },
+  "image": "Seaward Cave USUM.png",
+  "type": "cave",
+  "location_name": "Seaward Cave",
+  "japanese_name": "{{tt|\u6d77\u7e4b|\u3046\u307f\u3064\u306a}}\u304e\u306e{{tt|\u6d1e\u7a74|\u3069\u3046\u3051\u3064}}",
+  "translated_name": "Seaward Cave",
+  "location": "{{rt|3|Alola}}",
+  "mapdesc": "A cave that connects Melemele Meadow and Kala'e Bay. It is filled with salty smell of the sea.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

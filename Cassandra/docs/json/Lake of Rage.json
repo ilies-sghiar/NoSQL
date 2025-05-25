@@ -1,0 +1,37 @@
+{
+  "encounters": {
+    "2": [
+      "Magikarp",
+      "Gyarados",
+      "Caterpie",
+      "Metapod",
+      "Butterfree",
+      "Weedle",
+      "Kakuna",
+      "Beedrill",
+      "Venonat",
+      "Exeggcute",
+      "Hoothoot",
+      "Pineco"
+    ],
+    "hs": [
+      "Magikarp",
+      "Gyarados",
+      "Exeggcute",
+      "Hoothoot",
+      "Pineco",
+      "Venonat"
+    ]
+  },
+  "image": "Lake of Rage HGSS {{#switch: {{#time: w}}|3=dry|wet}}.png",
+  "type": "lake",
+  "mapdesc": "A huge lake full of clear, blue water.",
+  "location_name": "Lake of Rage",
+  "japanese_name": "\u3044\u304b\u308a\u306e\u307f\u305a\u3046\u307f",
+  "translated_name": "Lake of Rage",
+  "other_info": "Gyarados Lake",
+  "location": "North of [[Mahogany Town]]",
+  "region": "Johto",
+  "generation": "{{Gen|II}}, {{Gen|IV}} ",
+  "map": "Johto Lake of Rage Map.png"
+}

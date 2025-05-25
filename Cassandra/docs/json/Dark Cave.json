@@ -1,0 +1,14 @@
+{
+  "encounters": {},
+  "image": "HGSS Dark Cave-Route {{#switch: {{#expr: {{#time: z}} mod 2}}|0=31|1=45}}-{{#switch: {{#time:\nG}}|23|0|1|2|3|4|5|6=Night|7|8|9|10|11|12=Morning|13|14|15|16|17|18=Day|19|20|21|22=Evening}}.png\n",
+  "image_size": "256",
+  "location_name": "Dark Cave",
+  "japanese_name": "\u304f\u3089\u3084\u307f\u306e\u307b\u3089\u3042\u306a",
+  "translated_name": "Dark Cave",
+  "mapdesc": "A dark, difficult-to-navigate tunnel that runs beneath the Johto region.",
+  "type": "cave",
+  "location": "{{rt|31|Johto}} east of [[Violet City]], {{rt|45|Johto}} south of [[Blackthorn City]], {{rt|46|Johto}} north of {{rt|29|Johto}}",
+  "region": "Johto",
+  "map": "Johto Dark Cave Map.png",
+  "generation": "{{Gen|II}}, {{Gen|IV}}"
+}

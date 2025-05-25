@@ -1,0 +1,14 @@
+{
+  "encounters": {},
+  "image": "Bellchime Trail HGSS.png",
+  "image_size": "256",
+  "type": "forest",
+  "location_name": "Bellchime Trail",
+  "japanese_name": "\u30b9\u30ba\u306d\u306e\u3053\u307f\u3061",
+  "translated_name": "Bell Chime Trail",
+  "mapdesc": "A path said to always be bathed in sunset, no matter what the season.",
+  "location": "[[Ecruteak City]]",
+  "region": "Johto",
+  "generation": "{{Gen|II}}, {{Gen|IV}}",
+  "map": "Johto Bell Tower Map.png"
+}

@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Photo Spot Battle Chateau.png",
+  "location_name": "Battle Chateau",
+  "japanese_name": "\u30d0\u30c8\u30eb\u30b7\u30e3\u30c8\u30fc",
+  "translated_name": "Battle Chateau",
+  "type": "building",
+  "location": "{{rt|7|Kalos}}",
+  "slogan": "Show your strength with a title!",
+  "region": "Kalos",
+  "generation": "{{Gen|VI}}",
+  "map": "Kalos Route 7 Map.png"
+}

@@ -1,0 +1,20 @@
+{
+  "encounters": {},
+  "name": "Black City",
+  "jpname": "{{tt|\u30d6\u30e9\u30c3\u30af\u30b7\u30c6\u30a3|burakku shiti}}",
+  "jptrans": "Black City",
+  "image": "Black City and White Forest.png",
+  "image_size": "290",
+  "region": "Unova",
+  "generation": "5",
+  "slogan": "Prosperous and Vibrant",
+  "mapdesc": "A modern city of ongoing development that draws people to it.",
+  "north": "Route 14",
+  "regionnorth": "Unova",
+  "west": "Route 15",
+  "regionwest": "Unova",
+  "colordark": "353535",
+  "colormed": "525252",
+  "colorlight": "8E8E8E",
+  "map": "Unova Black City White Forest Black Tower White Treehollow Map.png"
+}

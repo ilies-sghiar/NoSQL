@@ -1,0 +1,23 @@
+{
+  "encounters": {
+    "fl": [
+      "Caterpie",
+      "Metapod",
+      "Weedle",
+      "Kakuna",
+      "Ledyba",
+      "Spinarak",
+      "Heracross"
+    ]
+  },
+  "image": "FL Viridian Forest.png",
+  "image_size": "240",
+  "type": "forest",
+  "location_name": "Pattern Bush",
+  "japanese_name": "\u3057\u308b\u3057\u306e\u306f\u3084\u3057",
+  "translated_name": "Symbol Thicket",
+  "location": "In the middle of [[Green Path]], [[Six Island]]",
+  "region": "Sevii Islands",
+  "mapdesc": "A lush and bush-like area. In it are patterns where no grass grows. Some study it in the belief that a secret is concealed.",
+  "generation": "{{gen|III}}"
+}

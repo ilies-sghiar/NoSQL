@@ -1,0 +1,41 @@
+{
+  "encounters": {
+    "7": [
+      "Rattata",
+      "Eevee",
+      "Igglybuff",
+      "Lillipup",
+      "Pikipek",
+      "Yungoos",
+      "Grubbin",
+      "Mudbray",
+      "Oricorio",
+      "Gothita"
+    ],
+    "usum": [
+      "Rattata",
+      "Eevee",
+      "Igglybuff",
+      "Lillipup",
+      "Pikipek",
+      "Yungoos",
+      "Grubbin",
+      "Mudbray",
+      "Oricorio",
+      "Ralts"
+    ]
+  },
+  "number": "6",
+  "size": "200",
+  "generation": "7",
+  "image": "Alola Route 6 USUM.png",
+  "type": "land",
+  "slogan": "AKA Straight Street.",
+  "mapdesc": "A plain and straight route that leads through the middle of Akala Island. It is also known by the name \"Straight Street.\"",
+  "north": "Paniola Ranch",
+  "east": "Royal Avenue",
+  "south": "Heahea City",
+  "west": "Paniola Town",
+  "region": "Alola",
+  "mapsize": "250px"
+}
