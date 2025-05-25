@@ -15,7 +15,7 @@ Dans ce dossier, vous trouverez les fichiers suivants :
 
 ```bash
 docker pull cassandra:latest
-
+```
 docker network create cassandra
 
 docker run --rm -d --name cassandra --hostname cassandra --network cassandra cassandra
