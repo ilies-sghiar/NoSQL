@@ -16,13 +16,18 @@ Dans ce dossier, vous trouverez les fichiers suivants :
 ```bash
 docker pull cassandra:latest
 ```
+```bash
 docker network create cassandra
-
+```
+```bash
 docker run --rm -d --name cassandra --hostname cassandra --network cassandra cassandra
-
+```
+```bash
 docker cp data.cql cassandra:/data.cql
-
+```
+```bash
 docker exec -it cassandra cqlsh -f /data.cql
+```
 
 Ordre recommandé d’exécution des scripts :
 
