@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Celestial Tower {{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}} BWB2W2.png",
+  "image_size": "121",
+  "type": "ghost",
+  "location_name": "Celestial Tower",
+  "japanese_name": "\u30bf\u30ef\u30fc\u30aa\u30d6\u30d8\u30d6\u30f3",
+  "translated_name": "Tower of Heaven",
+  "location": "{{rt|7|Unova}}",
+  "region": "Unova",
+  "mapdesc": "A tall tower with a large bell whose tones are said to purify the spirit.",
+  "generation": "{{Gen|V}}"
+}

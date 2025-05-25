@@ -1,0 +1,31 @@
+{
+  "encounters": {
+    "6": [
+      "Scyther",
+      "Ursaring",
+      "Spinda",
+      "Altaria",
+      "Floatzel",
+      "Swablu",
+      "Lombre",
+      "Poliwag",
+      "Poliwhirl",
+      "Dratini",
+      "Basculin",
+      "Dragonair"
+    ]
+  },
+  "number": "21",
+  "size": "270",
+  "generation": "6",
+  "cut": "yes",
+  "strength": "yes",
+  "surf": "yes",
+  "image": "Kalos Route 21 XY.png",
+  "type": "land",
+  "mapdesc": "This is the path of the chosen, designed to hone the stalwart Trainers who dare face the Pok\u00e9mon League.",
+  "east": "Snowbelle City",
+  "west": "Victory Road (Kalos)",
+  "westalt": "Victory Road",
+  "region": "Kalos"
+}

@@ -1,0 +1,47 @@
+{
+  "encounters": {
+    "2": [
+      "Geodude",
+      "Graveler",
+      "Gligar",
+      "Teddiursa",
+      "Skarmory",
+      "Phanpy",
+      "Donphan",
+      "Magikarp",
+      "Dratini",
+      "Dragonair"
+    ],
+    "hs": [
+      "Geodude",
+      "Graveler",
+      "Gligar",
+      "Teddiursa",
+      "Skarmory",
+      "Phanpy",
+      "Magikarp",
+      "Poliwag",
+      "Spearow",
+      "Aipom",
+      "Heracross",
+      "Swablu",
+      "Linoone",
+      "Whismur",
+      "Bidoof",
+      "Buizel"
+    ]
+  },
+  "number": "45",
+  "image": "Johto Route 45 HGSS.png",
+  "size": "x500px",
+  "imageII": "Johto Route 45 GSC.png",
+  "type": "mountain",
+  "mapdesc": "A winding road by a river, but called \"Mountain Road.\"",
+  "north": "Blackthorn City",
+  "west": "Route 46",
+  "regionwest": "Johto",
+  "west2": "Dark Cave",
+  "region": "Johto",
+  "surf": "yes",
+  "generation": "2"
+}

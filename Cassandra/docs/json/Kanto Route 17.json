@@ -1,0 +1,74 @@
+{
+  "encounters": {
+    "1": [
+      "Raticate",
+      "Spearow",
+      "Fearow",
+      "Ponyta",
+      "Doduo",
+      "Dodrio",
+      "Magikarp",
+      "Poliwag",
+      "Goldeen",
+      "Tentacool",
+      "Shellder",
+      "Krabby"
+    ],
+    "2": [
+      "Fearow",
+      "Grimer",
+      "Muk",
+      "Slugma"
+    ],
+    "fl": [
+      "Rattata",
+      "Raticate",
+      "Spearow",
+      "Fearow",
+      "Doduo"
+    ],
+    "hs": [
+      "Fearow",
+      "Grimer",
+      "Muk",
+      "Slugma",
+      "Plusle",
+      "Minun",
+      "Shinx"
+    ],
+    "pe": [
+      "Pidgey",
+      "Pidgeotto",
+      "Rattata",
+      "Raticate",
+      "Psyduck",
+      "Ponyta",
+      "Rapidash",
+      "Doduo",
+      "Dodrio",
+      "Eevee",
+      "Chansey",
+      "Pidgeot",
+      "Charizard",
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Dragonite"
+    ]
+  },
+  "number": "17",
+  "image": "Kanto Route 17 PE.png",
+  "imageI": "Kanto Route 17 RBY.png",
+  "imageII": "Kanto Route 17 GSC.png",
+  "imageIII": "Kanto Route 17 FRLG.png",
+  "imageIV": "Kanto Route 17 HGSS.png",
+  "type": "road",
+  "north": "Route 16",
+  "south": "Route 18",
+  "regionnorth": "Kanto",
+  "regionsouth": "Kanto",
+  "region": "Kanto",
+  "bike": "{{sup/1}}{{sup/2}}{{sup/3|FRLG}}{{sup/4|HGSS}}",
+  "generation": "1",
+  "mapdesc": "An easy path of Cycling Road running above the sea.{{sup/4|HGSS}}<br>Also known as Pok\u00e9mon Road. A place where trainers and Pok\u00e9mon can walk together.{{sup/7|PE}}"
+}

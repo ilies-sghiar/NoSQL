@@ -1,0 +1,33 @@
+{
+  "encounters": {
+    "6": [
+      "Weepinbell",
+      "Haunter",
+      "Quagsire",
+      "Drapion",
+      "Carnivine",
+      "Karrablast",
+      "Shelmet",
+      "Sliggoo",
+      "Arbok",
+      "Gligar",
+      "Stunfisk",
+      "Poliwag",
+      "Poliwhirl",
+      "Barboach",
+      "Politoed",
+      "Whiscash"
+    ]
+  },
+  "number": "19",
+  "image": "Kalos Route 19 XY.png",
+  "size": "300",
+  "generation": "6",
+  "strength": "yes",
+  "surf": "yes",
+  "type": "land",
+  "mapdesc": "This great valley can now be crossed thanks to its long bridge, built with the help of many Pok\u00e9mon.",
+  "north": "Couriway Town",
+  "west": "Snowbelle City",
+  "region": "Kalos"
+}

@@ -1,0 +1,25 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Psyduck",
+      "Golduck",
+      "Magikarp",
+      "Goldeen",
+      "Seaking",
+      "Gyarados"
+    ]
+  },
+  "name": "Twinleaf Town",
+  "jpname": "\u30d5\u30bf\u30d0\u30bf\u30a6\u30f3",
+  "jptrans": "Futaba Town",
+  "image_size": "290",
+  "image": "Twinleaf Town BDSP.png",
+  "slogan": "Fresh and Free!",
+  "region": "Sinnoh",
+  "north": "Route 201",
+  "regionnorth": "Sinnoh",
+  "mapdesc": "A small town with the fresh scent of new leaves in the air. It feels like a place where adventures start.<br>Your own home and your best friend's house are located here.",
+  "colordark": "36A87E",
+  "colormed": "38CE7B",
+  "colorlight": "3BF578"
+}

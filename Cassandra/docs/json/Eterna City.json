@@ -1,0 +1,36 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Psyduck",
+      "Golduck",
+      "Magikarp",
+      "Barboach",
+      "Gyarados",
+      "Whiscash"
+    ]
+  },
+  "name": "Eterna City",
+  "jpname": "\u30cf\u30af\u30bf\u30a4\u30b7\u30c6\u30a3",
+  "jptrans": "Hakutai City",
+  "image": "Eterna City BDSP.png",
+  "image_size": "300",
+  "slogan": "History Living",
+  "region": "Sinnoh",
+  "west": "Route 205",
+  "regionwest": "Sinnoh",
+  "east": "Route 211",
+  "regioneast": "Sinnoh",
+  "south": "Route 206",
+  "regionsouth": "Sinnoh",
+  "mapdesc": "An old city that shows fading and almost-forgotten vestiges of ancient history.<br>A Gym is indispensable in any town that has many people coming and going. This city is no exception.<br>The Cycle Shop is located here. There is also a big building with a slightly sinister atmosphere.<br>A statue of an ancient Pok\u00e9mon is prominently and reverently displayed.",
+  "gym": "Eterna Gym",
+  "gymno": "2",
+  "leader": "Gardenia",
+  "leadervs": "VSGardenia BDSP.png{{!}}90px",
+  "badge": "Forest",
+  "gymtype": "Grass",
+  "colordark": "228B42",
+  "colormed": "41a760",
+  "colorlight": "62C480",
+  "generation": "4"
+}

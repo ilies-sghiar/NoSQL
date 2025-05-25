@@ -1,0 +1,46 @@
+{
+  "encounters": {
+    "3": [
+      "Zigzagoon",
+      "Linoone",
+      "Wingull",
+      "Electrike",
+      "Manectric",
+      "Kecleon",
+      "Tentacool",
+      "Pelipper",
+      "Magikarp",
+      "Carvanha",
+      "Sharpedo"
+    ],
+    "oras": [
+      "Linoone",
+      "Wingull",
+      "Electrike",
+      "Kecleon",
+      "Pelipper",
+      "Raticate",
+      "Aipom",
+      "Luxio",
+      "Tentacool",
+      "Magikarp",
+      "Carvanha",
+      "Sharpedo"
+    ]
+  },
+  "number": "118",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 118 ORAS.png",
+  "imageIII": "Hoenn Route 118 RS.png",
+  "type": "land",
+  "mapdesc": "This seaside route brings together the east and west sides of the Hoenn region.",
+  "north": "Route 119",
+  "regionnorth": "Hoenn",
+  "east": "Route 123",
+  "regioneast": "Hoenn",
+  "west": "Mauville City",
+  "region": "Hoenn",
+  "surf": "yes",
+  "cut": "yes"
+}

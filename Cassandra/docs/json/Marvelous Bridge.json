@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Marvelous Bridge BW.png",
+  "image_size": "256",
+  "type": "road",
+  "location_name": "Marvelous Bridge",
+  "japanese_name": "\u30ef\u30f3\u30c0\u30fc\u30d6\u30ea\u30c3\u30b8",
+  "translated_name": "Wonder Bridge",
+  "mapdesc": "The most advanced bridge in Unova, designed to soften any impact.",
+  "location": "Between {{rt|15|Unova}} and {{rt|16|Unova}}",
+  "region": "Unova",
+  "generation": "{{Gen|V}}"
+}

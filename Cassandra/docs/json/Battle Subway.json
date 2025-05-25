@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Battle Subway artwork.png",
+  "type": "road",
+  "location_name": "Battle Subway",
+  "japanese_name": "\u30d0\u30c8\u30eb\u30b5\u30d6\u30a6\u30a7\u30a4",
+  "translated_name": "Battle Subway",
+  "location": "[[Nimbasa City]]",
+  "region": "Unova",
+  "generation": "{{gen|V}}",
+  "slogan": "Battle and Ride!",
+  "map": "Unova Nimbasa City Map.png"
+}

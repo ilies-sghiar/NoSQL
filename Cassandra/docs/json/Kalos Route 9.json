@@ -1,0 +1,18 @@
+{
+  "encounters": {
+    "6": [
+      "Hippopotas",
+      "Sandile",
+      "Helioptile"
+    ]
+  },
+  "number": "9",
+  "size": "300",
+  "generation": "6",
+  "image": "Kalos Route 9 XY.png",
+  "type": "mountain",
+  "mapdesc": "This rocky passage was created by retired Rhyhorn racers who forged a path where there was none.",
+  "north": "Glittering Cave",
+  "west": "Ambrette Town",
+  "region": "Kalos"
+}

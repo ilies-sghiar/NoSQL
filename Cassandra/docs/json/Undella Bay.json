@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "location_name": "Undella Bay",
+  "japanese_name": "{{tt|\u30b5\u30b6\u30ca\u30df\u6e7e|Sazanami-wan}}",
+  "translated_name": "Sazanami Bay",
+  "image": "Undella Bay {{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}} B2W2.png",
+  "type": "ocean",
+  "mapdesc": "A world-famous sea of shining waves.",
+  "location": "East of [[Undella Town]]<br>South of [[Seaside Cave]]{{sup/5|B2W2}}",
+  "region": "Unova",
+  "generation": "{{gen|V}}",
+  "map": "Unova Undella Bay B2W2 Map.png"
+}

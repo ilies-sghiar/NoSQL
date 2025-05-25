@@ -1,0 +1,23 @@
+{
+  "encounters": {
+    "3": [
+      "Chikorita",
+      "Cyndaquil",
+      "Totodile"
+    ]
+  },
+  "name": "Littleroot Town",
+  "jpname": "\u30df\u30b7\u30ed\u30bf\u30a6\u30f3",
+  "jptrans": "Mishiro Town",
+  "image": "Littleroot Town ORAS.png",
+  "imageIII": "Littleroot Town RS.png",
+  "slogan": "A town that can't be shaded any hue.",
+  "mapdesc": "Basking amid vibrant nature, this simple town is not shaded with any one hue.",
+  "region": "Hoenn",
+  "north": "Route 101",
+  "regionnorth": "Hoenn",
+  "colordark": "D8A870",
+  "colormed": "e7c373",
+  "colorlight": "F8E078",
+  "generation": "3"
+}

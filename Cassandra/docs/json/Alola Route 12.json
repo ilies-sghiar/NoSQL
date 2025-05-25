@@ -1,0 +1,33 @@
+{
+  "encounters": {
+    "7": [
+      "Geodude",
+      "Elekid",
+      "Torkoal",
+      "Mudbray"
+    ],
+    "usum": [
+      "Graveler",
+      "Houndoom",
+      "Manectric",
+      "Torkoal",
+      "Mudbray"
+    ]
+  },
+  "number": "12",
+  "size": "240",
+  "generation": "7",
+  "image": "Alola Route 12.png",
+  "type": "mountain",
+  "slogan": "A wild, rough, and rocky road.",
+  "mapdesc": "A route full of rugged boulders that present a difficult challenge to anyone who hopes to pass through it.",
+  "north": "Blush Mountain",
+  "south": "Ula'ula Beach",
+  "southalt": "Ula'ula Beach{{tt|*|Secluded Shore in Sun and Moon}}",
+  "west": "Route 11",
+  "west2": "Route 13",
+  "regionwest": "Alola",
+  "regionwest2": "Alola",
+  "region": "Alola",
+  "mapsize": "250px"
+}

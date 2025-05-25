@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "location_name": "P2 Laboratory",
+  "japanese_name": "{{tt|\uff30\uff12\u30e9\u30dc|P2 rabo}}",
+  "translated_name": "P2 Lab",
+  "location": "{{rt|17|Unova}}",
+  "region": "Unova",
+  "mapdesc": "Team Plasma's secret lab is located on a quiet little island.",
+  "image": "P2 Laboratory {{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}} BW.png",
+  "image_size": "300",
+  "generation": "{{Gen|V}}",
+  "type": "building"
+}

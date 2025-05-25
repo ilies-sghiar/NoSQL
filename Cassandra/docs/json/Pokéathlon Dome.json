@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Pok\u00e9athlon Dome HGSS.png",
+  "image_size": "240",
+  "type": "building",
+  "location_name": "Pok\u00e9athlon Dome",
+  "japanese_name": "\u30dd\u30b1\u30b9\u30ed\u30f3\u30c9\u30fc\u30e0",
+  "translated_name": "Pok\u00e9thlon Dome",
+  "location": "West of {{rt|35|Johto}}",
+  "region": "Johto",
+  "generation": "{{gen|IV}}",
+  "map": "Johto National Park Map.png"
+}

@@ -1,0 +1,47 @@
+{
+  "encounters": {
+    "2": [
+      "Tentacool",
+      "Tentacruel",
+      "Magikarp",
+      "Shellder",
+      "Chinchou",
+      "Lanturn",
+      "Chikorita",
+      "Cyndaquil",
+      "Totodile"
+    ],
+    "hs": [
+      "Tentacool",
+      "Tentacruel",
+      "Magikarp",
+      "Shellder",
+      "Chinchou",
+      "Lanturn",
+      "Exeggcute",
+      "Hoothoot",
+      "Pineco",
+      "Ledyba",
+      "Spinarak",
+      "Chikorita",
+      "Cyndaquil",
+      "Totodile"
+    ]
+  },
+  "name": "New Bark Town",
+  "jpname": "\u30ef\u30ab\u30d0\u30bf\u30a6\u30f3",
+  "jptrans": "Wakaba Town",
+  "image": "New Bark Town HGSS.png",
+  "imageII": "New Bark Town GSC.png",
+  "slogan": "Winds of a New Beginning",
+  "mapdesc": "A town where the wind blows and tells of impending change.",
+  "region": "Johto",
+  "generation": "2",
+  "east": "Route 27",
+  "regioneast": "Kanto",
+  "west": "Route 29",
+  "regionwest": "Johto",
+  "colordark": "13644C",
+  "colormed": "187D5F",
+  "colorlight": "60C0A8"
+}

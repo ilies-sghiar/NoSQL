@@ -1,0 +1,26 @@
+{
+  "encounters": {
+    "oras": [
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Seel",
+      "Finneon",
+      "Frillish",
+      "Magikarp",
+      "Wailmer"
+    ]
+  },
+  "number": "125",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 125 ORAS.png",
+  "imageIII": "Hoenn Route 125 RS.png",
+  "type": "ocean",
+  "mapdesc": "Small children are allowed to play in the waters of this sea route as far as Shoal Cave\u2014but no further!",
+  "surf": "yes",
+  "dive": "[[Marine Cave|*]]{{sup/3|E}}",
+  "north": "Shoal Cave",
+  "south": "Mossdeep City",
+  "region": "Hoenn"
+}

@@ -1,0 +1,27 @@
+{
+  "encounters": {
+    "3": [
+      "Zubat",
+      "Golbat",
+      "Sableye",
+      "Mawile"
+    ],
+    "oras": [
+      "Golbat",
+      "Sableye",
+      "Mawile",
+      "Zubat"
+    ]
+  },
+  "image": "Cave of Origin OR.png",
+  "image_size": "250",
+  "type": "cave",
+  "location_name": "Cave of Origin",
+  "japanese_name": "\u76ee\u899a\u3081\u306e\u307b\u3053\u3089",
+  "translated_name": "Shrine of Awakening",
+  "location": "[[Sootopolis City]]",
+  "region": "Hoenn",
+  "mapdesc": "A long-sleeping Pok\u00e9mon will descend upon this cavern in order to awaken its true powers.",
+  "generation": "{{Gen|III}}, {{gen|VI}}",
+  "map": "Hoenn Sootopolis City Map.png"
+}

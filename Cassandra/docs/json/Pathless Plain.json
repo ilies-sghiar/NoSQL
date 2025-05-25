@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Pathless Plain overview.png",
+  "type": "land",
+  "location_name": "Pathless Plain",
+  "japanese_name": "{{tt|\u540d\u3082\u306a\u304d\u5e73\u539f|\u306a\u3082\u306a\u304d\u3078\u3044\u3052\u3093}}",
+  "translated_name": "Nameless Plain",
+  "location": "South of {{rt|131|Hoenn}}",
+  "region": "Hoenn",
+  "generation": "{{Gen|VI}}",
+  "map": "Hoenn ORAS Map.png"
+}

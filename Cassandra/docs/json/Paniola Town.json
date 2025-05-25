@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "7": [
+      "Magikarp",
+      "Barboach"
+    ],
+    "usum": [
+      "Magikarp",
+      "Barboach"
+    ]
+  },
+  "name": "Paniola Town",
+  "jpname": "\u30aa\u30cf\u30ca\u30bf\u30a6\u30f3",
+  "jptrans": "Ohana Town",
+  "image": "Paniola Town SM.png",
+  "size": "300",
+  "region": "Alola",
+  "generation": "7",
+  "slogan": "The town we developed with our Pok\u00e9mon.",
+  "mapdesc": "A town located in the middle of Akala Island and surrounded by ranch land and pastures for grazing.",
+  "north": "Paniola Ranch",
+  "east": "Route 6",
+  "regioneast": "Alola",
+  "south": "Route 4",
+  "regionsouth": "Alola",
+  "colordark": "5F472F",
+  "colormed": "69782D",
+  "colorlight": "719444",
+  "mapsize": "250px"
+}

@@ -1,0 +1,36 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ],
+    "oras": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Krabby",
+      "Frillish",
+      "Skrelp",
+      "Clauncher",
+      "Magikarp",
+      "Wailmer"
+    ]
+  },
+  "number": "105",
+  "size": "150",
+  "generation": "3",
+  "type": "ocean",
+  "mapdesc": "This water route boasts gentle currents, which makes it safe for even poor swimmers to bask in.",
+  "surf": "yes",
+  "dive": "[[Marine Cave|*]]{{sup/3|E}}",
+  "image": "Hoenn Route 105 E.png",
+  "north": "Route 104",
+  "regionnorth": "Hoenn",
+  "south": "Route 106",
+  "regionsouth": "Hoenn",
+  "west": "Island Cave",
+  "region": "Hoenn"
+}

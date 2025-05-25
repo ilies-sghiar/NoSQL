@@ -1,0 +1,38 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ],
+    "oras": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Krabby",
+      "Frillish",
+      "Skrelp",
+      "Clauncher",
+      "Magikarp",
+      "Wailmer"
+    ]
+  },
+  "number": "108",
+  "size": "290",
+  "generation": "3",
+  "image": "Hoenn Route 108 ORAS.png",
+  "type": "ocean",
+  "mapdesc": "People come swimming from as far away as the Kalos region to see the site of Sea Mauville.",
+  "surf": "yes",
+  "north": "Abandoned Ship",
+  "northalt": "Abandoned Ship{{tt|*|Ruby, Sapphire, and Emerald}}",
+  "north2": "Sea Mauville",
+  "north2alt": "Sea Mauville{{tt|*|Omega Ruby and Alpha Sapphire}}",
+  "west": "Route 107",
+  "regionwest": "Hoenn",
+  "east": "Route 109",
+  "regioneast": "Hoenn",
+  "region": "Hoenn"
+}

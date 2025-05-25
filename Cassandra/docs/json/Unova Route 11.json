@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "number": "11",
+  "image": "Unova Route 11 Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "generation": "5",
+  "type": "forest",
+  "mapdesc": "Limpid streams carved beautiful scenery on this road.",
+  "surf": "yes",
+  "waterfall": "yes",
+  "east": "Village Bridge",
+  "west": "Opelucid City",
+  "region": "Unova"
+}

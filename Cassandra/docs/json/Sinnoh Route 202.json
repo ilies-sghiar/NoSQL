@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "4": [
+      "Starly",
+      "Bidoof",
+      "Kricketot",
+      "Shinx",
+      "Zigzagoon",
+      "Sentret",
+      "Growlithe"
+    ],
+    "bdsp": [
+      "Starly",
+      "Bidoof",
+      "Kricketot",
+      "Shinx",
+      "Zigzagoon",
+      "Sentret"
+    ]
+  },
+  "number": "202",
+  "size": "290",
+  "image": "Sinnoh Route 202 Pt.png",
+  "type": "land",
+  "north": "Jubilife City",
+  "south": "Sandgem Town",
+  "region": "Sinnoh",
+  "mapdesc": "A winding path that twists through grassy fields. Young Trainers like to test their battle skills here.",
+  "generation": "4"
+}

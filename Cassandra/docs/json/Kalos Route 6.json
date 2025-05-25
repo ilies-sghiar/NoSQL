@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "number": "6",
+  "size": "300",
+  "generation": "6",
+  "image": "Kalos Route 6 XY.png",
+  "type": "land",
+  "mapdesc": "This tree-lined path was once covered with grass as tall as a man, but it was cleared by the palace.",
+  "north": "Parfum Palace",
+  "south": "Kalos Route 7",
+  "southalt": "Route 7",
+  "region": "Kalos"
+}

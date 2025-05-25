@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Sunyshore Market BDSP.png",
+  "japanese_name": "{{tt|\u30ca\u30ae\u30b5\u5e02\u5834|Nagisa Ichiba}}",
+  "type": "building",
+  "location_name": "Sunyshore Market",
+  "translated_name": "Nagisa Market",
+  "location": "[[Sunyshore City]]",
+  "region": "Sinnoh",
+  "generation": "{{gen|IV}}, {{gen|VIII}}",
+  "map": "Sinnoh Sunyshore City Map.png"
+}

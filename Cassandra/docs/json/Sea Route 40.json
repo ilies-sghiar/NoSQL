@@ -1,0 +1,35 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Tentacruel",
+      "Pelipper",
+      "Mantyke",
+      "Magikarp",
+      "Remoraid",
+      "Staryu",
+      "Gyarados",
+      "Octillery"
+    ]
+  },
+  "name": "Sunyshore City",
+  "jpname": "\u30ca\u30ae\u30b5\u30b7\u30c6\u30a3",
+  "jptrans": "Nagisa City",
+  "image": "Sunyshore City BDSP.png",
+  "slogan": "Solar Powered!",
+  "region": "Sinnoh",
+  "west": "Route 222",
+  "regionwest": "Sinnoh",
+  "north": "Route 223",
+  "regionnorth": "Sinnoh",
+  "mapdesc": "A port city that was built around the bay portion of the cape. It is criss-crossed by elevated walkways.<br>The Gym is located atop a rocky outcropping. Down on the beach is a festive bazaar.<br>The Vista Lighthouse's bright beacon illuminates the Sinnoh region.",
+  "gym": "Sunyshore Gym",
+  "gymno": "8",
+  "leader": "Volkner",
+  "leadervs": "VSVolkner BDSP.png{{!}}90px",
+  "badge": "Beacon",
+  "gymtype": "Electric",
+  "colordark": "FFA500",
+  "colormed": "ffd100",
+  "colorlight": "FF0",
+  "generation": "4"
+}

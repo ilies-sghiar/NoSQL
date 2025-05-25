@@ -1,0 +1,20 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Zubat",
+      "Gastly",
+      "Murkrow",
+      "Misdreavus",
+      "Golbat"
+    ]
+  },
+  "image": "Lost Tower BDSP.png",
+  "type": "ghost",
+  "location_name": "Lost Tower",
+  "japanese_name": "\u30ed\u30b9\u30c8\u30bf\u30ef\u30fc",
+  "translated_name": "Lost Tower",
+  "location": "{{rt|209|Sinnoh}}",
+  "region": "Sinnoh",
+  "map": "Sinnoh Route 209 Map.png",
+  "generation": "{{Gen|IV}}, {{Gen|VIII}}"
+}

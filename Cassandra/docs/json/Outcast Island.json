@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "fl": [
+      "Horsea",
+      "Qwilfish",
+      "Krabby",
+      "Remoraid",
+      "Gyarados",
+      "Seadra",
+      "Kingler",
+      "Psyduck",
+      "Slowpoke"
+    ]
+  },
+  "name": "Outcast Island",
+  "jpname": "\u306f\u305a\u308c\u306e\u3057\u307e",
+  "jptranslit": "Hazure no Shima",
+  "jptrans": "Outcast Island",
+  "size": "200",
+  "generation": "3",
+  "image": "Outcast Island FRLG.png",
+  "type": "ocean",
+  "surf": "yes",
+  "north": "Altering Cave",
+  "south": "Green Path",
+  "region": "Sevii Islands",
+  "regionmap": "Sevii Islands Outcast Island Map.png",
+  "prev": "Memorial Pillar",
+  "next": "Green Path"
+}

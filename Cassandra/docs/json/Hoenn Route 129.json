@@ -1,0 +1,43 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Wailord",
+      "Magikarp",
+      "Wailmer",
+      "Sharpedo"
+    ],
+    "oras": [
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Finneon",
+      "Frillish",
+      "Alomomola",
+      "Magikarp",
+      "Wailmer",
+      "Chinchou",
+      "Lanturn",
+      "Clamperl",
+      "Relicanth"
+    ]
+  },
+  "number": "129",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 129 ORAS.png",
+  "imageIII": "Hoenn Route 129 RSE.png",
+  "type": "ocean",
+  "mapdesc": "Many Pok\u00e9mon Trainers visit this route to train their Pok\u00e9mon before challenging the Pok\u00e9mon League.",
+  "surf": "yes",
+  "dive": "{{sup/3|E}}{{sup/6|ORAS}}",
+  "north": "Route 128",
+  "regionnorth": "Hoenn",
+  "west": "Route 130",
+  "regionwest": "Hoenn",
+  "south": "Secret Shore",
+  "southalt": "Secret Shore{{tt|*|Omega Ruby and Alpha Sapphire}}",
+  "region": "Hoenn"
+}

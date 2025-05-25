@@ -1,0 +1,36 @@
+{
+  "encounters": {
+    "2": [
+      "Magikarp",
+      "Poliwag",
+      "Dodrio",
+      "Rhydon"
+    ],
+    "hs": [
+      "Magikarp",
+      "Poliwag",
+      "Dodrio"
+    ]
+  },
+  "name": "Blackthorn City",
+  "jpname": "\u30d5\u30b9\u30d9\u30b7\u30c6\u30a3",
+  "jptrans": "Fusube City",
+  "image": "Blackthorn City HGSS.png",
+  "imageII": "Blackthorn City GSC.png",
+  "slogan": "A Quiet Mountain Retreat",
+  "region": "Johto",
+  "north": "Ice Path",
+  "south": "Route 45",
+  "regionsouth": "Johto",
+  "mapdesc": "A mysterious mountain village cut into a rock face.",
+  "gym": "Blackthorn Gym",
+  "gymno": "8",
+  "leader": "Clair",
+  "leadervs": "VSClair.png",
+  "badge": "Rising",
+  "gymtype": "Dragon",
+  "colordark": "303030",
+  "colormed": "474747",
+  "colorlight": "808080",
+  "generation": "2"
+}

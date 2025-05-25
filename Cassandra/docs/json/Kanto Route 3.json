@@ -1,0 +1,68 @@
+{
+  "encounters": {
+    "2": [
+      "Rattata",
+      "Raticate",
+      "Spearow",
+      "Ekans",
+      "Arbok",
+      "Sandshrew",
+      "Clefairy",
+      "Jigglypuff",
+      "Zubat"
+    ],
+    "fl": [
+      "Pidgey",
+      "Spearow",
+      "Nidoran\u2640",
+      "Nidoran\u2642",
+      "Jigglypuff",
+      "Mankey"
+    ],
+    "hs": [
+      "Rattata",
+      "Spearow",
+      "Ekans",
+      "Arbok",
+      "Jigglypuff",
+      "Zubat",
+      "Hoothoot",
+      "Pineco",
+      "Wurmple",
+      "Baltoy",
+      "Gulpin",
+      "Plusle",
+      "Minun",
+      "Shinx"
+    ],
+    "pe": [
+      "Rattata",
+      "Spearow",
+      "Ekans",
+      "Sandshrew",
+      "Mankey",
+      "Charmander",
+      "Fearow",
+      "Charizard",
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Dragonite"
+    ]
+  },
+  "number": "3",
+  "image": "Kanto Route 3 PE.png",
+  "imageI": "Kanto Route 3 RBY.png",
+  "imageII": "Kanto Route 3 GSC.png",
+  "imageIII": "Kanto Route 3 FRLG.png",
+  "type": "mountain",
+  "west": "Pewter City",
+  "north": "Route 4",
+  "northalt": "Route 4{{tt|*|Generations I, III, and VII}}",
+  "regionnorth": "Kanto",
+  "north2": "Mt. Moon",
+  "north2alt": "Mt. Moon{{tt|*|Generations II and IV}}",
+  "region": "Kanto",
+  "rocksmash": "{{sup/4|HGSS}}",
+  "mapdesc": "A road where many rocks have fallen from the sky to create craters.{{sup/4|HGSS}}<br>A grassy road near the mountainside with large fallen rocks all about.{{sup/7|PE}}"
+}

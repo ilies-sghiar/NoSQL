@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Four Island FRLG.png",
+  "type": "land",
+  "location_name": "Four Island",
+  "japanese_name": "\uff14\u306e\u3057\u307e",
+  "translated_name": "Island 4",
+  "other_info": "Floe Island",
+  "location": "West of [[Five Island]]",
+  "region": "Sevii Islands",
+  "map": "Sevii Islands Four Island Map.png",
+  "generation": "{{gen|III}}"
+}

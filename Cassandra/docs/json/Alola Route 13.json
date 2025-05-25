@@ -1,0 +1,27 @@
+{
+  "encounters": {
+    "7": [
+      "Magikarp",
+      "Wishiwashi",
+      "Bruxish"
+    ],
+    "usum": [
+      "Magikarp",
+      "Wishiwashi",
+      "Bruxish"
+    ]
+  },
+  "number": "13",
+  "size": "240",
+  "generation": "7",
+  "image": "Alola Route 13.png",
+  "type": "mountain",
+  "slogan": "One last oasis before the desert sands.",
+  "mapdesc": "A route considered by many to be a place to take a break before taking on Haina Desert.",
+  "north": "Haina Desert",
+  "east": "Route 12",
+  "regioneast": "Alola",
+  "west": "Tapu Village",
+  "region": "Alola",
+  "mapsize": "250px"
+}

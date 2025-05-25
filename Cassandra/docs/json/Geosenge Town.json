@@ -1,0 +1,20 @@
+{
+  "encounters": {},
+  "name": "Geosenge Town",
+  "jpname": "\u30bb\u30ad\u30bf\u30a4\u30bf\u30a6\u30f3",
+  "jptrans": "Sekitai Town",
+  "image": "Geosenge Town XY.png",
+  "size": "250",
+  "region": "Kalos",
+  "generation": "6",
+  "slogan": "Quiet stones speak volumes.",
+  "mapdesc": "A town lined with mysterious stones and encircled by strange ruins of old.",
+  "north": "Team Flare Secret HQ",
+  "east": "Route 11",
+  "regioneast": "Kalos",
+  "south": "Route 10",
+  "regionsouth": "Kalos",
+  "colordark": "4A5D23",
+  "colormed": "abaeb0",
+  "colorlight": "C7C9CA"
+}

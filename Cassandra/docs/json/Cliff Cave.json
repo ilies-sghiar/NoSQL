@@ -1,0 +1,34 @@
+{
+  "encounters": {
+    "hs": [
+      "Zubat",
+      "Golbat",
+      "Machop",
+      "Machoke",
+      "Geodude",
+      "Graveler",
+      "Onix",
+      "Krabby",
+      "Kingler",
+      "Wooper",
+      "Quagsire",
+      "Misdreavus",
+      "Steelix",
+      "Makuhita",
+      "Absol",
+      "Chingling",
+      "Bronzor"
+    ]
+  },
+  "image": "Cliff Cave 1F HGSS.png",
+  "image_size": "256",
+  "type": "cave",
+  "location_name": "Cliff Cave",
+  "japanese_name": "\u3060\u3093\u304c\u3044\u306e\u3069\u3046\u304f\u3064",
+  "translated_name": "Cliff Cave",
+  "location": "{{rt|47|Johto}}",
+  "region": "Johto",
+  "generation": "{{gen|IV}}",
+  "map": "Johto Route 47 Map.png",
+  "rocksmash": "yes"
+}

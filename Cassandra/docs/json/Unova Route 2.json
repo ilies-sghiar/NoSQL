@@ -1,0 +1,17 @@
+{
+  "encounters": {},
+  "number": "2",
+  "image": "Unova Route 2 {{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}} BW.png",
+  "generation": "5",
+  "type": "forest",
+  "mapdesc": "A pastoral road where novice {{pkmn|Trainer}}s challenge one another.{{sup/5|BW}}<br>A pastoral road where {{pkmn|Trainer}}s challenge one another.{{sup/5|B2W2}}",
+  "north": "Striaton City",
+  "east": "Accumula Town",
+  "region": "Unova",
+  "prev": "Route 1",
+  "regionprev": "Unova",
+  "next": "Route 3",
+  "regionnext": "Unova",
+  "strength": "yes",
+  "cut": "yes"
+}

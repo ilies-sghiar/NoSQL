@@ -1,0 +1,16 @@
+{
+  "encounters": {},
+  "number": "7",
+  "image": "Unova Route 7 Spring<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "generation": "5",
+  "mapdesc": "Raised walkways help you avoid the [[tall grass]].",
+  "type": "forest",
+  "north": "Celestial Tower",
+  "north2": "Twist Mountain",
+  "south": "Mistralton City",
+  "region": "Unova",
+  "prev": "Route 6",
+  "regionprev": "Unova",
+  "next": "Route 8",
+  "regionnext": "Unova"
+}

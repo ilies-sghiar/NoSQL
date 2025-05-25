@@ -1,0 +1,11 @@
+{
+  "encounters": {},
+  "number": "12",
+  "image": "Unova Route 12 Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "generation": "5",
+  "type": "forest",
+  "mapdesc": "A place of fun, where it's enjoyable just walking over its gentle hills.",
+  "east": "Lacunosa Town",
+  "west": "Village Bridge",
+  "region": "Unova"
+}

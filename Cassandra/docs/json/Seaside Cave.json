@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Seaside Cave 1F B2W2.png",
+  "type": "Cave",
+  "location_name": "Seaside Cave",
+  "japanese_name": "{{tt|\u6d77\u8fba\u306e\u6d1e\u7a74|\u3046\u307f\u3079\u306e\u3069\u3046\u3051\u3064}}",
+  "translated_name": "Seaside Cave",
+  "mapdesc": "A rock that became passable due to wind, waves, and Pok\u00e9mon.",
+  "location": "Between {{rt|21|Unova}} and [[Undella Bay]]",
+  "region": "Unova",
+  "generation": "{{gen|V}}"
+}

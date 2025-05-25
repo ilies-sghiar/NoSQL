@@ -1,0 +1,42 @@
+{
+  "encounters": {
+    "7": [
+      "Raticate",
+      "Fearow",
+      "Ledian",
+      "Ariados",
+      "Pancham",
+      "Gumshoos",
+      "Graveler",
+      "Skarmory",
+      "Any",
+      "Crabrawler"
+    ],
+    "usum": [
+      "Raticate",
+      "Fearow",
+      "Ledian",
+      "Ariados",
+      "Scraggy",
+      "Gumshoos",
+      "Graveler",
+      "Skarmory",
+      "Bisharp",
+      "Any",
+      "Crabrawler"
+    ]
+  },
+  "number": "17",
+  "size": "240",
+  "generation": "7",
+  "image": "Alola Route 17.png",
+  "type": "land",
+  "slogan": "The lowland that leads below Po Town.",
+  "mapdesc": "The rain never stops falling in sheets on this route. This path always seems to inspire a sense of unease.",
+  "north": "Po Town",
+  "south": "Ula'ula Meadow",
+  "region": "Alola",
+  "next": "Route 1",
+  "regionnext": "Galar",
+  "mapsize": "250px"
+}

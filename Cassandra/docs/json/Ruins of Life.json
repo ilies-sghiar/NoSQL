@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Ruins of Life SM.png",
+  "type": "ruins",
+  "location_name": "Ruins of Life",
+  "japanese_name": "{{tt|\u547d|\u3044\u306e\u3061}}\u306e{{tt|\u907a\u8de1|\u3044\u305b\u304d}}",
+  "translated_name": "Ruins of Life",
+  "location": "[[Akala Island]]",
+  "mapdesc": "The ruins that enshrine Tapu Lele, one of the land spirits. It is said that life is born here.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

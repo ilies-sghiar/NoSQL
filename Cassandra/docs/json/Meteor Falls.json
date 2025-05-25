@@ -1,0 +1,28 @@
+{
+  "encounters": {
+    "oras": [
+      "Zubat",
+      "Lunatone",
+      "Solrock",
+      "Clefairy",
+      "Druddigon",
+      "Deino",
+      "Golbat",
+      "Goldeen",
+      "Magikarp",
+      "Barboach",
+      "Whiscash",
+      "Bagon"
+    ]
+  },
+  "image": "Meteor Falls 1F 1R ORAS.png",
+  "image_size": "290",
+  "type": "cave",
+  "location_name": "Meteor Falls",
+  "japanese_name": "{{tt|\u6d41\u661f\u306e\u6edd|\u308a\u3085\u3046\u305b\u3044\u306e\u305f\u304d}}",
+  "translated_name": "Meteor Falls",
+  "location": "Between {{rt|114|Hoenn}} and {{rt|115|Hoenn}}",
+  "region": "Hoenn",
+  "mapdesc": "This waterfall is said to have been the site of a meteor shower. An ancient people once made their home here.",
+  "generation": "{{gen|III}}, {{gen|VI}}"
+}

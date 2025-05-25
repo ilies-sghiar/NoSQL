@@ -1,0 +1,26 @@
+{
+  "encounters": {
+    "la": [
+      "Graveler",
+      "Ralts",
+      "Kirlia",
+      "Glalie",
+      "Bronzor",
+      "Bronzong",
+      "Froslass",
+      "Gallade",
+      "Zubat",
+      "Golbat"
+    ]
+  },
+  "image": "Snowpoint Temple.png",
+  "image_size": "250",
+  "type": "snow",
+  "location_name": "Snowpoint Temple",
+  "japanese_name": "{{tt|\u30ad\u30c3\u30b5\u30ad\u795e\u6bbf|Kissaki Shinden}}",
+  "translated_name": "Kissaki Temple",
+  "location": "[[Snowpoint City]]{{sup/4|DPPt}}{{sup/8|BDSP}}<br>Northern [[Alabaster Icelands]]{{sup/8|LA}}",
+  "region": "Sinnoh",
+  "generation": "{{Gen|IV}}, {{Gen|VIII}}",
+  "map": "Sinnoh Snowpoint City Map.png"
+}

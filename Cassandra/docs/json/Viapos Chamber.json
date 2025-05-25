@@ -1,0 +1,17 @@
+{
+  "encounters": {},
+  "name": "Po Town",
+  "jpname": "\u30dd\u30fc\u30bf\u30a6\u30f3",
+  "jptrans": "P\u014d Town",
+  "image": "Po Town 2 USUM.png",
+  "region": "Alola",
+  "generation": "7",
+  "slogan": "You're in Team Skull Territory Now!",
+  "mapdesc": "A town barricaded with tall walls that seem to reach the sky. It is occupied by Team Skull.",
+  "south": "Route 17",
+  "regionsouth": "Alola",
+  "colordark": "0C090A",
+  "colormed": "444",
+  "colorlight": "597A9B",
+  "mapsize": "250px"
+}

@@ -1,0 +1,27 @@
+{
+  "encounters": {
+    "6": [
+      "Sandslash",
+      "Graveler",
+      "Pupitar",
+      "Lairon",
+      "Durant",
+      "Geodude",
+      "Larvitar",
+      "Aron",
+      "Shuckle",
+      "Ariados",
+      "Noibat"
+    ]
+  },
+  "image": "Terminus Cave 1F Entrance XY.png",
+  "image_size": "200",
+  "type": "cave",
+  "location_name": "Terminus Cave",
+  "japanese_name": "{{tt|\u7d42\u306e\u6d1e\u7a9f|\u3064\u3044\u306e\u3069\u3046\u304f\u3064}}",
+  "translated_name": "Terminus Cave",
+  "location": "{{rt|18|Kalos}}",
+  "region": "Kalos",
+  "mapdesc": "A coal mine that was closed a few years ago due to rumors of a monster living deep within it.",
+  "generation": "{{Gen|VI}}"
+}

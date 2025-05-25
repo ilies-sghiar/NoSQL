@@ -1,0 +1,19 @@
+{
+  "encounters": {},
+  "name": "Solaceon Town",
+  "jpname": "\u30ba\u30a4\u30bf\u30a6\u30f3",
+  "jptrans": "Zui Town",
+  "image": "Solaceon Town BDSP.png",
+  "slogan": "Free of Worry!",
+  "region": "Sinnoh",
+  "north": "Route 210",
+  "regionnorth": "Sinnoh",
+  "east": "Solaceon Ruins",
+  "south": "Route 209",
+  "regionsouth": "Sinnoh",
+  "mapdesc": "The temperate climate makes this town a relaxed and casual place for people and Pok\u00e9mon to live in.<br>There is a Pok\u00e9mon Day Care and a Pok\u00e9mon Center here.<br>Beyond a path hemmed by stands of trees, one can find the entrance to the Solaceon Ruins.",
+  "colordark": "548B54",
+  "colormed": "7CCD7C",
+  "colorlight": "90EE90",
+  "generation": "4"
+}

@@ -1,0 +1,28 @@
+{
+  "encounters": {
+    "3": [
+      "Sandshrew",
+      "Slugma",
+      "Skarmory",
+      "Spinda"
+    ],
+    "oras": [
+      "Spinda",
+      "Sandshrew",
+      "Skarmory",
+      "Scraggy",
+      "Bouffalant",
+      "Klefki"
+    ]
+  },
+  "number": "113",
+  "type": "ash",
+  "mapdesc": "The tall grass on this route is painted a dusty gray by the volcanic ash that pours from Mt. Chimney.",
+  "east": "Route 111",
+  "regioneast": "Hoenn",
+  "image": "Hoenn Route 113 ORAS.png",
+  "imageIII": "Hoenn Route 113 RS.png",
+  "west": "Fallarbor Town",
+  "region": "Hoenn",
+  "generation": "3"
+}

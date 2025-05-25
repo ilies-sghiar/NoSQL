@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Resort Area Villa Pt.png",
+  "image_size": "256",
+  "type": "building",
+  "location_name": "Villa",
+  "japanese_name": "\u3079\u3063\u305d\u3046",
+  "translated_name": "Villa",
+  "location": "[[Resort Area]]",
+  "region": "Sinnoh",
+  "generation": "{{gen|IV}}",
+  "map": "Sinnoh Resort Area Map.png"
+}

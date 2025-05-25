@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "3": [
+      "Machop",
+      "Marill",
+      "Numel"
+    ],
+    "oras": [
+      "Machop",
+      "Numel",
+      "Ponyta",
+      "Tyrogue",
+      "Sawk",
+      "Throh"
+    ]
+  },
+  "number": "112",
+  "image": "Hoenn Route 112 E.png",
+  "imageIII": "Hoenn Route 112 RS.png",
+  "size": "300",
+  "type": "volcano",
+  "mapdesc": "This route is popular among Trainers because it offers the chance to stroll while gazing up at Mt. Chimney.",
+  "west": "Lavaridge Town",
+  "east": "Route 111",
+  "regioneast": "Hoenn",
+  "north": "Mt. Chimney",
+  "north2": "Jagged Pass",
+  "generation": "3",
+  "region": "Hoenn"
+}

@@ -1,0 +1,18 @@
+{
+  "encounters": {},
+  "name": "White Forest",
+  "jpname": "{{tt|\u30db\u30ef\u30a4\u30c8\u30d5\u30a9\u30ec\u30b9\u30c8|howaito foresuto}}",
+  "jptrans": "White Forest",
+  "image": "Black City and White Forest.png",
+  "image_size": "290",
+  "region": "Unova",
+  "generation": "5",
+  "slogan": "People and Nature in Harmony",
+  "mapdesc": "A place of nature's bounty, it attracts people who long for nature.",
+  "north": "Route 14",
+  "regionnorth": "Unova",
+  "west": "Route 15",
+  "regionwest": "Unova",
+  "type": "White",
+  "map": "Unova Black City White Forest Black Tower White Treehollow Map.png"
+}

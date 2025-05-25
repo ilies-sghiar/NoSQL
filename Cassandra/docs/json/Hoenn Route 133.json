@@ -1,0 +1,38 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer",
+      "Horsea",
+      "Sharpedo"
+    ],
+    "oras": [
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Finneon",
+      "Frillish",
+      "Alomomola",
+      "Magikarp",
+      "Wailmer",
+      "Horsea",
+      "Seadra"
+    ]
+  },
+  "number": "133",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 133 ORAS.png",
+  "imageIII": "Hoenn Route 133 RSE.png",
+  "type": "ocean",
+  "mapdesc": "Trainers gather in this stretch of sea in search of something beyond its fierce currents.",
+  "surf": "yes",
+  "east": "Route 132",
+  "regioneast": "Hoenn",
+  "west": "Route 134",
+  "regionwest": "Hoenn",
+  "region": "Hoenn"
+}

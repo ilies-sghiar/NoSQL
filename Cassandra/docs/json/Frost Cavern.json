@@ -1,0 +1,29 @@
+{
+  "encounters": {
+    "6": [
+      "Haunter",
+      "Jynx",
+      "Piloswine",
+      "Beartic",
+      "Cryogonal",
+      "Bergmite",
+      "Smoochum",
+      "Vanillite",
+      "Cubchoo",
+      "Poliwhirl",
+      "Floatzel",
+      "Poliwag",
+      "Basculin"
+    ]
+  },
+  "image": "Frost Cavern Outside XY.png",
+  "image_size": "250",
+  "type": "cave",
+  "location_name": "Frost Cavern",
+  "japanese_name": "\u30d5\u30ed\u30b9\u30c8\u30b1\u30a4\u30d6",
+  "translated_name": "Frost Cave",
+  "location": "North of [[Dendemille Town]]",
+  "region": "Kalos",
+  "mapdesc": "The drifting snow and impenetrable fog make this cavern a place of fantastical illusions.",
+  "generation": "{{Gen|VI}}"
+}

@@ -1,0 +1,51 @@
+{
+  "encounters": {
+    "7": [
+      "Caterpie",
+      "Metapod",
+      "Paras",
+      "Bonsly",
+      "Trumbeak",
+      "Fomantis",
+      "Morelull",
+      "Comfey",
+      "Oranguru",
+      "Passimian",
+      "Any",
+      "Bounsweet",
+      "Pinsir",
+      "Zubat",
+      "Diglett"
+    ],
+    "usum": [
+      "Metapod",
+      "Paras",
+      "Pinsir",
+      "Hoothoot",
+      "Bonsly",
+      "Trumbeak",
+      "Fomantis",
+      "Morelull",
+      "Steenee",
+      "Comfey",
+      "Oranguru",
+      "Passimian",
+      "Any",
+      "Golbat",
+      "Dugtrio",
+      "Larvesta",
+      "Salandit"
+    ]
+  },
+  "image": "Lush Jungle SM.png",
+  "type": "forest",
+  "location_name": "Lush Jungle",
+  "japanese_name": "\u30b7\u30a7\u30fc\u30c9\u30b8\u30e3\u30f3\u30b0\u30eb",
+  "translated_name": "Shade Jungle",
+  "location": "[[Akala Island]]",
+  "slogan": "A treasure trove of nature's gifts!",
+  "mapdesc": "A heavily wooded tropical rain forest. It's famous for producing ingredients for delicious meals.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

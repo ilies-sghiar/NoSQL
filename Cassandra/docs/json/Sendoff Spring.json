@@ -1,0 +1,23 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Golduck",
+      "Noctowl",
+      "Chimecho",
+      "Staravia",
+      "Bibarel",
+      "Magikarp",
+      "Goldeen",
+      "Seaking",
+      "Gyarados"
+    ]
+  },
+  "image": "Sendoff Spring Pt.png",
+  "type": "lake",
+  "location_name": "Sendoff Spring",
+  "japanese_name": "{{tt|\u9001\u308a\u306e\u6cc9|Okuri no Izumi}}",
+  "translated_name": "Sendoff Spring",
+  "location": "East of {{rt|214|Sinnoh}}",
+  "region": "Sinnoh",
+  "generation": "{{gen|IV}}, {{gen|VIII}}"
+}

@@ -1,0 +1,81 @@
+{
+  "encounters": {
+    "1": [
+      "Pidgey",
+      "Pidgeotto",
+      "Oddish",
+      "Gloom",
+      "Venonat",
+      "Venomoth",
+      "Bellsprout",
+      "Weepinbell",
+      "Ditto"
+    ],
+    "2": [
+      "Pidgeotto",
+      "Nidorina",
+      "Nidorino",
+      "Venonat",
+      "Venomoth",
+      "Chansey",
+      "Noctowl",
+      "Hoppip",
+      "Quagsire"
+    ],
+    "fl": [
+      "Pidgey",
+      "Pidgeotto",
+      "Oddish",
+      "Gloom",
+      "Venonat",
+      "Bellsprout",
+      "Weepinbell",
+      "Ditto"
+    ],
+    "hs": [
+      "Pidgeotto",
+      "Nidorina",
+      "Nidorino",
+      "Chansey",
+      "Noctowl",
+      "Hoppip",
+      "Quagsire",
+      "Plusle",
+      "Minun",
+      "Shinx"
+    ],
+    "pe": [
+      "Pidgey",
+      "Pidgeotto",
+      "Oddish",
+      "Gloom",
+      "Venonat",
+      "Venomoth",
+      "Bellsprout",
+      "Weepinbell",
+      "Scyther",
+      "Pinsir",
+      "Tauros",
+      "Chansey",
+      "Pidgeot",
+      "Charizard",
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Dragonite"
+    ]
+  },
+  "number": "15",
+  "image": "Kanto Route 15 PE.png",
+  "imageI": "Kanto Route 15 RBY.png",
+  "imageII": "Kanto Route 15 GSC.png",
+  "imageIII": "Kanto Route 15 FRLG.png",
+  "type": "land",
+  "west": "Fuchsia City",
+  "east": "Route 14",
+  "regioneast": "Kanto",
+  "region": "Kanto",
+  "cut": "{{sup/1}}{{sup/2}}{{sup/3|FRLG}}{{sup/4|HGSS}}",
+  "generation": "1",
+  "mapdesc": "A path that cuts through the row of trees to come out on the coastline.{{sup/4|HGSS}}<br>A long, grassy path stretching east of Fuchsia City.{{sup/7|PE}}"
+}

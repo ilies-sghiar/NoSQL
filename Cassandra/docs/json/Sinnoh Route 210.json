@@ -1,0 +1,50 @@
+{
+  "encounters": {
+    "4": [
+      "Magikarp",
+      "Barboach",
+      "Whiscash",
+      "Gyarados"
+    ],
+    "bdsp": [
+      "Geodude",
+      "Ponyta",
+      "Chansey",
+      "Kricketune",
+      "Bonsly",
+      "Mime Jr.",
+      "Tauros",
+      "Miltank",
+      "Psyduck",
+      "Machop",
+      "Machoke",
+      "Hoothoot",
+      "Noctowl",
+      "Meditite",
+      "Bibarel",
+      "Golduck",
+      "Magikarp",
+      "Barboach",
+      "Gyarados",
+      "Whiscash",
+      "Kecleon",
+      "Bagon"
+    ]
+  },
+  "number": "210",
+  "type": "{{#switch: {{#expr: {{#time: s}} mod 2}}|0=land|1=fog}}",
+  "imageIV": "Route 210.jpg",
+  "image": "Sinnoh Route 210 Pt.png",
+  "east": "Route 215",
+  "regioneast": "Sinnoh",
+  "south": "Solaceon Town",
+  "west": "Celestic Town",
+  "mapdesc": "This narrow route is lined with deep, tall grass that tickles the noses of people straying off the path.<br>The Cafe Cabin stands in a wood. The house special is freshly milked Moomoo Milk.<br>A path made by clearing an overgrown canyon between mountains. It is always shrouded by a dense fog.{{sup/4|DP}}<br>A canyon covered in untamed nature. It is always shrouded by a dense fog.{{sup/4|Pt}}<br>Grandma Wilma's house stands alone in an isolated spot deep among mountains.",
+  "rockclimb": "yes",
+  "defog": "yes",
+  "waterfall": "yes",
+  "surf": "yes",
+  "rocksmash": "yes",
+  "region": "Sinnoh",
+  "generation": "4"
+}

@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Village Bridge Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "type": "road",
+  "location_name": "Village Bridge",
+  "japanese_name": "\u30d3\u30ec\u30c3\u30b8\u30d6\u30ea\u30c3\u30b8",
+  "translated_name": "Village Bridge",
+  "mapdesc": "An old bridge that settlers of the Unova region built and now live on.",
+  "location": "Between {{rt|11|Unova}} and {{rt|12|Unova}}",
+  "region": "Unova",
+  "generation": "{{Gen|V}}"
+}

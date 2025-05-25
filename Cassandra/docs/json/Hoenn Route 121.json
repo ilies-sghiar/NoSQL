@@ -1,0 +1,32 @@
+{
+  "encounters": {
+    "oras": [
+      "Gloom",
+      "Linoone",
+      "Pelipper",
+      "Kecleon",
+      "Shuppet",
+      "Wingull",
+      "Hypno",
+      "Aipom",
+      "Elgyem"
+    ]
+  },
+  "number": "121",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 121 ORAS.png",
+  "imageIII": "Hoenn Route 121 RS.png",
+  "type": "land",
+  "mapdesc": "This road leads to both the Safari Zone and Mt. Pyre. Many people set out along this route from Lilycove City.",
+  "south": "Route 122",
+  "regionsouth": "Hoenn",
+  "west": "Route 120",
+  "regionwest": "Hoenn",
+  "east": "Lilycove City",
+  "north": "Safari Zone",
+  "regionnorth": "Hoenn",
+  "cut": "yes",
+  "surf": "{{sup/3|RSE}}",
+  "region": "Hoenn"
+}

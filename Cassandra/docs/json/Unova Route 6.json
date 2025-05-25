@@ -1,0 +1,17 @@
+{
+  "encounters": {},
+  "number": "6",
+  "image": "Unova Route 6 Spring<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "generation": "5",
+  "mapdesc": "A road with many trees for nature lovers.",
+  "type": "forest",
+  "north": "Chargestone Cave",
+  "east": "Driftveil City",
+  "east2": "Mistralton Cave",
+  "region": "Unova",
+  "prev": "Route 5",
+  "regionprev": "Unova",
+  "next": "Route 7",
+  "regionnext": "Unova",
+  "surf": "yes"
+}

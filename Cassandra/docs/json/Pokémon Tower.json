@@ -1,0 +1,24 @@
+{
+  "encounters": {
+    "pe": [
+      "Zubat",
+      "Golbat",
+      "Gastly",
+      "Haunter",
+      "Cubone",
+      "Chansey"
+    ]
+  },
+  "image": "Lavender Tower Exterior LGPE.png",
+  "image_size": "300",
+  "type": "ghost",
+  "mapdesc": "A tower that houses the graves of countless <sc>Pok</sc>\u00e9<sc>mon</sc>. Many people visit it daily to pay their respects to the fallen.{{sup/3|FRLG}}",
+  "location_name": "Pok\u00e9mon Tower",
+  "japanese_name": "\u30dd\u30b1\u30e2\u30f3\u30bf\u30ef\u30fc",
+  "translated_name": "Pok\u00e9mon Tower",
+  "other_info": "Lavender Radio Tower",
+  "location": "[[Lavender Town]]",
+  "region": "Kanto",
+  "generation": "{{Gen|I}}, {{Gen|II}}, {{Gen|III}}, {{Gen|IV}}, {{Gen|VII}}",
+  "map": "Kanto Lavender Town Map.png"
+}

@@ -1,0 +1,34 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Tentacool",
+      "Tentacruel",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Finneon",
+      "Staryu",
+      "Gyarados",
+      "Lumineon"
+    ]
+  },
+  "name": " Canalave City",
+  "jpname": "\u30df\u30aa\u30b7\u30c6\u30a3",
+  "jptrans": "Mio City",
+  "image": "Canalave City BDSP.png",
+  "slogan": "Cargo Port",
+  "region": "Sinnoh",
+  "east": "Route 218",
+  "regioneast": "Sinnoh",
+  "mapdesc": "A port city that is bisected by a canal. It has a distinctly exotic air of foreign culture.<br>Head to the library if you want a workout for the mind. Head to the Gym if you just want to work out.<br>Large ships can always be seen moored at the town's piers.",
+  "gym": "Canalave Gym",
+  "gymno": "6",
+  "leader": "Byron",
+  "leadervs": "VSByron BDSP.png{{!}}90px",
+  "badge": "Mine",
+  "gymtype": "Steel",
+  "colordark": "686868",
+  "colormed": "838383",
+  "colorlight": "A0A0A0",
+  "generation": "4"
+}

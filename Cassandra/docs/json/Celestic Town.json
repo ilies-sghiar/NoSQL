@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Psyduck",
+      "Golduck",
+      "Magikarp",
+      "Barboach",
+      "Gyarados",
+      "Whiscash",
+      "Corphish",
+      "Crawdaunt"
+    ]
+  },
+  "name": "Celestic Town",
+  "jpname": "\u30ab\u30f3\u30ca\u30ae\u30bf\u30a6\u30f3",
+  "jptrans": "Kannagi Town",
+  "image": "Celestic Town BDSP.png",
+  "image_size": "300",
+  "slogan": "The Past Lives",
+  "region": "Sinnoh",
+  "west": "Route 211",
+  "regionwest": "Sinnoh",
+  "east": "Route 210",
+  "regioneast": "Sinnoh",
+  "mapdesc": "A tiny town that preserves the history of Sinnoh and the old ways of life.<br>In the center of the town is a small shrine that dates to ancient times.",
+  "colordark": "8B864E",
+  "colormed": "CDC673",
+  "colorlight": "EEE685",
+  "generation": "4"
+}

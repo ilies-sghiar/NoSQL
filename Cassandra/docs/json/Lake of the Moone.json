@@ -1,0 +1,21 @@
+{
+  "encounters": {
+    "7": [
+      "Cosmog"
+    ],
+    "usum": [
+      "Cosmog"
+    ]
+  },
+  "image": "Lake of the Sunne Moone SMUSUM.png",
+  "image_size": "250",
+  "type": "lake",
+  "location_name": "Lake of the Moone",
+  "japanese_name": "{{tt|\u6708\u8f2a|\u304c\u3061\u308a\u3093}}\u306e{{tt|\u6e56|\u307f\u305a\u3046\u307f}}",
+  "translated_name": "Lake of the Moon",
+  "location": "[[Ula'ula Island]]",
+  "mapdesc": "A place that seems to have some connection to the Alola's Legendary Pok\u00e9mon. The lake forms a perfect circle.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

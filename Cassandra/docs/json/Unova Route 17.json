@@ -1,0 +1,39 @@
+{
+  "encounters": {
+    "5": [
+      "Frillish",
+      "Alomomola",
+      "Jellicent",
+      "Finneon",
+      "Horsea",
+      "Seadra",
+      "Qwilfish",
+      "Lumineon",
+      "Kingdra"
+    ],
+    "5-2": [
+      "Frillish",
+      "Alomomola",
+      "Jellicent",
+      "Horsea",
+      "Finneon",
+      "Seadra",
+      "Kingdra",
+      "Lumineon"
+    ]
+  },
+  "number": "17",
+  "image": "Unova Route 17 {{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}} BW.png",
+  "jpname": "\uff11\uff17\u3070\u3093\u3059\u3044\u3069\u3046",
+  "jptranslit": "17 ban suid\u014d",
+  "jptrans": "Sea Route 17",
+  "type": "ocean",
+  "mapdesc": "The fast current here makes it difficult to {{m|surf}}.",
+  "east": "Route 1",
+  "regioneast": "Unova",
+  "west": "Route 18",
+  "regionwest": "Unova",
+  "region": "Unova",
+  "surf": "yes",
+  "generation": "5"
+}

@@ -1,0 +1,17 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Staravia",
+      "Kricketune"
+    ]
+  },
+  "image": "Trophy Garden BDSP.png",
+  "type": "land",
+  "location_name": "Trophy Garden",
+  "japanese_name": "{{tt|\u81ea\u6162\u306e\u88cf\u5ead|Jiman no Uraniwa}}",
+  "translated_name": "Vaunted Backyard",
+  "location": "{{si|Pok\u00e9mon Mansion}}",
+  "region": "Sinnoh",
+  "generation": "{{gen|IV}}, {{gen|VIII}}",
+  "map": "Sinnoh Route 212 Map.png"
+}

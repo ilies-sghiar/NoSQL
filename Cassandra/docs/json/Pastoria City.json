@@ -1,0 +1,37 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Tentacool",
+      "Tentacruel",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Remoraid",
+      "Gyarados",
+      "Octillery"
+    ]
+  },
+  "name": " Pastoria City",
+  "jpname": "\u30ce\u30e2\u30bb\u30b7\u30c6\u30a3",
+  "jptrans": "Nomose City",
+  "image": "Pastoria City BDSP.png",
+  "image_size": "300",
+  "slogan": "The Marsh City",
+  "region": "Sinnoh",
+  "west": "Route 212",
+  "regionwest": "Sinnoh",
+  "east": "Route 213",
+  "regioneast": "Sinnoh",
+  "north": "Great Marsh",
+  "mapdesc": "This city was originally founded to protect the Great Marsh. It has grown naturally over the years.<br>The Gym is a good example of the abundant water resources available to the city.<br>There is a lookout that affords views of the Great Marsh. The gates to the Safari Zone are also here.",
+  "gym": "Pastoria Gym",
+  "gymno": "4{{sup/4|DP}}{{sup/8|BDSP}} / #5{{sup/4|Pt}}",
+  "leader": "Crasher Wake",
+  "leadervs": "VSCrasher Wake BDSP.png{{!}}90px",
+  "badge": "Fen",
+  "gymtype": "Water",
+  "colordark": "26E",
+  "colormed": "49E",
+  "colorlight": "64CEEF",
+  "generation": "4"
+}

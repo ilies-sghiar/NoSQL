@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Royal Unova BWB2W2.png",
+  "image_size": "256px",
+  "type": "ocean",
+  "location_name": "Royal Unova",
+  "japanese_name": "\u30ed\u30a4\u30e4\u30eb\u30a4\u30c3\u30b7\u30e5{{tt|\u53f7|\u3054\u3046}}",
+  "translated_name": "Royal {{tt|Isshu|Unova}}-g\u014d",
+  "location": "[[Castelia City]]",
+  "region": "Unova",
+  "generation": "{{gen|V}}",
+  "map": "Unova Castelia City Map.png"
+}

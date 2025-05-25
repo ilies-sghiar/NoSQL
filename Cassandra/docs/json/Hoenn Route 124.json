@@ -1,0 +1,37 @@
+{
+  "encounters": {
+    "3": [
+      "Chinchou",
+      "Clamperl",
+      "Relicanth"
+    ],
+    "oras": [
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Finneon",
+      "Frillish",
+      "Alomomola",
+      "Magikarp",
+      "Wailmer",
+      "Chinchou",
+      "Lanturn",
+      "Clamperl",
+      "Relicanth"
+    ]
+  },
+  "number": "124",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 124 ORAS.png",
+  "imageIII": "Hoenn Route 124 RS.png",
+  "type": "ocean",
+  "mapdesc": "This great stretch of ocean connects the cities of Lilycove, Mossdeep, and Sootopolis.",
+  "surf": "yes",
+  "dive": "yes",
+  "south": "Route 126",
+  "regionsouth": "Hoenn",
+  "west": "Lilycove City",
+  "east": "Mossdeep City",
+  "region": "Hoenn"
+}

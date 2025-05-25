@@ -1,0 +1,41 @@
+{
+  "encounters": {
+    "4": [
+      "Zubat",
+      "Machoke",
+      "Noctowl",
+      "Sneasel",
+      "Swinub",
+      "Meditite",
+      "Medicham",
+      "Snorunt",
+      "Snover",
+      "Delibird",
+      "Ursaring",
+      "Piloswine"
+    ],
+    "bdsp": [
+      "Zubat",
+      "Machoke",
+      "Noctowl",
+      "Sneasel",
+      "Meditite",
+      "Medicham",
+      "Snover",
+      "Swinub",
+      "Snorunt"
+    ]
+  },
+  "number": "217",
+  "type": "snow",
+  "image": "Sinnoh Route 217 Pt.png",
+  "imageIV": "Sinnoh Route 217 Pt.png",
+  "size": "150",
+  "north": "Acuity Lakefront",
+  "south": "Route 216",
+  "regionsouth": "Sinnoh",
+  "regionmap": "Sinnoh Route 217 Map.png",
+  "region": "Sinnoh",
+  "mapdesc": "Snow blows down from Mt. Coronet and grows into a harsh, ceaseless blizzard. Be prepared for the worst.",
+  "generation": "4"
+}

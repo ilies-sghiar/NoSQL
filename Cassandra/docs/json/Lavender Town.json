@@ -1,0 +1,26 @@
+{
+  "encounters": {
+    "pe": [
+      "Diglett"
+    ]
+  },
+  "name": "Lavender Town",
+  "jpname": "\u30b7\u30aa\u30f3\u30bf\u30a6\u30f3",
+  "jptrans": "Cion Town",
+  "image": "Lavender Town PE.png",
+  "imageI": "Lavender Town RBY.png",
+  "imageII": "Lavender Town GSC.png",
+  "imageIII": "Lavender Town FRLG.png",
+  "slogan": "The Noble Town",
+  "mapdesc": "A small town covered in a beautiful hue of purple.{{sup/4|HGSS}}<br>A solemn, quiet town. People come to visit their departed Pok\u00e9mon.{{sup/7|PE}}",
+  "region": "Kanto",
+  "north": "Route 10",
+  "south": "Route 12",
+  "west": "Route 8",
+  "regionnorth": "Kanto",
+  "regionsouth": "Kanto",
+  "regionwest": "Kanto",
+  "colordark": "7D5C98",
+  "colormed": "C08EEA",
+  "colorlight": "D6B6F1"
+}

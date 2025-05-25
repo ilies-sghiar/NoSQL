@@ -1,0 +1,40 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ],
+    "oras": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ]
+  },
+  "name": "Dewford Town",
+  "jpname": "\u30e0\u30ed\u30bf\u30a6\u30f3",
+  "jptrans": "Muro Town",
+  "image": "Dewford Town ORAS.png",
+  "imageIII": "Dewford Town RS.png",
+  "slogan": "A tiny island in the blue sea.",
+  "mapdesc": "New trends are always the rage among the inhabitants of this small island town.",
+  "region": "Hoenn",
+  "north": "Route 106",
+  "regionnorth": "Hoenn",
+  "east": "Route 107",
+  "regioneast": "Hoenn",
+  "gym": "Dewford Gym",
+  "gymno": "2",
+  "leader": "Brawly",
+  "leadersprite": "VSBrawly.png{{!}}150px",
+  "badge": "Knuckle",
+  "gymtype": "Fighting",
+  "colordark": "F96",
+  "colormed": "ffb27f",
+  "colorlight": "FC9",
+  "generation": "3"
+}

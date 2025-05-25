@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Great Marsh BDSP.png",
+  "type": "Marsh",
+  "location_name": "Great Marsh",
+  "japanese_name": "{{tt|\u5927\u6e7f\u539f|\u3060\u3044\u3057\u3064\u3052\u3093}}",
+  "translated_name": "Great Marsh",
+  "location": "[[Pastoria City]]",
+  "region": "Sinnoh",
+  "generation": "{{Gen|IV}}, {{Gen|VIII}}",
+  "map": "Sinnoh Pastoria City Map.png"
+}

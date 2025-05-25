@@ -1,0 +1,45 @@
+{
+  "encounters": {
+    "3": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer",
+      "Sharpedo",
+      "Beldum"
+    ],
+    "oras": [
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer",
+      "Beldum"
+    ]
+  },
+  "name": "Mossdeep City",
+  "jpname": "\u30c8\u30af\u30b5\u30cd\u30b7\u30c6\u30a3",
+  "jptrans": "Tokusane City",
+  "image": "Mossdeep City ORAS.png",
+  "imageIII": "Mossdeep City RS.png",
+  "slogan": "Our slogan: Cherish Pok\u00e9mon!",
+  "mapdesc": "Research is underway day and night in this city, all in the hope of understanding the distant reaches of space.",
+  "region": "Hoenn",
+  "west": "Route 124",
+  "regionwest": "Hoenn",
+  "north": "Route 125",
+  "regionnorth": "Hoenn",
+  "south": "Route 127",
+  "regionsouth": "Hoenn",
+  "leader": "Tate and Liza",
+  "leadersprite": "VSLiza & Tate.png{{!}}150px",
+  "gym": "Mossdeep Gym",
+  "gymno": "7",
+  "badge": "Mind",
+  "gymtype": "Psychic",
+  "colordark": "E7A1B0",
+  "colormed": "f0a7b6",
+  "colorlight": "FAAFBE",
+  "generation": "3"
+}

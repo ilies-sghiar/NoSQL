@@ -1,0 +1,40 @@
+{
+  "encounters": {
+    "6": [
+      "Slowpoke",
+      "Exeggcute",
+      "Pinsir",
+      "Tauros",
+      "Heracross",
+      "Miltank",
+      "Pachirisu",
+      "Chatot",
+      "Mareep",
+      "Wingull",
+      "Tentacool",
+      "Lapras",
+      "Mantyke",
+      "Luvdisc",
+      "Remoraid",
+      "Clamperl",
+      "Corsola",
+      "Octillery",
+      "Huntail",
+      "Gorebyss",
+      "Dwebble",
+      "Binacle"
+    ]
+  },
+  "number": "12",
+  "image": "Kalos Route 12 XY.png",
+  "size": "300",
+  "generation": "6",
+  "cut": "yes",
+  "surf": "yes",
+  "type": "land",
+  "mapdesc": "Frolicking Skiddo can be seen and ridden at the Baa de Mer Ranch, located beside the breezy sea.",
+  "north": "Azure Bay",
+  "west": "Shalour City",
+  "east": "Coumarine City",
+  "region": "Kalos"
+}

@@ -1,0 +1,22 @@
+{
+  "encounters": {
+    "7": [
+      "Type: Null"
+    ],
+    "usum": [
+      "Type: Null"
+    ]
+  },
+  "image": "Aether Paradise.png",
+  "size": "300",
+  "type": "steel",
+  "location_name": "Aether Paradise",
+  "japanese_name": "\u30a8\u30fc\u30c6\u30eb\u30d1\u30e9\u30c0\u30a4\u30b9",
+  "translated_name": "Aether Paradise",
+  "mapdesc": "A VLFS or a \"very large floating structure.\" This is where the Aether Foundation's research facilities are.",
+  "location": "Central [[Alola]]",
+  "region": "Alola",
+  "map": "Alola Aether Paradise Map.png",
+  "mapsize": "250px",
+  "generation": "{{Gen|VII}}"
+}

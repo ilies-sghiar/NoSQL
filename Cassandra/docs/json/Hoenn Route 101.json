@@ -1,0 +1,14 @@
+{
+  "encounters": {},
+  "number": "101",
+  "size": "290",
+  "generation": "3",
+  "image": "Hoenn Route 101 ORAS.png",
+  "type": "land",
+  "mapdesc": "This grassy path running between Littleroot Town and Oldale Town is perfect for doing fieldwork.",
+  "north": "Oldale Town",
+  "south": "Littleroot Town",
+  "region": "Hoenn",
+  "prev": "Route 48",
+  "regionprev": "Johto"
+}

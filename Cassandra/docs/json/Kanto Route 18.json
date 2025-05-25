@@ -1,0 +1,68 @@
+{
+  "encounters": {
+    "1": [
+      "Rattata",
+      "Raticate",
+      "Spearow",
+      "Fearow",
+      "Doduo",
+      "Magikarp",
+      "Poliwag",
+      "Goldeen",
+      "Tentacool",
+      "Shellder",
+      "Krabby"
+    ],
+    "2": [
+      "Fearow",
+      "Grimer",
+      "Muk",
+      "Slugma"
+    ],
+    "fl": [
+      "Rattata",
+      "Raticate",
+      "Spearow",
+      "Fearow",
+      "Doduo"
+    ],
+    "hs": [
+      "Fearow",
+      "Grimer",
+      "Muk",
+      "Slugma"
+    ],
+    "pe": [
+      "Pidgey",
+      "Pidgeotto",
+      "Rattata",
+      "Raticate",
+      "Doduo",
+      "Dodrio",
+      "Chansey",
+      "Tentacool",
+      "Tentacruel",
+      "Staryu",
+      "Starmie",
+      "Magikarp",
+      "Pidgeot",
+      "Charizard",
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Dragonite"
+    ]
+  },
+  "number": "18",
+  "image": "Kanto Route 18 PE.png",
+  "imageI": "Kanto Route 18 RBY.png",
+  "imageII": "Kanto Route 18 GSC.png",
+  "imageIII": "Kanto Route 18 FRLG.png",
+  "type": "road",
+  "east": "Fuchsia City",
+  "north": "Route 17",
+  "regionnorth": "Kanto",
+  "bike": "{{sup/1}}{{sup/2}}{{sup/3|FRLG}}{{sup/4|HGSS}}",
+  "region": "Kanto",
+  "mapdesc": "The southern ending point of Cycling Road.{{sup/4|HGSS}}<br>Links to the south side of Pok\u00e9mon Road. A place where Trainers gather, looking to battle.{{sup/7|PE}}"
+}

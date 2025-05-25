@@ -1,0 +1,33 @@
+{
+  "encounters": {
+    "oras": [
+      "Gloom",
+      "Linoone",
+      "Kecleon",
+      "Tropius",
+      "Oddish",
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Feebas",
+      "Carvanha",
+      "Sharpedo"
+    ]
+  },
+  "number": "119",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 119 ORAS.png",
+  "imageIII": "Hoenn Route 119 RS.png",
+  "type": "forest",
+  "mapdesc": "If you are not prepared for it, the harsh conditions of this tropical rain forest will defeat you in less than five minutes.",
+  "south": "Route 118",
+  "regionsouth": "Hoenn",
+  "east": "Fortree City",
+  "region": "Hoenn",
+  "surf": "yes",
+  "waterfall": "yes",
+  "acro": "yes",
+  "mach": "yes"
+}

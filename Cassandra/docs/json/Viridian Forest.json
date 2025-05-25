@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "fl": [
+      "Caterpie",
+      "Pikachu"
+    ],
+    "pe": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree",
+      "Weedle",
+      "Kakuna",
+      "Beedrill",
+      "Pidgey",
+      "Pikachu",
+      "Oddish",
+      "Bellsprout",
+      "Bulbasaur"
+    ]
+  },
+  "image": "Viridian Forest PE.png",
+  "type": "forest",
+  "mapdesc": "A deep and sprawling forest that extends around Viridian City. A natural maze, many people become lost inside.{{sup/3|FRLG}}<br/>A forest filled with nature and Bug-type Pok\u00e9mon.{{sup/4|HGSS}}<br>A deep, shady forest filled with nature and Bug-type Pok\u00e9mon.{{sup/7|PE}}",
+  "location_name": "Viridian Forest",
+  "japanese_name": "{{tt|\u30c8\u30ad\u30ef\u306e\u68ee|Tokiwa no Mori}}",
+  "translated_name": "Tokiwa Forest",
+  "location": "{{rt|2|Kanto}}",
+  "region": "Kanto",
+  "generation": "{{gen|I}}, {{gen|III}}, {{gen|IV}}, {{gen|VII}}"
+}

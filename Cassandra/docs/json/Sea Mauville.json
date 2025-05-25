@@ -1,0 +1,21 @@
+{
+  "encounters": {
+    "oras": [
+      "Tentacool",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Wailmer"
+    ]
+  },
+  "image": "Hoenn Sea Mauville surface ORAS.png",
+  "image_size": "240",
+  "type": "ocean",
+  "location_name": "Sea Mauville",
+  "japanese_name": "\u30b7\u30fc\u30ad\u30f3\u30bb\u30c4",
+  "translated_name": "Sea Kinsetsu",
+  "location": "North of {{rt|108|Hoenn}}",
+  "region": "Hoenn",
+  "generation": "{{gen|VI}}",
+  "mapdesc": "A facility that was decommissioned dozens of years ago. It is now maintained as a natural preserve."
+}

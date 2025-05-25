@@ -1,0 +1,35 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Zubat",
+      "Geodude",
+      "Psyduck",
+      "Golbat",
+      "Golduck",
+      "Magikarp",
+      "Barboach",
+      "Gyarados",
+      "Whiscash"
+    ]
+  },
+  "name": "Oreburgh Gate",
+  "jpname": "\u30af\u30ed\u30ac\u30cd\u30b2\u30fc\u30c8",
+  "jptrans": "Kurogane Gate",
+  "jptranslit": "",
+  "size": "295",
+  "image": "Oreburgh Gate 1F DPPt.png",
+  "imageIV": "Oreburgh Gate 1F DPPt.png",
+  "type": "cave",
+  "strength": "yes",
+  "rocksmash": "yes",
+  "surf": "yes",
+  "west": "Route 203",
+  "regionwest": "Sinnoh",
+  "east": "Oreburgh City",
+  "region": "Sinnoh",
+  "regionmap": "Sinnoh Oreburgh Gate Map.png",
+  "mapdesc": "Once one gets through the tunnel, the city of Oreburgh is just a stone's throw away.",
+  "prev": "Verity Lakefront",
+  "next": "Diglett's Cave",
+  "generation": "4"
+}

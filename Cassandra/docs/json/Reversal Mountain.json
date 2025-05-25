@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Reversal Mountain Summer B2W2.png",
+  "image_size": "256",
+  "location_name": "Reversal Mountain",
+  "japanese_name": "\u30ea\u30d0\u30fc\u30b9\u30de\u30a6\u30f3\u30c6\u30f3",
+  "translated_name": "Reverse Mountain",
+  "type": "volcano",
+  "mapdesc": "A volcano that grabs headlines for its many recent eruptions.{{sup/5|B2}}<br/>A volcano with a record of a huge eruption long ago.{{sup/5|W2}}",
+  "location": "Between [[Lentimas Town]] and [[Undella Town]]",
+  "region": "Unova",
+  "generation": "{{Gen|V}}"
+}

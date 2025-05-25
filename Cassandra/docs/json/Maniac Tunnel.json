@@ -1,0 +1,17 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Geodude",
+      "Hippopotas"
+    ]
+  },
+  "image": "Maniac Tunnel 26-28 Pt.png",
+  "type": "cave",
+  "location_name": "Maniac Tunnel",
+  "other_info": "Ruin Maniac Cave",
+  "japanese_name": "\u30de\u30cb\u30a2\u30c8\u30f3\u30cd\u30eb",
+  "translated_name": "Maniac Tunnel",
+  "location": "Between {{rt|214|Sinnoh}} and [[Solaceon Ruins]]",
+  "region": "Sinnoh",
+  "generation": "{{gen|IV}}, {{gen|VIII}}"
+}

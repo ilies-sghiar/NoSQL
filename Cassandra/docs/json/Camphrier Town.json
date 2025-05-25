@@ -1,0 +1,19 @@
+{
+  "encounters": {},
+  "name": "Camphrier Town",
+  "jpname": "\u30b3\u30dc\u30af\u30bf\u30a6\u30f3",
+  "jptrans": "Koboku Town",
+  "image": "Camphrier Town XY.png",
+  "size": "250",
+  "region": "Kalos",
+  "generation": "6",
+  "slogan": "A town where you can taste the ages.",
+  "mapdesc": "This ancient town was once famous for the long-neglected manor home of a noble family.",
+  "west": "Kalos Route 7",
+  "westalt": "Route 7",
+  "east": "Kalos Route 5",
+  "eastalt": "Route 5",
+  "colordark": "111100",
+  "colormed": "6F4E37",
+  "colorlight": "A67B5B"
+}

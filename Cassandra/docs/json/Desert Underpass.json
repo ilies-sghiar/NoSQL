@@ -1,0 +1,11 @@
+{
+  "encounters": {},
+  "image": "Desert Underpass E.png",
+  "type": "cave",
+  "location_name": "Desert Underpass",
+  "japanese_name": "\u3055\u3070\u304f\u306e\u3061\u304b\u3069\u3046",
+  "translated_name": "Desert Underground Tunnel",
+  "location": "{{rt|114|Hoenn}} near [[Fallarbor Town]]",
+  "region": "Hoenn",
+  "generation": "{{gen|III}}{{sup/3|E}}"
+}

@@ -1,0 +1,24 @@
+{
+  "encounters": {
+    "5-2": [
+      "Dratini",
+      "Gible"
+    ]
+  },
+  "name": "Floccesy Town",
+  "jpname": "\u30b5\u30f3\u30ae\u30bf\u30a6\u30f3",
+  "jptrans": "Sangi Town",
+  "image": "Floccesy Town Spring<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "region": "Unova",
+  "generation": "5",
+  "slogan": "Prophecy Flocks Here",
+  "mapdesc": "The town is famous for a clock tower that tells of the town's beginnings.",
+  "north": "Pledge Grove",
+  "east": "Route 20",
+  "regioneast": "Unova",
+  "west": "Route 19",
+  "regionwest": "Unova",
+  "colordark": "523314",
+  "colormed": "905923",
+  "colorlight": "cd7f32"
+}

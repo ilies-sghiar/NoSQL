@@ -1,0 +1,17 @@
+{
+  "encounters": {
+    "3": [
+      "Smeargle"
+    ]
+  },
+  "image": "Artisan Cave entrance E.png",
+  "image_size": "250",
+  "type": "cave",
+  "location_name": "Artisan Cave",
+  "japanese_name": "\u30a2\u30c8\u30ea\u30a8\u306e\u3042\u306a",
+  "translated_name": "Atelier Hole",
+  "location": "{{gdis|Battle Frontier|III}}",
+  "region": "Hoenn",
+  "generation": "{{gen|III}}",
+  "map": "Hoenn Battle Frontier Map.png"
+}

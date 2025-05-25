@@ -1,0 +1,27 @@
+{
+  "encounters": {
+    "oras": [
+      "Tentacruel",
+      "Mantine",
+      "Pelipper",
+      "Mantyke",
+      "Magikarp",
+      "Tentacool",
+      "Remoraid",
+      "Octillery",
+      "Sharpedo",
+      "Camerupt"
+    ]
+  },
+  "image": "Battle Resort ORAS.png",
+  "location_name": "Battle Resort",
+  "type": "road",
+  "mapdesc": "This grand resort was built with the aim of allowing Trainers to enjoy every kind of Pok\u00e9mon battle.",
+  "japanese_name": "\u30d0\u30c8\u30eb\u30ea\u30be\u30fc\u30c8",
+  "translated_name": "Battle Resort",
+  "slogan": "It's a paradise of Trainers: by Trainers and for Trainers.",
+  "location": "South of {{rt|130|Hoenn}}",
+  "region": "Hoenn",
+  "generation": "{{Gen|VI}}",
+  "map": "Hoenn Battle Resort Map.png"
+}

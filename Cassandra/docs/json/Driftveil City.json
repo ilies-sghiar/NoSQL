@@ -1,0 +1,42 @@
+{
+  "encounters": {
+    "5": [
+      "Krabby",
+      "Chinchou",
+      "Luvdisc",
+      "Kingler",
+      "Lanturn",
+      "Basculin"
+    ],
+    "5-2": [
+      "Zorua"
+    ]
+  },
+  "name": "Driftveil City",
+  "jpname": "\u30db\u30c9\u30e2\u30a8\u30b7\u30c6\u30a3",
+  "jptrans": "Hodomoe City",
+  "image": "Driftveil City Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "region": "Unova",
+  "generation": "5",
+  "slogan": "A City of Billowing Sails",
+  "mapdesc": "A port town distributing many goods, and a gateway to the Unova region.",
+  "north": "Clay Tunnel",
+  "northalt": "Clay Tunnel{{tt|*|Black 2 and White 2 only}}",
+  "west": "Route 6",
+  "regionwest": "Unova",
+  "east": "Driftveil Drawbridge",
+  "south": "Cold Storage",
+  "southalt": "Cold Storage{{tt|*|Black and White}}",
+  "south2": "Pok\u00e9mon World Tournament",
+  "south2alt": "Pok\u00e9mon World Tournament{{tt|*|Black 2 and White 2}}",
+  "gym": "Driftveil Gym",
+  "gymtitle": "[[Generation V|{{color|000|Gen V}}]]",
+  "gymno": "5",
+  "leader": "Clay",
+  "leadersprite": "VSClay.png",
+  "badge": "Quake",
+  "gymtype": "Ground",
+  "colordark": "927D44",
+  "colormed": "E0C068",
+  "colorlight": "EBD69D"
+}

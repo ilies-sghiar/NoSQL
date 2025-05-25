@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Entralink BW.png",
+  "image_size": "256",
+  "type": "forest",
+  "location_name": "Entralink",
+  "japanese_name": "\u30cf\u30a4\u30ea\u30f3\u30af",
+  "translated_name": "Hilink",
+  "mapdesc": "In the middle of the Unova region, it is a place of mysterious power.",
+  "location": "Central Unova",
+  "region": "Unova",
+  "generation": "{{gen|V}}"
+}

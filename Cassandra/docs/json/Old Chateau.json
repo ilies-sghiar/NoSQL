@@ -1,0 +1,17 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Gastly"
+    ]
+  },
+  "image": "Old Chateau BDSP.png",
+  "type": "ghost",
+  "mapdesc": "Deep in the forest is the Old Chateau. It is falling into disrepair after being abandoned by its owner.",
+  "location_name": "Old Chateau",
+  "japanese_name": "{{tt|\u68ee\u306e\u6d0b\u9928|\u3082\u308a\u306e\u3088\u3046\u304b\u3093}}",
+  "translated_name": "Forest Manor",
+  "location": "[[Eterna Forest]]<br>[[Canalave City]] ({{pkmn|anime}})",
+  "region": "Sinnoh",
+  "generation": "{{gen|IV}}, {{gen|VIII}}",
+  "map": "Sinnoh Eterna Forest Map.png"
+}

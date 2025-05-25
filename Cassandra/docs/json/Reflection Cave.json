@@ -1,0 +1,26 @@
+{
+  "encounters": {
+    "6": [
+      "Mr. Mime",
+      "Wobbuffet",
+      "Sableye",
+      "Chingling",
+      "Roggenrola",
+      "Solosis",
+      "Carbink",
+      "Mime Jr.",
+      "Woobat",
+      "Ferroseed"
+    ]
+  },
+  "image": "Reflection Cave 1F XY.png",
+  "image_size": "250px",
+  "type": "cave",
+  "location_name": "Reflection Cave",
+  "japanese_name": "{{tt|\u6620\u3057\u8eab\u306e\u6d1e\u7a9f|\u3046\u3064\u3057\u307f\u306e\u3069\u3046\u304f\u3064}}",
+  "translated_name": "Reflection Cave",
+  "location": "Between {{rt|11|Kalos}} and [[Shalour City]]",
+  "region": "Kalos",
+  "mapdesc": "The sheer faces of these rock walls reflect the images of people and Pok\u00e9mon like nature's mirror.",
+  "generation": "{{Gen|VI}}"
+}

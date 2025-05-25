@@ -1,0 +1,16 @@
+{
+  "encounters": {},
+  "name": "Verity Lakefront",
+  "jpname": "\u30b7\u30f3\u30b8\u6e56\u306e\u307b\u3068\u308a",
+  "jptrans": "Shinji Lakefront",
+  "jptranslit": "Shinji Ko no Hotori",
+  "generation": "4",
+  "image": "Verity Lakefront BDSP.png",
+  "type": "land",
+  "mapdesc": "One of the lakes that is symbolic of the water-rich Sinnoh Region. There is an odd legend associated with it. It is possible to enter the cave underneath the lake from the island in the middle.",
+  "north": "Lake Verity",
+  "east": "Sinnoh Route 201",
+  "eastalt": "Route 201",
+  "region": "Sinnoh",
+  "regionmap": "Sinnoh Lake Verity Map.png"
+}

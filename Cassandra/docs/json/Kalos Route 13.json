@@ -1,0 +1,21 @@
+{
+  "encounters": {
+    "6": [
+      "Dugtrio",
+      "Trapinch",
+      "Gible",
+      "Graveler",
+      "Slugma"
+    ]
+  },
+  "number": "13",
+  "image": "Kalos Route 13 XY.png",
+  "size": "300",
+  "generation": "6",
+  "type": "sand",
+  "mapdesc": "Since no plants can grow in the red clay of this great plain, it hosts the Power Plant instead.",
+  "north": "Coumarine City",
+  "west": "Kalos Power Plant",
+  "south": "Lumiose City",
+  "region": "Kalos"
+}

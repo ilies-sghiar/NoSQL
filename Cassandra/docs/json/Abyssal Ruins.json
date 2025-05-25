@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "location_name": "Abyssal Ruins",
+  "japanese_name": "{{tt|\u304b\u3044\u3066\u3044\u3044\u305b\u304d|Kaitei Iseki}}",
+  "translated_name": "Undersea Ruins",
+  "location": "[[Undella Bay]]",
+  "region": "Unova",
+  "image": "Abyssal Ruins BW.png",
+  "image_size": "256",
+  "generation": "{{Gen|V}}",
+  "mapdesc": "An ancient tomb that is said to be the resting place of an ancient king.",
+  "type": "underwater"
+}

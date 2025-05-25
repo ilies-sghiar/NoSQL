@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Nameless Cavern overview.png",
+  "type": "Cave",
+  "location_name": "Nameless Cavern",
+  "japanese_name": "\u672a\u77e5\u306e\u6d1e\u7a9f ",
+  "translated_name": "Unknown Cavern",
+  "location": "{{rt|126|Hoenn}}",
+  "region": "Hoenn",
+  "generation": "{{Gen|VI}}",
+  "map": "Hoenn ORAS Map.png"
+}

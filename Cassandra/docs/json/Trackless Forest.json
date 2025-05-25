@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Trackless Forest overview.png",
+  "type": "forest",
+  "location_name": "Trackless Forest",
+  "japanese_name": "{{tt|\u672a\u958b\u306e\u68ee|\u307f\u304b\u3044\u306e\u3082\u308a}}",
+  "translated_name": "Primeval Forest",
+  "location": "Southeast of [[Rustboro City]]",
+  "region": "Hoenn",
+  "generation": "{{Gen|VI}}",
+  "map": "Hoenn ORAS Map.png"
+}

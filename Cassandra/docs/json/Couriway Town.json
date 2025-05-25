@@ -1,0 +1,19 @@
+{
+  "encounters": {},
+  "name": "Couriway Town",
+  "jpname": "\u30ec\u30f3\u30ea\u30bf\u30a6\u30f3",
+  "jptrans": "Renri Town",
+  "image": "Couriway Town XY.png",
+  "size": "300px",
+  "region": "Kalos",
+  "generation": "6",
+  "slogan": "A town connecting differences.",
+  "mapdesc": "The railway brings people from great distances to see the huge, majestic falls.",
+  "north": "Kalos Route 18",
+  "northalt": "Route 18",
+  "south": "Kalos Route 19",
+  "southalt": "Route 19",
+  "colordark": "317873",
+  "colormed": "77B5FE",
+  "colorlight": "71BC78"
+}

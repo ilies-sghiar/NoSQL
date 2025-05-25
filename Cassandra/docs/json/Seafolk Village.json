@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "7": [
+      "Magikarp",
+      "Wailmer",
+      "Dhelmise",
+      "Aerodactyl",
+      "Steenee"
+    ],
+    "usum": [
+      "Magikarp",
+      "Wailmer",
+      "Dhelmise",
+      "Aerodactyl",
+      "Shellos"
+    ]
+  },
+  "image": "Seafolk Village USUM.png",
+  "name": "Seafolk Village",
+  "jpname": "{{tt|\u6d77|\u3046\u307f}}\u306e{{tt|\u6c11|\u305f\u307f}}\u306e{{tt|\u6751|\u3080\u3089}}",
+  "jptrans": "Seafolk Village",
+  "mapdesc": "The village of a wandering people who live on ships. They all seem to love living free and unfettered.",
+  "region": "Alola",
+  "generation": "7",
+  "north": "Poni Wilds",
+  "colordark": "{{locationcolor/dark|ocean}}",
+  "colormed": "{{locationcolor/med|ocean}}",
+  "colorlight": "{{locationcolor/light|ocean}}",
+  "mapsize": "250px"
+}

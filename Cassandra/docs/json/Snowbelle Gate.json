@@ -1,0 +1,28 @@
+{
+  "encounters": {
+    "oras": [
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Finneon",
+      "Frillish",
+      "Alomomola",
+      "Magikarp",
+      "Wailmer"
+    ]
+  },
+  "number": "127",
+  "size": "250",
+  "generation": "3",
+  "image": "Hoenn Route 127 ORAS.png",
+  "type": "ocean",
+  "mapdesc": "With no place to stop and rest in these waters, it is very hard for a swimmer to make it across this route.",
+  "surf": "yes",
+  "dive": "yes",
+  "north": "Mossdeep City",
+  "south": "Route 128",
+  "regionsouth": "Hoenn",
+  "west": "Route 126",
+  "regionwest": "Hoenn",
+  "region": "Hoenn"
+}

@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Chargestone Cave exterior Summer<!--{{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}}--> B2W2.png",
+  "type": "cave",
+  "location_name": "Chargestone Cave",
+  "japanese_name": "\u96fb\u6c17\u77f3\u306e\u6d1e\u7a74",
+  "translated_name": "Electric Stone Cave",
+  "location": "Between {{rt|6|Unova}} and [[Mistralton City]]",
+  "region": "Unova",
+  "mapdesc": "A cave where electrically charged stones float.",
+  "generation": "{{Gen|V}}"
+}

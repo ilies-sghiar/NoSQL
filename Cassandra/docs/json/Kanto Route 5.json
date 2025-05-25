@@ -1,0 +1,71 @@
+{
+  "encounters": {
+    "1": [
+      "Pidgey",
+      "Pidgeotto",
+      "Rattata",
+      "Jigglypuff",
+      "Oddish",
+      "Meowth",
+      "Mankey",
+      "Abra",
+      "Bellsprout"
+    ],
+    "2": [
+      "Pidgey",
+      "Pidgeotto",
+      "Jigglypuff",
+      "Oddish",
+      "Gloom",
+      "Meowth",
+      "Abra",
+      "Bellsprout",
+      "Hoothoot",
+      "Noctowl",
+      "Snubbull"
+    ],
+    "fl": [
+      "Pidgey",
+      "Meowth",
+      "Oddish",
+      "Bellsprout"
+    ],
+    "hs": [
+      "Pidgey",
+      "Oddish",
+      "Gloom",
+      "Meowth",
+      "Abra",
+      "Bellsprout",
+      "Hoothoot",
+      "Pineco",
+      "Combee",
+      "Plusle",
+      "Minun",
+      "Shinx"
+    ],
+    "pe": [
+      "Pidgey",
+      "Pidgeotto",
+      "Rattata",
+      "Vulpix",
+      "Jigglypuff",
+      "Growlithe",
+      "Abra",
+      "Chansey",
+      "Pidgeot"
+    ]
+  },
+  "number": "5",
+  "image": "Kanto Route 5 PE.png",
+  "imageI": "Kanto Route 5 RBY.png",
+  "imageII": "Kanto Route 5 GSC.png",
+  "imageIII": "Kanto Route 5 FRLG.png",
+  "imageIV": "Kanto Route 5 HGSS.png",
+  "type": "land",
+  "north": "Cerulean City",
+  "south": "Saffron City",
+  "region": "Kanto",
+  "rockclimb": "{{sup/4|HGSS}}",
+  "mapdesc": "A road running north of Saffron City connecting to the Underground Path.{{sup/4|HGSS}}<br>A placid sloping road connecting to the Underground Path.{{sup/7|PE}}"
+}

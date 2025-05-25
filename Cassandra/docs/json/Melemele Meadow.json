@@ -1,0 +1,35 @@
+{
+  "encounters": {
+    "7": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree",
+      "Cottonee",
+      "Petilil",
+      "Oricorio",
+      "Cutiefly",
+      "Buzzwole"
+    ],
+    "usum": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree",
+      "Cottonee",
+      "Petilil",
+      "Flab\u00e9b\u00e9",
+      "Oricorio",
+      "Cutiefly"
+    ]
+  },
+  "image": "Melemele Meadow SM.png",
+  "type": "forest",
+  "location_name": "Melemele Meadow",
+  "japanese_name": "\u30e1\u30ec\u30e1\u30ec\u306e{{tt|\u82b1\u5712|\u306f\u306a\u305e\u306e}}",
+  "translated_name": "Melemele Flower Garden",
+  "location": "West of {{rt|3|Alola}}",
+  "slogan": "A paradise where the Oricorio dance.",
+  "mapdesc": "A place where yellow flowers bloom in abundance. You can gather the nectar Oricorio loves to feed on here.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

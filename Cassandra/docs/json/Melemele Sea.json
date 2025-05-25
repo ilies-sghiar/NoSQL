@@ -1,0 +1,35 @@
+{
+  "encounters": {
+    "7": [
+      "Tentacool",
+      "Wingull",
+      "Finneon",
+      "Magikarp",
+      "Corsola",
+      "Luvdisc",
+      "Wishiwashi"
+    ],
+    "usum": [
+      "Tentacool",
+      "Wingull",
+      "Mantyke",
+      "Finneon",
+      "Magikarp",
+      "Corsola",
+      "Remoraid",
+      "Clamperl",
+      "Luvdisc",
+      "Wishiwashi"
+    ]
+  },
+  "image": "Melemele Sea USUM.png",
+  "type": "ocean",
+  "location_name": "Melemele Sea",
+  "japanese_name": "\u30e1\u30ec\u30e1\u30ec{{tt|\u6d77|\u304b\u3044}}",
+  "translated_name": "Melemele Sea",
+  "location": "[[Melemele Island]] ([[Alola Route 1|Route 1]])",
+  "mapdesc": "'''East part:''' The vast sea spreads, and various Pok\u00e9mon live among rocks.{{sup/7|USUM}}<br>'''West part:''' The sea is crowded with Melemele islanders, local Pok\u00e9mon, and visiting tourists all year round.",
+  "region": "Alola",
+  "generation": "{{gen|VII}}",
+  "mapsize": "250px"
+}

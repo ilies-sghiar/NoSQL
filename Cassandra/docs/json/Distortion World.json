@@ -1,0 +1,14 @@
+{
+  "encounters": {},
+  "image": "Distortion World.png",
+  "type": "distortion",
+  "location_name": "Distortion World",
+  "japanese_name": "\u3084\u3076\u308c\u305f\u305b\u304b\u3044",
+  "translated_name": "Torn World",
+  "location": "Alternate dimension",
+  "region": "Region{{!}}None",
+  "entrance": "Spear Pillar, Turnback Cave",
+  "generation": "{{Gen|IV}}",
+  "map": "Sinnoh Distortion World Map.png",
+  "mapname": "Sinnoh"
+}

@@ -1,0 +1,35 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Mr. Mime",
+      "Wingull",
+      "Floatzel",
+      "Gastrodon",
+      "Glameow",
+      "Purugly",
+      "Chatot",
+      "Tentacool",
+      "Tentacruel",
+      "Pelipper",
+      "Magikarp",
+      "Remoraid",
+      "Gyarados",
+      "Octillery",
+      "Sharpedo",
+      "Skitty",
+      "Flaaffy"
+    ]
+  },
+  "number": "222",
+  "size": "290",
+  "image": "Sinnoh Route 222 Pt.png",
+  "type": "land",
+  "west": "Valor Lakefront",
+  "east": "Sunyshore City",
+  "surf": "yes",
+  "cut": "yes",
+  "rocksmash": "yes",
+  "mapdesc": "A sandy beach extends from the road. The beach is busy with avid Fishermen happily casting at the water's edge.<br>A man who loves fishing lives near here. There is also a man who will compare sizes of caught fish. ",
+  "region": "Sinnoh",
+  "generation": "4"
+}

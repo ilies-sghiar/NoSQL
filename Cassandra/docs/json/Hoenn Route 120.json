@@ -1,0 +1,36 @@
+{
+  "encounters": {
+    "3": [
+      "Surskit",
+      "Seedot"
+    ],
+    "oras": [
+      "Gloom",
+      "Linoone",
+      "Kecleon",
+      "Tropius",
+      "Absol",
+      "Oddish",
+      "Marill",
+      "Azumarill",
+      "Surskit",
+      "Masquerain",
+      "Tentacool",
+      "Magikarp",
+      "Barboach",
+      "Goldeen"
+    ]
+  },
+  "number": "120",
+  "generation": "3",
+  "image": "Hoenn Route 120 ORAS.png",
+  "imageIII": "Hoenn Route 120 RS.png",
+  "type": "forest",
+  "mapdesc": "Pok\u00e9mon that can camouflage themselves hide in the rich wilds along this route.",
+  "east": "Route 121",
+  "regioneast": "Hoenn",
+  "west": "Fortree City",
+  "region": "Hoenn",
+  "cut": "yes",
+  "surf": "yes"
+}

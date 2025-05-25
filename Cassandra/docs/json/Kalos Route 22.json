@@ -1,0 +1,40 @@
+{
+  "encounters": {
+    "6": [
+      "Psyduck",
+      "Farfetch'd",
+      "Dunsparce",
+      "Azurill",
+      "Bidoof",
+      "Riolu",
+      "Bunnelby",
+      "Litleo",
+      "Azumarill",
+      "Bibarel",
+      "Diggersby",
+      "Magikarp",
+      "Goldeen",
+      "Carvanha",
+      "Seaking",
+      "Gyarados",
+      "Sharpedo"
+    ]
+  },
+  "number": "22",
+  "image": "Kalos Route 22 XY.png",
+  "size": "300",
+  "generation": "6",
+  "cut": "yes",
+  "surf": "yes",
+  "waterfall": "yes",
+  "strength": "yes",
+  "type": "land",
+  "mapdesc": "This lively path bustles with many Trainers and their Pok\u00e9mon, all gathered here to train themselves.",
+  "west": "Santalune City",
+  "south": "Chamber of Emptiness",
+  "east": "Victory Road (Kalos)",
+  "eastalt": "Victory Road",
+  "region": "Kalos",
+  "next": "Route 1",
+  "regionnext": "Alola"
+}

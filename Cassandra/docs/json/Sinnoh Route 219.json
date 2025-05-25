@@ -1,0 +1,25 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Tentacool",
+      "Tentacruel",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Finneon",
+      "Gyarados",
+      "Clamperl",
+      "Lumineon"
+    ]
+  },
+  "number": "219",
+  "image": "Sinnoh Route 219 Pt.png",
+  "type": "water",
+  "north": "Sandgem Town",
+  "south": "Route 220",
+  "regionsouth": "Sinnoh",
+  "region": "Sinnoh",
+  "surf": "yes",
+  "generation": "4",
+  "mapdesc": "A beautiful white-sand beach only five seconds on foot from Sandgem Town. A pleasant breeze flows from the sea. "
+}

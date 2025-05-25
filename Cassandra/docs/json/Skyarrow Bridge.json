@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "Skyarrow Bridge entrance BW.png",
+  "image_size": "256",
+  "type": "road",
+  "location_name": "Skyarrow Bridge",
+  "japanese_name": "\u30b9\u30ab\u30a4\u30a2\u30ed\u30fc\u30d6\u30ea\u30c3\u30b8 ",
+  "translated_name": "Skyarrow Bridge",
+  "mapdesc": "The biggest, longest bridge in Unova has four supporting towers.",
+  "location": "Between [[Pinwheel Forest]] and [[Castelia City]]",
+  "region": "Unova",
+  "generation": "{{gen|V}}"
+}

@@ -1,0 +1,27 @@
+{
+  "encounters": {
+    "5": [
+      "Munchlax"
+    ]
+  },
+  "name": "Undella Town",
+  "jpname": "\u30b5\u30b6\u30ca\u30df\u30bf\u30a6\u30f3",
+  "jptrans": "Sazanami Town",
+  "image": "Undella Town {{#switch: {{#expr: {{#time: n}} mod 4}}|0=Winter|1=Spring|2=Summer|3=Autumn}} B2W2.png",
+  "region": "Unova",
+  "generation": "5",
+  "slogan": "A Town of Rippling Waves",
+  "mapdesc": "A summer retreat with a beach full of people who enjoy summer vacations.",
+  "south": "Route 14",
+  "regionsouth": "Unova",
+  "north": "Route 13",
+  "regionnorth": "Unova",
+  "east": "Undella Bay",
+  "east2": "Marine Tube",
+  "east2alt": "Marine Tube{{tt|*|Black 2 and White 2}}",
+  "westalt": "Reversal Mountain{{tt|*|Black 2 and White 2}}",
+  "west": "Reversal Mountain",
+  "colordark": "1C5787",
+  "colormed": "3A82BD",
+  "colorlight": "68B4F2"
+}

@@ -1,0 +1,13 @@
+{
+  "encounters": {},
+  "image": "FL Lost Cave.png",
+  "image_size": "240",
+  "type": "cave",
+  "mapdesc": "A bewildering cave off the coast of Resort Gorgeous. Some curious thrill seekers have never emerged from it.",
+  "location_name": "Lost Cave",
+  "japanese_name": "\u304b\u3048\u3089\u305a\u306e\u3042\u306a",
+  "translated_name": "Cave of No Return",
+  "location": "East of [[Resort Gorgeous]]",
+  "region": "Sevii Islands",
+  "generation": "{{gen|III}}"
+}

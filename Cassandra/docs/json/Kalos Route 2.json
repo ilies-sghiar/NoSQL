@@ -1,0 +1,22 @@
+{
+  "encounters": {
+    "6": [
+      "Caterpie",
+      "Weedle",
+      "Pidgey",
+      "Zigzagoon",
+      "Fletchling",
+      "Bunnelby",
+      "Scatterbug"
+    ]
+  },
+  "number": "2",
+  "size": "250",
+  "generation": "6",
+  "image": "Kalos Route 2 XY.png",
+  "type": "land",
+  "mapdesc": "You'll find many Pok\u00e9mon hiding among the tall grass that grows in tufts along this trail.",
+  "north": "Santalune Forest",
+  "south": "Aquacorde Town",
+  "region": "Kalos"
+}

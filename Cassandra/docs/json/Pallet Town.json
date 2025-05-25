@@ -1,0 +1,53 @@
+{
+  "encounters": {
+    "1": [
+      "Magikarp",
+      "Poliwag",
+      "Goldeen",
+      "Tentacool",
+      "Staryu"
+    ],
+    "2": [
+      "Tentacool",
+      "Tentacruel",
+      "Magikarp",
+      "Shellder",
+      "Chinchou",
+      "Lanturn"
+    ],
+    "fl": [
+      "Tentacool",
+      "Magikarp",
+      "Krabby",
+      "Horsea",
+      "Psyduck",
+      "Slowpoke",
+      "Shellder",
+      "Kingler",
+      "Seadra",
+      "Staryu",
+      "Gyarados"
+    ],
+    "hs": [
+      "Tentacool",
+      "Tentacruel"
+    ]
+  },
+  "name": "Pallet Town",
+  "jpname": "\u30de\u30b5\u30e9\u30bf\u30a6\u30f3",
+  "jptrans": "Masara Town",
+  "image": "Pallet Town PE.png",
+  "imageI": "Pallet Town RBY.png",
+  "imageII": "Pallet Town GSC.png",
+  "imageIII": "Pallet Town FRLG.png",
+  "slogan": "Shades of Your Journey Await!",
+  "mapdesc": "A fairly new and quiet town. It's a small and pretty place.{{sup/4|HGSS}}<br>A small country town, home to Professor Oak's lab.{{sup/7|PE}}",
+  "region": "Kanto",
+  "north": "Route 1",
+  "regionnorth": "Kanto",
+  "south": "Route 21",
+  "regionsouth": "Kanto",
+  "colordark": "A8A8A8",
+  "colormed": "BDBDBD",
+  "colorlight": "D3D3D3"
+}

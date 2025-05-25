@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "4": [
+      "Magikarp",
+      "Barboach",
+      "Gyarados",
+      "Whiscash"
+    ],
+    "bdsp": [
+      "Zubat",
+      "Psyduck",
+      "Geodude",
+      "Golbat",
+      "Golduck",
+      "Magikarp",
+      "Barboach",
+      "Gyarados",
+      "Whiscash"
+    ]
+  },
+  "image": "Ravaged Path Pt.png",
+  "type": "cave",
+  "location_name": "Ravaged Path",
+  "japanese_name": "\u8352\u308c\u305f\u629c\u3051\u9053",
+  "translated_name": "Barren Path",
+  "location": "{{rt|204|Sinnoh}}",
+  "region": "Sinnoh",
+  "map": "Sinnoh Route 204 Map.png",
+  "generation": "{{Gen|IV}}, {{Gen|VIII}}"
+}

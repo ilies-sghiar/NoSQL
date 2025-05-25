@@ -1,0 +1,31 @@
+{
+  "encounters": {
+    "6": [
+      "Smeargle",
+      "Volbeat",
+      "Illumise",
+      "Roselia",
+      "Croagunk",
+      "Ducklett",
+      "Flab\u00e9b\u00e9",
+      "Spritzee",
+      "Swirlix",
+      "Psyduck",
+      "Hoppip"
+    ]
+  },
+  "number": "7",
+  "image": "Kalos Route 7 XY.png",
+  "size": "350",
+  "generation": "6",
+  "cut": "yes",
+  "type": "land",
+  "mapdesc": "The longest single road in the Kalos region runs straight alongside one of its greatest rivers.",
+  "north": "Kalos Route 6",
+  "northalt": "Route 6",
+  "east": "Camphrier Town",
+  "west": "Connecting Cave",
+  "south": "Berry fields (Kalos)",
+  "southalt": "Berry fields",
+  "region": "Kalos"
+}

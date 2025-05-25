@@ -1,0 +1,30 @@
+{
+  "encounters": {
+    "bdsp": [
+      "Tentacool",
+      "Tentacruel",
+      "Wingull",
+      "Pelipper",
+      "Magikarp",
+      "Finneon",
+      "Gyarados",
+      "Qwilfish",
+      "Lumineon",
+      "Zubat",
+      "Golbat",
+      "Geodude",
+      "Graveler",
+      "Onix",
+      "Steelix"
+    ]
+  },
+  "image": "Iron Island BDSP.png",
+  "type": "cave",
+  "location_name": "Iron Island",
+  "japanese_name": "{{tt|\u92fc\u9244\u5cf6|K\u014dtetsu Jima}}",
+  "translated_name": "Steel Island",
+  "mapdesc": "A small, ore-rich island that is off the coast of Eterna City.<br/>Inside the island are remnants of an iron ore mining operation from the past.",
+  "location": "Off the western coast of [[Sinnoh]]",
+  "region": "Sinnoh",
+  "generation": "{{gen|IV}}, {{gen|VIII}}"
+}

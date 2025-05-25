@@ -1,0 +1,12 @@
+{
+  "encounters": {},
+  "image": "Desert Resort entrance BWB2W2.png",
+  "type": "sand",
+  "location_name": "Desert Resort",
+  "japanese_name": "\u30ea\u30be\u30fc\u30c8\u30c7\u30b6\u30fc\u30c8",
+  "translated_name": "Resort Desert",
+  "location": "{{rt|4|Unova}}",
+  "region": "Unova",
+  "mapdesc": "It is a popular place for tourists, but too harsh to be a resort.",
+  "generation": "{{gen|V}}"
+}

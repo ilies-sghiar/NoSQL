@@ -1,0 +1,29 @@
+{
+  "encounters": {
+    "3": [
+      "Skitty",
+      "Plusle"
+    ]
+  },
+  "name": "Fortree City",
+  "jpname": "\u30d2\u30ef\u30de\u30ad\u30b7\u30c6\u30a3",
+  "jptrans": "Hiwamaki City",
+  "image": "Fortree City.png",
+  "slogan": "The treetop city that frolics with nature.",
+  "mapdesc": "The people and the Pok\u00e9mon of this city follow nature's cues to rise each morning and end each day.",
+  "region": "Hoenn",
+  "west": "Route 119",
+  "regionwest": "Hoenn",
+  "east": "Route 120",
+  "regioneast": "Hoenn",
+  "leader": "Winona",
+  "leadersprite": "VSWinona.png{{!}}150px",
+  "gym": "Fortree Gym",
+  "gymno": "6",
+  "badge": "Feather",
+  "gymtype": "Flying",
+  "colordark": "228B22",
+  "colormed": "58a758",
+  "colorlight": "90C590",
+  "generation": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "encounters": {
+    "fl": [
+      "Horsea",
+      "Qwilfish",
+      "Krabby",
+      "Remoraid",
+      "Gyarados",
+      "Seadra",
+      "Kingler",
+      "Psyduck",
+      "Slowpoke"
+    ]
+  },
+  "image": "Trainer Tower FRLG.png",
+  "type": "building",
+  "location_name": "Trainer Tower",
+  "japanese_name": "\u30c8\u30ec\u30fc\u30ca\u30fc\u30bf\u30ef\u30fc",
+  "translated_name": "Trainer Tower",
+  "location": "North of {{OBP|Seven Island|town}}",
+  "region": "Sevii Islands",
+  "generation": "{{Gen|III}}"
+}

@@ -1,0 +1,35 @@
+{
+  "encounters": {
+    "7": [
+      "Raticate",
+      "Slowpoke",
+      "Pelipper",
+      "Gumshoos",
+      "Crabrawler",
+      "Zygarde",
+      "Duosion"
+    ],
+    "usum": [
+      "Raticate",
+      "Slowpoke",
+      "Pelipper",
+      "Scraggy",
+      "Gumshoos",
+      "Crabrawler",
+      "Zygarde",
+      "Prinplup"
+    ]
+  },
+  "number": "16",
+  "size": "240",
+  "generation": "7",
+  "image": "Alola Route 16.png",
+  "type": "land",
+  "slogan": "Go quietly if you dare go down this path.",
+  "mapdesc": "Trainers all take a little break at the Pok\u00e9mon Center here before they proceed to Ula'ula Meadow.",
+  "north": "Ula'ula Meadow",
+  "south": "Route 15",
+  "regionsouth": "Alola",
+  "region": "Alola",
+  "mapsize": "250px"
+}

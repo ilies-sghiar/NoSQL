@@ -1,0 +1,46 @@
+{
+  "encounters": {
+    "7": [
+      "Raticate",
+      "Sandshrew",
+      "Vulpix",
+      "Pelipper",
+      "Absol",
+      "Snorunt",
+      "Gumshoos",
+      "Any",
+      "Graveler",
+      "Swinub"
+    ],
+    "usum": [
+      "Raticate",
+      "Sandshrew",
+      "Vulpix",
+      "Pelipper",
+      "Absol",
+      "Snorunt",
+      "Gumshoos",
+      "Any",
+      "Phantump",
+      "Swinub"
+    ]
+  },
+  "name": "Tapu Village",
+  "jpname": "\u30ab\u30d7\u306e{{tt|\u6751|\u3080\u3089}}",
+  "jptrans": "Kapu Village",
+  "image": "Tapu Village SM.png",
+  "region": "Alola",
+  "generation": "7",
+  "mapdesc": "The remains of a village said to have been destroyed by the island's tapu when the people roused its anger.",
+  "north": "Mount Lanakila",
+  "north2": "Route 15",
+  "regionnorth2": "Alola",
+  "south": "Route 14",
+  "regionsouth": "Alola",
+  "east": "Route 13",
+  "regioneast": "Alola",
+  "colordark": "{{locationcolor/dark|ruins}}",
+  "colormed": "{{locationcolor/med|ruins}}",
+  "colorlight": "{{fairy color light}}",
+  "mapsize": "250px"
+}

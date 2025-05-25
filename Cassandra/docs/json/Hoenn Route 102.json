@@ -1,0 +1,38 @@
+{
+  "encounters": {
+    "3": [
+      "Poochyena",
+      "Zigzagoon",
+      "Wurmple",
+      "Lotad",
+      "Seedot",
+      "Ralts",
+      "Surskit",
+      "Goldeen",
+      "Marill",
+      "Magikarp",
+      "Corphish"
+    ],
+    "oras": [
+      "Seedot",
+      "Marill",
+      "Azumarill",
+      "Surskit",
+      "Masquerain",
+      "Goldeen",
+      "Magikarp",
+      "Corphish"
+    ]
+  },
+  "number": "102",
+  "size": "290",
+  "generation": "3",
+  "image": "Hoenn Route 102 ORAS.png",
+  "imageIII": "Hoenn Route 102 RS.png",
+  "type": "land",
+  "mapdesc": "Many Trainers gather on this route in the hope of encountering Pok\u00e9mon in the wild.",
+  "west": "Petalburg City",
+  "east": "Oldale Town",
+  "surf": "yes",
+  "region": "Hoenn"
+}
