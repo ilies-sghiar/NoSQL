@@ -5,6 +5,6 @@ Le dossier **Cassandra/** regroupe les éléments correspondant à la partie 3, 
 ---
 
 <p align="center"> 
-<img src="Cassandra/logo.png" alt="Cassandra Logo" width="200" height="200"/> 
-<img src="MongoDB/logo.png" alt="Cassandra Logo" width="200" height="200" /> 
+<img src="Cassandra/logo.png" alt="Cassandra Logo" width="300" height="200"/> 
+<img src="MongoDB/logo.png" alt="Cassandra Logo" width="300" height="200" /> 
 </p>
