@@ -36,4 +36,8 @@ Q3.3-CompareExecutionTimes.py
 
 Q3.4-Requests.py
 
-<p align="center"> <img src="logo.png" alt="Cassandra Logo" width="200" /> </p>
+---
+
+<p align="center"> 
+<img src="logo.png" alt="Cassandra Logo" width="200" /> 
+</p>
